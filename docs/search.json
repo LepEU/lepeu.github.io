@@ -7,18 +7,11 @@
     "text": "About this site"
   },
   {
-    "objectID": "banner.html",
-    "href": "banner.html",
+    "objectID": "contact.html#join-us",
+    "href": "contact.html#join-us",
     "title": "LepEU",
-    "section": "",
-    "text": "./banner/qmd"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "LepEU",
-    "section": "",
-    "text": "#LepEU: ##European Lepidopteran Population Genomics Consortia"
+    "section": "Join Us",
+    "text": "Join Us\nIf you are interested in butterfly and moth evolutionary dynamics in Europe or elsewhere, you are welcome to join us. To join please complete this questionnaire. This will collect your email, location, question and species interests, how you want to contribute to LepEU, etc. Once completed, a confirmation email will be sent to you. Only then you have been registered properly."
   },
   {
     "objectID": "index.html#european-lepidopteran-population-genomics-consortia",
@@ -26,19 +19,5 @@
     "title": "LepEU:",
     "section": "European Lepidopteran Population Genomics Consortia",
     "text": "European Lepidopteran Population Genomics Consortia"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "LepEU",
-    "section": "",
-    "text": "Home\n    Join Us!"
-  },
-  {
-    "objectID": "contact.html#join-us",
-    "href": "contact.html#join-us",
-    "title": "LepEU",
-    "section": "Join Us",
-    "text": "Join Us\nIf you are interested in butterfly and moth evolutionary dynamics in Europe or elsewhere, you are welcome to join us. To join please complete this questionnaire. This will collect your email, location, question and species interests, how you want to contribute to LepEU, etc. Once completed, a confirmation email will be sent to you. Only then you have been registered properly."
   }
 ]
