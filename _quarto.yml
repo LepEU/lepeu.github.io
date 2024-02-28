@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "LepEU"
+  body-header: "./banner.qmd"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: members.qmd
+        text: Members
+      - href: organisation.qmd
+        text: Structure
+      - href: species.qmd
+        text: Species
+      - href: datapolicy.qmd
+        text: Data Sharing
+      - href: pubs.qmd #TODO: make blog post like!
+        text: Publications
+      - href: news.qmd
+        text: News
+      - href: contact.qmd
+        text: Join Us!
+    right:
+      - text: "{{< fa brands discord size=Large >}}"
+        aria-label: discord
+        href: https://discord.gg/2xpEmMWr
+  page-footer: "Banner Image: Copyright 2024, Olle Lindestad" 
+  
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: false
+
+
+
