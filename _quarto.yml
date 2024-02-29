@@ -27,14 +27,14 @@ website:
       - text: "{{< fa brands discord size=Large >}}"
         aria-label: discord
         href: https://discord.gg/2xpEmMWr
-  page-footer: "Banner Image: Copyright 2024, Olle Lindestad" 
+  page-footer: "" 
   
 
 format:
   html:
-    theme: sandstone
+    theme: slate
     css: styles.css
     toc: false
-
+    page-layout: full
 
 
