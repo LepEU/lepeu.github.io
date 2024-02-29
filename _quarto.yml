@@ -4,7 +4,7 @@ project:
 
 website:
   title: "LepEU"
-  body-header: "./banner.qmd"
+  #body-header: "./banner.qmd"
   navbar:
     left:
       - href: index.qmd
