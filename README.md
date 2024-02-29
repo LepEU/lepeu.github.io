@@ -11,4 +11,6 @@ This is the repo for LepEU's public facing web page. If you want to join LepEU c
 3. Once on your branch, use the the pencil icon on the top right to edit the relevant .qmd file. This are standard quarto **markdown** files and so you can use markdown for your formatting pleasure.
 4. Once you have made your changes, hit the green `Commit changes...` but on the top right.
 5. Merge your branch with `main` branches
-6. ......
+6. Go back to main page of the repo, select our branch if it is not selected already and hit `Compare and Pull Request`
+7. Make sure to enter the required descriptions for the Pull Request
+8. .....
