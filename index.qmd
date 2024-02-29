@@ -21,17 +21,6 @@ include-in-header:
 #pageTitle: "Join Us! | LepEU"
 ---
 
-```{=html}
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Data Sharing Policy</li>
-  </ol>
-</nav>
-```
-
-
-
 # Who are we?
 
 # What do you want to do?
