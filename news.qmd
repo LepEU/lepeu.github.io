@@ -28,3 +28,4 @@ include-in-header:
     <li class="breadcrumb-item active" aria-current="page">News</li>
   </ol>
 </nav>
+```
