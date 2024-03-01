@@ -23,6 +23,6 @@ include-in-header:
 
 # Who are we?
 
-# What do you want to do?
+# What do we want to do?
 
 # Why does it matter?
