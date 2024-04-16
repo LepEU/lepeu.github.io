@@ -3,9 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "LepEU"
   #body-header: "./banner.qmd"
   navbar:
+    title: ""
+    logo: "./images/LepEU transparent.png"
     left:
       - href: index.qmd
         text: Home
@@ -23,11 +24,11 @@ website:
         text: News
       - href: contact.qmd
         text: Join Us!
+  page-footer:  
     right:
       - text: "{{< fa brands discord size=Large >}}"
         aria-label: discord
         href: https://discord.gg/2xpEmMWr
-  page-footer: "" 
   
 
 format:
