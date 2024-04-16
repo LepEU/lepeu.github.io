@@ -5,7 +5,7 @@ project:
 website:
   #body-header: "./banner.qmd"
   navbar:
-    title: ""
+    title: false
     logo: "./images/LepEU transparent.png"
     left:
       - href: index.qmd
@@ -25,7 +25,7 @@ website:
       - href: contact.qmd
         text: Join Us!
   page-footer:  
-    right:
+    center:
       - text: "{{< fa brands discord size=Large >}}"
         aria-label: discord
         href: https://discord.gg/2xpEmMWr
