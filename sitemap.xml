@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://LepEU.github.io/lepeu.github.io/news.html</loc>
-    <lastmod>2024-04-16T22:04:28.632Z</lastmod>
-  </url>
-  <url>
-    <loc>https://LepEU.github.io/lepeu.github.io/species.html</loc>
-    <lastmod>2024-04-16T22:04:28.632Z</lastmod>
-  </url>
-  <url>
-    <loc>https://LepEU.github.io/lepeu.github.io/members.html</loc>
-    <lastmod>2024-04-16T22:04:28.632Z</lastmod>
-  </url>
-  <url>
-    <loc>https://LepEU.github.io/lepeu.github.io/banner.html</loc>
-    <lastmod>2024-04-16T22:04:28.604Z</lastmod>
+    <loc>https://LepEU.github.io/lepeu.github.io/pubs.html</loc>
+    <lastmod>2024-04-16T22:22:39.170Z</lastmod>
   </url>
   <url>
     <loc>https://LepEU.github.io/lepeu.github.io/datapolicy.html</loc>
-    <lastmod>2024-04-16T22:04:28.604Z</lastmod>
+    <lastmod>2024-04-16T22:22:39.142Z</lastmod>
   </url>
   <url>
-    <loc>https://LepEU.github.io/lepeu.github.io/index.html</loc>
-    <lastmod>2024-04-16T22:04:28.632Z</lastmod>
+    <loc>https://LepEU.github.io/lepeu.github.io/species.html</loc>
+    <lastmod>2024-04-16T22:22:39.170Z</lastmod>
   </url>
   <url>
-    <loc>https://LepEU.github.io/lepeu.github.io/pubs.html</loc>
-    <lastmod>2024-04-16T22:04:28.632Z</lastmod>
+    <loc>https://LepEU.github.io/lepeu.github.io/news.html</loc>
+    <lastmod>2024-04-16T22:22:39.170Z</lastmod>
   </url>
   <url>
-    <loc>https://LepEU.github.io/lepeu.github.io/organisation.html</loc>
-    <lastmod>2024-04-16T22:04:28.632Z</lastmod>
+    <loc>https://LepEU.github.io/lepeu.github.io/members.html</loc>
+    <lastmod>2024-04-16T22:22:39.170Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LepEU.github.io/lepeu.github.io/banner.html</loc>
+    <lastmod>2024-04-16T22:22:39.142Z</lastmod>
   </url>
   <url>
     <loc>https://LepEU.github.io/lepeu.github.io/contact.html</loc>
-    <lastmod>2024-04-16T22:04:28.604Z</lastmod>
+    <lastmod>2024-04-16T22:22:39.142Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LepEU.github.io/lepeu.github.io/organisation.html</loc>
+    <lastmod>2024-04-16T22:22:39.170Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LepEU.github.io/lepeu.github.io/index.html</loc>
+    <lastmod>2024-04-16T22:22:39.170Z</lastmod>
   </url>
 </urlset>
