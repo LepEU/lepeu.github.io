@@ -1,5 +1,6 @@
 ---
 title: "LepEU: European Lepidopteran Population Genomics Consortia"
+toc: true
 title-block-banner: "#00000000"
 title-block-banner-color: "#000"
 include-in-header:
@@ -29,36 +30,36 @@ include-in-header:
 </nav>
 ```
 
-## LepEU organization
 
-LepEU is organised under regional hubs that represent the current extent of our sampling.
-
-### Co-organizers of LepEU:
+## Co-organizers of LepEU:
 
 - Patrícia Beldade, Faculty of Sciences of the University of Lisbon, PT. 
 - Christopher Wheat, Stockholm University, SE
 
-### Regional collection coordination:
+## Regional collection coordination:
 
  <!-- TODO: Make map interactive with hubs e.g. highlight hub when selected on map --> 
 
 ![](./images/hubs.png){.hero}
 
-#### North:
+### North:
 
 - **Finland**:flag-ga: Marjo Saastamoinen, University of Helsinki. 
 - **Sweden**: Niklas Wahlberg, Lund University. 
 - **United Kingdom**: Joana Meier and Charlotte Wright, Wellcome Sanger Institute. 
 
-#### Central:
+### Central:
 
 - **Poland**: Richard Bailey, University of Lodz. 
 - **Germany**: Matthew Nielsen, University of Bremen. 
 - **Switzerland**: Kay Lucek, University of Neuchâtel.  
 - **France**: Mathieu Joron, Centre for Evolutionary and Functional Ecology (CEFE-CNRS). 
 
-#### South:
+### South:
 
 - **Spain**: Constanti Stefanescu, Museum of Natural Sciences of Granollers. 
 - **Italy**: Emiliano Trucci, Marche Polytechnic University. 
 
+## Web administration and PR:
+
+- **Web Administrator**: Saad Arif, Oxford Brookes, University, GB.
