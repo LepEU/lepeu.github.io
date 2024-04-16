@@ -20,7 +20,7 @@ include-in-header:
       </style>
 ---
 
- ## European Lepidopteran Population Genomics Consortium
+## European Lepidopteran Population Genomics Consortium
 
 **W**e are a collection of researchers focused upon sampling populations of Lepidoptera
 species across Europe, to look for patterns of local adaptation across latitudes and through
