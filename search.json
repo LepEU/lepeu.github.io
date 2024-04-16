@@ -63,11 +63,25 @@
     "text": "Home\n    Organisation"
   },
   {
-    "objectID": "organisation.html#lepeu-organization",
-    "href": "organisation.html#lepeu-organization",
+    "objectID": "organisation.html#co-organizers-of-lepeu",
+    "href": "organisation.html#co-organizers-of-lepeu",
     "title": "LepEU: European Lepidopteran Population Genomics Consortia",
-    "section": "LepEU organization",
-    "text": "LepEU organization\nLepEU is organised under regional hubs that represent the current extent of our sampling.\n\nCo-organizers of LepEU:\n\nPatrícia Beldade, Faculty of Sciences of the University of Lisbon, PT.\nChristopher Wheat, Stockholm University, SE\n\n\n\nRegional collection coordination:\n\n\n\nNorth:\n\nFinland:flag-ga: Marjo Saastamoinen, University of Helsinki.\nSweden: Niklas Wahlberg, Lund University.\nUnited Kingdom: Joana Meier and Charlotte Wright, Wellcome Sanger Institute.\n\n\n\nCentral:\n\nPoland: Richard Bailey, University of Lodz.\nGermany: Matthew Nielsen, University of Bremen.\nSwitzerland: Kay Lucek, University of Neuchâtel.\n\nFrance: Mathieu Joron, Centre for Evolutionary and Functional Ecology (CEFE-CNRS).\n\n\n\nSouth:\n\nSpain: Constanti Stefanescu, Museum of Natural Sciences of Granollers.\nItaly: Emiliano Trucci, Marche Polytechnic University."
+    "section": "Co-organizers of LepEU:",
+    "text": "Co-organizers of LepEU:\n\nPatrícia Beldade, Faculty of Sciences of the University of Lisbon, PT.\nChristopher Wheat, Stockholm University, SE"
+  },
+  {
+    "objectID": "organisation.html#regional-collection-coordination",
+    "href": "organisation.html#regional-collection-coordination",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortia",
+    "section": "Regional collection coordination:",
+    "text": "Regional collection coordination:\n\n\n\nNorth:\n\nFinland:flag-ga: Marjo Saastamoinen, University of Helsinki.\nSweden: Niklas Wahlberg, Lund University.\nUnited Kingdom: Joana Meier and Charlotte Wright, Wellcome Sanger Institute.\n\n\n\nCentral:\n\nPoland: Richard Bailey, University of Lodz.\nGermany: Matthew Nielsen, University of Bremen.\nSwitzerland: Kay Lucek, University of Neuchâtel.\n\nFrance: Mathieu Joron, Centre for Evolutionary and Functional Ecology (CEFE-CNRS).\n\n\n\nSouth:\n\nSpain: Constanti Stefanescu, Museum of Natural Sciences of Granollers.\nItaly: Emiliano Trucci, Marche Polytechnic University."
+  },
+  {
+    "objectID": "organisation.html#web-administration-and-pr",
+    "href": "organisation.html#web-administration-and-pr",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortia",
+    "section": "Web administration and PR:",
+    "text": "Web administration and PR:\n\nWeb Administrator: Saad Arif, Oxford Brookes, University, GB."
   },
   {
     "objectID": "contact.html",
