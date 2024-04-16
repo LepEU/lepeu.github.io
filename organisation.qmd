@@ -36,7 +36,7 @@ include-in-header:
 - Patrícia Beldade, Faculty of Sciences of the University of Lisbon, PT. 
 - Christopher Wheat, Stockholm University, SE
 
-## Regional collection coordination:
+## Regional collection coordination
 
  <!-- TODO: Make map interactive with hubs e.g. highlight hub when selected on map --> 
 
@@ -60,6 +60,6 @@ include-in-header:
 - **Spain**: Constanti Stefanescu, Museum of Natural Sciences of Granollers. 
 - **Italy**: Emiliano Trucci, Marche Polytechnic University. 
 
-## Web administration and PR
+## Web administration and public outreach
 
 - **Web Administrator**: Saad Arif, Oxford Brookes, University, GB.
