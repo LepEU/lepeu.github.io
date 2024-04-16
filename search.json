@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "datapolicy.html",
-    "href": "datapolicy.html",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortia",
-    "section": "",
-    "text": "Home\n    Data Sharing Policy"
-  },
-  {
     "objectID": "news.html",
     "href": "news.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortia",
@@ -14,18 +7,11 @@
     "text": "Home\n    News"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
+    "objectID": "species.html",
+    "href": "species.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortia",
     "section": "",
-    "text": "Home\n    Join Us!"
-  },
-  {
-    "objectID": "contact.html#join-us",
-    "href": "contact.html#join-us",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortia",
-    "section": "Join Us",
-    "text": "Join Us\nIf you are interested in butterfly and moth evolutionary dynamics in Europe or elsewhere, you are welcome to join us. To join please complete this questionnaire. This will collect your email, location, question and species interests, how you want to contribute to LepEU, etc. Once completed, a confirmation email will be sent to you. Only then you have been registered properly."
+    "text": "Home\n    Species\n  \n\nSpecies we intend to focus on."
   },
   {
     "objectID": "members.html",
@@ -35,11 +21,11 @@
     "text": "Home\n    Members"
   },
   {
-    "objectID": "organisation.html",
-    "href": "organisation.html",
+    "objectID": "datapolicy.html",
+    "href": "datapolicy.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortia",
     "section": "",
-    "text": "Home\n    Organisation"
+    "text": "Home\n    Data Sharing Policy"
   },
   {
     "objectID": "index.html",
@@ -56,10 +42,24 @@
     "text": "Home\n    Publications"
   },
   {
-    "objectID": "species.html",
-    "href": "species.html",
+    "objectID": "organisation.html",
+    "href": "organisation.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortia",
     "section": "",
-    "text": "Home\n    Species\n  \n\nSpecies we intend to focus on."
+    "text": "Home\n    Organisation"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortia",
+    "section": "",
+    "text": "Home\n    Join Us!"
+  },
+  {
+    "objectID": "contact.html#join-us",
+    "href": "contact.html#join-us",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortia",
+    "section": "Join Us",
+    "text": "Join Us\nIf you are interested in butterfly and moth evolutionary dynamics in Europe or elsewhere, you are welcome to join us. To join please complete this questionnaire. This will collect your email, location, question and species interests, how you want to contribute to LepEU, etc. Once completed, a confirmation email will be sent to you. Only then you have been registered properly."
   }
 ]
