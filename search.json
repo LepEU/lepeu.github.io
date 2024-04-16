@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "news.html",
-    "href": "news.html",
+    "objectID": "pubs.html",
+    "href": "pubs.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortia",
     "section": "",
-    "text": "Home\n    News"
-  },
-  {
-    "objectID": "species.html",
-    "href": "species.html",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortia",
-    "section": "",
-    "text": "Home\n    Species\n  \n\nSpecies we intend to focus on."
-  },
-  {
-    "objectID": "members.html",
-    "href": "members.html",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortia",
-    "section": "",
-    "text": "Home\n    Members"
+    "text": "Home\n    Publications"
   },
   {
     "objectID": "datapolicy.html",
@@ -28,25 +14,25 @@
     "text": "Home\n    Data Sharing Policy"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "species.html",
+    "href": "species.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortia",
     "section": "",
-    "text": "Who are we?\n\n\nWhat do we want to do?\n\n\nWhy does it matter?"
+    "text": "Home\n    Species\n  \n\nSpecies we intend to focus on."
   },
   {
-    "objectID": "pubs.html",
-    "href": "pubs.html",
+    "objectID": "news.html",
+    "href": "news.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortia",
     "section": "",
-    "text": "Home\n    Publications"
+    "text": "Home\n    News"
   },
   {
-    "objectID": "organisation.html",
-    "href": "organisation.html",
+    "objectID": "members.html",
+    "href": "members.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortia",
     "section": "",
-    "text": "Home\n    Organisation"
+    "text": "Home\n    Members"
   },
   {
     "objectID": "contact.html",
@@ -61,5 +47,33 @@
     "title": "LepEU: European Lepidopteran Population Genomics Consortia",
     "section": "Join Us",
     "text": "Join Us\nIf you are interested in butterfly and moth evolutionary dynamics in Europe or elsewhere, you are welcome to join us. To join please complete this questionnaire. This will collect your email, location, question and species interests, how you want to contribute to LepEU, etc. Once completed, a confirmation email will be sent to you. Only then you have been registered properly."
+  },
+  {
+    "objectID": "organisation.html",
+    "href": "organisation.html",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortia",
+    "section": "",
+    "text": "Home\n    Organisation"
+  },
+  {
+    "objectID": "organisation.html#lepeu-organization",
+    "href": "organisation.html#lepeu-organization",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortia",
+    "section": "LepEU organization",
+    "text": "LepEU organization\nLepEU is organised under regional hubs that represent the current extent of our sampling.\n\nCo-organizers of LepEU:\n\nPatrícia Beldade, Faculty of Sciences of the University of Lisbon, PT.\nChristopher Wheat, Stockholm University, SE\n\n\n\nRegional collection coordination:\n\n\n\nNorth:\n\nFinland:flag-ga: Marjo Saastamoinen, University of Helsinki.\nSweden: Niklas Wahlberg, Lund University.\nUnited Kingdom: Joana Meier and Charlotte Wright, Wellcome Sanger Institute.\n\n\n\nCentral:\n\nPoland: Richard Bailey, University of Lodz.\nGermany: Matthew Nielsen, University of Bremen.\nSwitzerland: Kay Lucek, University of Neuchâtel.\n\nFrance: Mathieu Joron, Centre for Evolutionary and Functional Ecology (CEFE-CNRS).\n\n\n\nSouth:\n\nSpain: Constanti Stefanescu, Museum of Natural Sciences of Granollers.\nItaly: Emiliano Trucci, Marche Polytechnic University."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortia",
+    "section": "",
+    "text": "## European Lepidopteran Population Genomics Consortium\nWe are a collection of researchers focused upon sampling populations of Lepidoptera species across Europe, to look for patterns of local adaptation across latitudes and through seasons.\nLarge scale genome sequencing initiatives are now focused upon generating high quality reference genomes for diverse species, including Lepidoptera. By the end of 2024, Project Psyche expects to generate 1000 genomes of European Lepidoptera, with a goal of sequencing nearly all 11,000 within the coming 5 to 10 years.\nLepEU is focused upon using these emerging genomes to gain insights into the patterns of local adaption across Europe, exploring how species adapt across latitudes, elevation, and through seasons. We are currently focused upon field collections and will move into data generation in the fall of 2024 for our currently targets species. Our aim is to generate individual level re-sequencing data for diverse populations that are of shared interest to LepEU members."
+  },
+  {
+    "objectID": "index.html#join-us",
+    "href": "index.html#join-us",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortia",
+    "section": "Join Us",
+    "text": "Join Us\nif you would like to join or paricipate, please check out the Join Us page"
   }
 ]
