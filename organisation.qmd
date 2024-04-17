@@ -1,6 +1,7 @@
 ---
-title: "LepEU: European Lepidopteran Population Genomics Consortia"
+title: "LepEU: European Lepidopteran Population Genomics Consortium"
 toc: true
+toc-location: left
 title-block-banner: "#00000000"
 title-block-banner-color: "#000"
 include-in-header:
