@@ -13,7 +13,7 @@ website:
       - href: members.qmd
         text: Members
       - href: organisation.qmd
-        text: Structure
+        text: Organisation
       - href: species.qmd
         text: Species
       - href: datapolicy.qmd
