@@ -34,7 +34,7 @@ include-in-header:
 ## Co-organizers of LepEU
 
 - Patrícia Beldade, Faculty of Sciences of the University of Lisbon, PT. 
-- Christopher Wheat, Stockholm University, SE
+- Christopher Wheat, Stockholm University, SE.
 
 ## Regional collection coordination
 
@@ -44,7 +44,7 @@ include-in-header:
 
 ### North
 
-- **Finland**:flag-ga: Marjo Saastamoinen, University of Helsinki. 
+- **Finland**: Marjo Saastamoinen, University of Helsinki. 
 - **Sweden**: Niklas Wahlberg, Lund University. 
 - **United Kingdom**: Joana Meier and Charlotte Wright, Wellcome Sanger Institute. 
 
