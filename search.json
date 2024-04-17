@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "news.html",
-    "href": "news.html",
+    "objectID": "pubs.html",
+    "href": "pubs.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortia",
     "section": "",
-    "text": "Home\n    News"
+    "text": "Home\n    Publications"
+  },
+  {
+    "objectID": "datapolicy.html",
+    "href": "datapolicy.html",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortia",
+    "section": "",
+    "text": "Home\n    Data Sharing Policy"
   },
   {
     "objectID": "species.html",
@@ -14,6 +21,13 @@
     "text": "Home\n    Species\n  \n\nSpecies we intend to focus on."
   },
   {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortia",
+    "section": "",
+    "text": "Home\n    News"
+  },
+  {
     "objectID": "members.html",
     "href": "members.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortia",
@@ -21,11 +35,46 @@
     "text": "Home\n    Members"
   },
   {
-    "objectID": "datapolicy.html",
-    "href": "datapolicy.html",
+    "objectID": "contact.html",
+    "href": "contact.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortia",
     "section": "",
-    "text": "Home\n    Data Sharing Policy"
+    "text": "Home\n    Join Us!"
+  },
+  {
+    "objectID": "contact.html#join-us",
+    "href": "contact.html#join-us",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortia",
+    "section": "Join Us",
+    "text": "Join Us\nIf you are interested in butterfly and moth evolutionary dynamics in Europe or elsewhere, you are welcome to join us. To join please complete this questionnaire. This will collect your email, location, question and species interests, how you want to contribute to LepEU, etc. Once completed, a confirmation email will be sent to you. Only then you have been registered properly."
+  },
+  {
+    "objectID": "organisation.html",
+    "href": "organisation.html",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortia",
+    "section": "",
+    "text": "Home\n    Organisation"
+  },
+  {
+    "objectID": "organisation.html#co-organizers-of-lepeu",
+    "href": "organisation.html#co-organizers-of-lepeu",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortia",
+    "section": "Co-organizers of LepEU",
+    "text": "Co-organizers of LepEU\n\nPatrícia Beldade, Faculty of Sciences of the University of Lisbon, PT.\nChristopher Wheat, Stockholm University, SE."
+  },
+  {
+    "objectID": "organisation.html#regional-collection-coordination",
+    "href": "organisation.html#regional-collection-coordination",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortia",
+    "section": "Regional collection coordination",
+    "text": "Regional collection coordination\n\n\n\nNorth\n\nFinland: Marjo Saastamoinen, University of Helsinki.\nSweden: Niklas Wahlberg, Lund University.\nUnited Kingdom: Joana Meier and Charlotte Wright, Wellcome Sanger Institute.\n\n\n\nCentral\n\nPoland: Richard Bailey, University of Lodz.\nGermany: Matthew Nielsen, University of Bremen.\nSwitzerland: Kay Lucek, University of Neuchâtel.\n\nFrance: Mathieu Joron, Centre for Evolutionary and Functional Ecology (CEFE-CNRS).\n\n\n\nSouth\n\nSpain: Constanti Stefanescu, Museum of Natural Sciences of Granollers.\nItaly: Emiliano Trucci, Marche Polytechnic University."
+  },
+  {
+    "objectID": "organisation.html#web-administration-and-public-outreach",
+    "href": "organisation.html#web-administration-and-public-outreach",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortia",
+    "section": "Web administration and public outreach",
+    "text": "Web administration and public outreach\n\nWeb Administrator: Saad Arif, Oxford Brookes, University, GB."
   },
   {
     "objectID": "index.html",
@@ -47,54 +96,5 @@
     "title": "LepEU: European Lepidopteran Population Genomics Consortia",
     "section": "Join Us",
     "text": "Join Us\nif you would like to join or paricipate, please check out the Join Us page"
-  },
-  {
-    "objectID": "pubs.html",
-    "href": "pubs.html",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortia",
-    "section": "",
-    "text": "Home\n    Publications"
-  },
-  {
-    "objectID": "organisation.html",
-    "href": "organisation.html",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortia",
-    "section": "",
-    "text": "Home\n    Organisation"
-  },
-  {
-    "objectID": "organisation.html#co-organizers-of-lepeu",
-    "href": "organisation.html#co-organizers-of-lepeu",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortia",
-    "section": "Co-organizers of LepEU",
-    "text": "Co-organizers of LepEU\n\nPatrícia Beldade, Faculty of Sciences of the University of Lisbon, PT.\nChristopher Wheat, Stockholm University, SE"
-  },
-  {
-    "objectID": "organisation.html#regional-collection-coordination",
-    "href": "organisation.html#regional-collection-coordination",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortia",
-    "section": "Regional collection coordination",
-    "text": "Regional collection coordination\n\n\n\nNorth\n\nFinland:flag-ga: Marjo Saastamoinen, University of Helsinki.\nSweden: Niklas Wahlberg, Lund University.\nUnited Kingdom: Joana Meier and Charlotte Wright, Wellcome Sanger Institute.\n\n\n\nCentral\n\nPoland: Richard Bailey, University of Lodz.\nGermany: Matthew Nielsen, University of Bremen.\nSwitzerland: Kay Lucek, University of Neuchâtel.\n\nFrance: Mathieu Joron, Centre for Evolutionary and Functional Ecology (CEFE-CNRS).\n\n\n\nSouth\n\nSpain: Constanti Stefanescu, Museum of Natural Sciences of Granollers.\nItaly: Emiliano Trucci, Marche Polytechnic University."
-  },
-  {
-    "objectID": "organisation.html#web-administration-and-public-outreach",
-    "href": "organisation.html#web-administration-and-public-outreach",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortia",
-    "section": "Web administration and public outreach",
-    "text": "Web administration and public outreach\n\nWeb Administrator: Saad Arif, Oxford Brookes, University, GB."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortia",
-    "section": "",
-    "text": "Home\n    Join Us!"
-  },
-  {
-    "objectID": "contact.html#join-us",
-    "href": "contact.html#join-us",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortia",
-    "section": "Join Us",
-    "text": "Join Us\nIf you are interested in butterfly and moth evolutionary dynamics in Europe or elsewhere, you are welcome to join us. To join please complete this questionnaire. This will collect your email, location, question and species interests, how you want to contribute to LepEU, etc. Once completed, a confirmation email will be sent to you. Only then you have been registered properly."
   }
 ]
