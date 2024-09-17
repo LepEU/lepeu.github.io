@@ -7,10 +7,10 @@ author:
     affiliation: Department of Zoology, Stockholm University
     affiliation-url: http://www.zoologi.su.se/en/about/staff/person.php?suuid=cwhea
 date: 09-17-2024
-categories: [funding, training, networking] # self-defined categories
+categories: [funding, training, networking] # self-defined categorie
 #citation: 
 #  url: https://lepeu.github.io/news/2024-09-17-cost_action_signup/ 
-image: What_are_COST_Actions.png
+image: undraw_connected_world_wuay.png 
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 

@@ -35,7 +35,9 @@ website:
 
 format:
   html:
-    theme: slate
+    theme: 
+      dark: slate
+      light: cosmo
     css: styles.css
     toc: false
     page-layout: full
