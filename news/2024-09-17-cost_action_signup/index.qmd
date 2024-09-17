@@ -1,0 +1,29 @@
+---
+title: "Signup details for COST Action Network funding"
+description: "Signup for funded LepEU training and networking activities"
+author:
+  - name: Christopher Wheat
+    url: https://christopherwheatlab.wordpress.com/
+    affiliation: Department of Zoology, Stockholm University
+    affiliation-url: http://www.zoologi.su.se/en/about/staff/person.php?suuid=cwhea
+date: 09-17-2024
+categories: [funding, training, networking] # self-defined categories
+#citation: 
+#  url: https://lepeu.github.io/news/2024-09-17-cost_action_signup/ 
+image: What_are_COST_Actions.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+## Signup details for COST Action Network funding
+
+LepEU is part of the recently funded 10kLepGenomes COST Action Network. This network has 5 working groups (1.Societal needs; 2.Speciment collection for genomic work; 3.Reference genome assembly and comparative genomic analyses; 4.Population genomic analyses; 5.Applied uses of results). LepEU interests primarily fall within WG2 and WG4, while Psyche interests fall with WG2 and WG4. But, we all likely have some interest in more working groups.
+ 
+The COST action means that we have funding for our community to attend in person meetings, organize student placements and run training events. These interactions will also allow us to transport samples, coordinate DNA extractions, and develop our community in connection with Psyche and others. In the immediate future, we are looking forward to planning an in-person meeting to discuss regional sampling, DNA extractions, methods and analyses.
+ 
+To benefit from this funding and attend meetings and workshops organized by this action, you need to be registered to the COST action. You can sign up to 1-3 working groups depending on your interests. You can read more about the action and sign up here: <https://www.cost.eu/actions/CA23122/>
+ 
+When applying to join, you will be asked to provide a brief summary of your motivation and how you would contribute to the working group. This does not need to be in depth but including details of what interests you, and what you would like to see planned, will be extremely useful in shaping what we will achieve during the action.
+ 
+Early-career researchers, including students, are particularly encouraged to join as the action will provide exciting opportunities for training, engaging in exchanges and attending meetings. Please feel free to share the invite with your lab members and others that you think would be interested in joining. 
+ 
+So, please go and sign-up ASAP (**before October 1**).

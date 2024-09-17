@@ -1,1 +1,21 @@
 /* css styles */
+
+/*control size of logo on bootstrap nav-bar logo*/
+.navbar-logo {
+  height: 80px !important;
+  width: 100px !important;
+  max-width: unset !important;
+  max-height: unset !important;
+}
+
+/* for banner images on middle of page*/
+
+.hero {
+  width: 350px;
+  height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
