@@ -7,13 +7,6 @@
     "text": "Home\n    Publications"
   },
   {
-    "objectID": "datapolicy.html",
-    "href": "datapolicy.html",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "",
-    "text": "Home\n    Data Sharing Policy"
-  },
-  {
     "objectID": "species.html",
     "href": "species.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
@@ -21,32 +14,46 @@
     "text": "Home\n    Species\n  \n\nSpecies we intend to focus on."
   },
   {
-    "objectID": "news.html",
-    "href": "news.html",
+    "objectID": "datapolicy.html",
+    "href": "datapolicy.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "",
-    "text": "Home\n    News"
+    "text": "Home\n    Data Sharing Policy"
   },
   {
-    "objectID": "members.html",
-    "href": "members.html",
+    "objectID": "news/2024-09-17-cost_action_signup/index.html",
+    "href": "news/2024-09-17-cost_action_signup/index.html",
+    "title": "Signup details for COST Action Network funding",
+    "section": "",
+    "text": "LepEU is part of the recently funded 10kLepGenomes COST Action Network. This network has 5 working groups (1.Societal needs; 2.Speciment collection for genomic work; 3.Reference genome assembly and comparative genomic analyses; 4.Population genomic analyses; 5.Applied uses of results). LepEU interests primarily fall within WG2 and WG4, while Psyche interests fall with WG2 and WG4. But, we all likely have some interest in more working groups.\nThe COST action means that we have funding for our community to attend in person meetings, organize student placements and run training events. These interactions will also allow us to transport samples, coordinate DNA extractions, and develop our community in connection with Psyche and others. In the immediate future, we are looking forward to planning an in-person meeting to discuss regional sampling, DNA extractions, methods and analyses.\nTo benefit from this funding and attend meetings and workshops organized by this action, you need to be registered to the COST action. You can sign up to 1-3 working groups depending on your interests. You can read more about the action and sign up here: https://www.cost.eu/actions/CA23122/\nWhen applying to join, you will be asked to provide a brief summary of your motivation and how you would contribute to the working group. This does not need to be in depth but including details of what interests you, and what you would like to see planned, will be extremely useful in shaping what we will achieve during the action.\nEarly-career researchers, including students, are particularly encouraged to join as the action will provide exciting opportunities for training, engaging in exchanges and attending meetings. Please feel free to share the invite with your lab members and others that you think would be interested in joining.\nSo, please go and sign-up ASAP (before October 1)."
+  },
+  {
+    "objectID": "news/2024-09-17-cost_action_signup/index.html#signup-details-for-cost-action-network-funding",
+    "href": "news/2024-09-17-cost_action_signup/index.html#signup-details-for-cost-action-network-funding",
+    "title": "Signup details for COST Action Network funding",
+    "section": "",
+    "text": "LepEU is part of the recently funded 10kLepGenomes COST Action Network. This network has 5 working groups (1.Societal needs; 2.Speciment collection for genomic work; 3.Reference genome assembly and comparative genomic analyses; 4.Population genomic analyses; 5.Applied uses of results). LepEU interests primarily fall within WG2 and WG4, while Psyche interests fall with WG2 and WG4. But, we all likely have some interest in more working groups.\nThe COST action means that we have funding for our community to attend in person meetings, organize student placements and run training events. These interactions will also allow us to transport samples, coordinate DNA extractions, and develop our community in connection with Psyche and others. In the immediate future, we are looking forward to planning an in-person meeting to discuss regional sampling, DNA extractions, methods and analyses.\nTo benefit from this funding and attend meetings and workshops organized by this action, you need to be registered to the COST action. You can sign up to 1-3 working groups depending on your interests. You can read more about the action and sign up here: https://www.cost.eu/actions/CA23122/\nWhen applying to join, you will be asked to provide a brief summary of your motivation and how you would contribute to the working group. This does not need to be in depth but including details of what interests you, and what you would like to see planned, will be extremely useful in shaping what we will achieve during the action.\nEarly-career researchers, including students, are particularly encouraged to join as the action will provide exciting opportunities for training, engaging in exchanges and attending meetings. Please feel free to share the invite with your lab members and others that you think would be interested in joining.\nSo, please go and sign-up ASAP (before October 1)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "",
-    "text": "Home\n    Members"
+    "text": "We are a collection of researchers focused upon sampling populations of Lepidoptera species across Europe, to look for patterns of local adaptation across latitudes and through seasons.\nLarge scale genome sequencing initiatives are now focused upon generating high quality reference genomes for diverse species, including Lepidoptera. By the end of 2024, Project Psyche expects to generate 1000 genomes of European Lepidoptera, with a goal of sequencing nearly all 11,000 within the coming 5 to 10 years.\nLepEU is focused upon using these emerging genomes to gain insights into the patterns of local adaption across Europe, exploring how species adapt across latitudes, elevation, and through seasons. We are currently focused upon field collections and will move into data generation in the fall of 2024 for our currently targets species. Our aim is to generate individual level re-sequencing data for diverse populations that are of shared interest to LepEU members."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
+    "objectID": "index.html#european-lepidopteran-population-genomics-consortium",
+    "href": "index.html#european-lepidopteran-population-genomics-consortium",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "",
-    "text": "Home\n    Join Us!"
+    "text": "We are a collection of researchers focused upon sampling populations of Lepidoptera species across Europe, to look for patterns of local adaptation across latitudes and through seasons.\nLarge scale genome sequencing initiatives are now focused upon generating high quality reference genomes for diverse species, including Lepidoptera. By the end of 2024, Project Psyche expects to generate 1000 genomes of European Lepidoptera, with a goal of sequencing nearly all 11,000 within the coming 5 to 10 years.\nLepEU is focused upon using these emerging genomes to gain insights into the patterns of local adaption across Europe, exploring how species adapt across latitudes, elevation, and through seasons. We are currently focused upon field collections and will move into data generation in the fall of 2024 for our currently targets species. Our aim is to generate individual level re-sequencing data for diverse populations that are of shared interest to LepEU members."
   },
   {
-    "objectID": "contact.html#join-us",
-    "href": "contact.html#join-us",
+    "objectID": "index.html#join-us",
+    "href": "index.html#join-us",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "Join Us",
-    "text": "Join Us\nIf you are interested in butterfly and moth evolutionary dynamics in Europe or elsewhere, you are welcome to join us. To join please complete this questionnaire. This will collect your email, location, question and species interests, how you want to contribute to LepEU, etc. Once completed, a confirmation email will be sent to you. Only then you have been registered properly."
+    "text": "Join Us\nif you would like to join or paricipate, please check out the Join Us page"
   },
   {
     "objectID": "organisation.html",
@@ -77,24 +84,31 @@
     "text": "Web administration and public outreach\n\nWeb Administrator: Saad Arif, Oxford Brookes, University, GB."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "contact.html",
+    "href": "contact.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "",
-    "text": "We are a collection of researchers focused upon sampling populations of Lepidoptera species across Europe, to look for patterns of local adaptation across latitudes and through seasons.\nLarge scale genome sequencing initiatives are now focused upon generating high quality reference genomes for diverse species, including Lepidoptera. By the end of 2024, Project Psyche expects to generate 1000 genomes of European Lepidoptera, with a goal of sequencing nearly all 11,000 within the coming 5 to 10 years.\nLepEU is focused upon using these emerging genomes to gain insights into the patterns of local adaption across Europe, exploring how species adapt across latitudes, elevation, and through seasons. We are currently focused upon field collections and will move into data generation in the fall of 2024 for our currently targets species. Our aim is to generate individual level re-sequencing data for diverse populations that are of shared interest to LepEU members."
+    "text": "Home\n    Join Us!"
   },
   {
-    "objectID": "index.html#european-lepidopteran-population-genomics-consortium",
-    "href": "index.html#european-lepidopteran-population-genomics-consortium",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "",
-    "text": "We are a collection of researchers focused upon sampling populations of Lepidoptera species across Europe, to look for patterns of local adaptation across latitudes and through seasons.\nLarge scale genome sequencing initiatives are now focused upon generating high quality reference genomes for diverse species, including Lepidoptera. By the end of 2024, Project Psyche expects to generate 1000 genomes of European Lepidoptera, with a goal of sequencing nearly all 11,000 within the coming 5 to 10 years.\nLepEU is focused upon using these emerging genomes to gain insights into the patterns of local adaption across Europe, exploring how species adapt across latitudes, elevation, and through seasons. We are currently focused upon field collections and will move into data generation in the fall of 2024 for our currently targets species. Our aim is to generate individual level re-sequencing data for diverse populations that are of shared interest to LepEU members."
-  },
-  {
-    "objectID": "index.html#join-us",
-    "href": "index.html#join-us",
+    "objectID": "contact.html#join-us",
+    "href": "contact.html#join-us",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "Join Us",
-    "text": "Join Us\nif you would like to join or paricipate, please check out the Join Us page"
+    "text": "Join Us\nIf you are interested in butterfly and moth evolutionary dynamics in Europe or elsewhere, you are welcome to join us. To join please complete this questionnaire. This will collect your email, location, question and species interests, how you want to contribute to LepEU, etc. Once completed, a confirmation email will be sent to you. Only then you have been registered properly."
+  },
+  {
+    "objectID": "members.html",
+    "href": "members.html",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
+    "section": "",
+    "text": "Home\n    Members"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
+    "section": "",
+    "text": "Home\n    News\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSignup details for COST Action Network funding\n\n\n\nfunding\n\n\ntraining\n\n\nnetworking\n\n\n\nSignup for funded LepEU training and networking activities\n\n\n\nChristopher Wheat\n\n\nSep 17, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
