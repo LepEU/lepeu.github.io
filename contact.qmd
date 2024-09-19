@@ -10,9 +10,10 @@ include-in-header:
       }
       .quarto-title-block .quarto-title-banner {
         height: 10;
+        opacity: 0;
       }
       #title-block-header {
-        background-image: url(./images/imagine1.png);
+        background-image: url(./images/imagine1withText.png);
         background-size: cover;
         background-position-y: center;
         height: 300px;

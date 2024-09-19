@@ -26,7 +26,7 @@ website:
         text: Join Us!
   page-footer:  
     center:
-      - text: "Copyright 2024 &copy; LepEU Consortia"
+      - text: "Copyright 2024 &copy; LepEU Consortium"
     right:
       - text: "{{< fa brands discord size=Huge >}}"
         aria-label: discord
