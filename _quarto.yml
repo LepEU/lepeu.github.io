@@ -3,10 +3,10 @@ project:
   output-dir: docs
 
 website:
-  #body-header: "./banner.qmd"
   favicon: "./images/LepEU transparent.png"
   twitter-card: true
   open-graph: true
+ 
   navbar:
     title: false
     logo: "./images/LepEU transparent.png"

@@ -19,3 +19,8 @@
   padding-top: 20px;
   padding-bottom: 20px;
 }
+
+.bg-news {
+  font-weight: bold;
+  background-color: red;
+}
