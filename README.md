@@ -14,3 +14,5 @@ This is the repo for LepEU's public facing web page. If you want to join LepEU c
 6. Go back to main page of the repo, select our branch if it is not selected already and hit `Compare and Pull Request`
 7. Make sure to enter the required descriptions for the Pull Request
 8. If you want somone to review your work before merging with the main page, you can pick some one now
+9. If there no conflicts you can safely merge your changes with the main page and delete the branch you created.
+10. Changes to the pages should appear in a few minutes.
