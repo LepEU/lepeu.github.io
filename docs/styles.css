@@ -2,8 +2,8 @@
 
 /*control size of logo on bootstrap nav-bar logo*/
 .navbar-logo {
-  height: 80px !important;
-  width: 100px !important;
+  height: 50px !important;
+  width: 70px !important;
   max-width: unset !important;
   max-height: unset !important;
 }

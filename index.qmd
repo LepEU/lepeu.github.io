@@ -39,9 +39,6 @@ generation in the fall of 2024 for our currently targets species. Our aim is to 
 individual level re-sequencing data for diverse populations that are of shared interest to
 LepEU members.
 
-## News
-
-[17th Sept, 2024]{.bg-news} - LepEU now has COST action funding! Please see the latest [News](./news.qmd)
 
 ## Join Us
 

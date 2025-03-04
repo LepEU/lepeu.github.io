@@ -4,8 +4,15 @@ project:
 
 website:
   favicon: "./images/LepEU transparent.png"
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "**Alert** - LepEU has cost action funding! pleace check the [**News**](./news.qmd)"
+    type: success
+    position: below-navbar
   twitter-card: true
   open-graph: true
+
  
   navbar:
     title: false
@@ -29,7 +36,7 @@ website:
         text: Join Us!
   page-footer:  
     center:
-      - text: "Copyright 2024 &copy; LepEU Consortium"
+      - text: "Copyright 2025 &copy; LepEU Consortium"
     right:
       - text: "{{< fa brands discord size=Huge >}}"
         aria-label: discord

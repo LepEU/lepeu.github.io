@@ -1,0 +1,43 @@
+---
+title: "Saad Arif"
+sortby: "Arif, Saad"  #Sorting on main page author cards is by last name
+subtitle: "Oxford Brookes University"  #University affiliation
+image: saadArif.jpg   #photo
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  #The below are optional
+  links:     
+    - icon: link
+      text: website
+      href: https://saadarif.github.io
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com.au/citations?user=svTW0-wAAAAJ&hl=en
+    - icon: github
+      text: github
+      href: https://www.github.com/saadarif
+    - icon: twitter
+      text: twitter
+      href: https://www.twitter.com/saadrif81
+---
+
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Staff</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography /Info
+
+

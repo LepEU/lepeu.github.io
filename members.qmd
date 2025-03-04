@@ -2,6 +2,33 @@
 title: "LepEU: European Lepidopteran Population Genomics Consortium"
 title-block-banner: "#00000000"
 title-block-banner-color: "#000"
+toc: true
+toc-location: left
+listing:
+  - id: north
+    contents: "members/north/*.qmd"
+    type: grid
+    image-height: 200px
+    grid-columns: 4
+    fields: [image, title, subtitle]
+    grid-item-align: center
+    sort: sortby
+  - id: central
+    contents: "members/central/*.qmd"
+    type: grid
+    image-height: 200px
+    grid-columns: 8
+    fields: [image, title, subtitle]
+    grid-item-align: center
+    sort: sortby
+  - id: south
+    contents: "members/south/*.qmd"
+    type: grid
+    image-height: 200px
+    grid-columns: 8
+    fields: [image, title, subtitle]
+    grid-item-align: center
+    sort: sortby
 include-in-header:
   - text: |
       <style>
@@ -29,3 +56,23 @@ include-in-header:
   </ol>
 </nav>
 ```
+
+
+## North
+
+:::{#north}
+:::
+
+## Central
+
+:::{#central}
+:::
+
+## South
+
+
+:::{#south}
+:::
+
+## Other
+
