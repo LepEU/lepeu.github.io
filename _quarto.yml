@@ -40,7 +40,7 @@ website:
     right:
       - text: "{{< fa brands discord size=Huge >}}"
         aria-label: discord
-        href: https://discord.gg/2xpEmMWr
+        href: https://discord.gg/ypMYmkftQm
   
 
 format:
