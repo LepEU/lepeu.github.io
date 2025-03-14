@@ -1,0 +1,65 @@
+---
+title: "European Lepidoptera Pop Gen Workshop - 12-16 May 2025 - Montpellier, France"
+description: "Pop Gen Workshop - Meeting, DNA extractions and more"
+author:
+  - name: Mathieu Joron
+    url: 
+    affiliation: Centre d'Ecologie Fonctionnelle et Evolutive (CEFE)
+    affiliation-url: https://joron.cefe.cnrs.fr  
+date: 03-14-2025
+categories: [meeting, training, networking] # self-defined categories
+#citation: 
+#  url: https://lepeu.github.io/news/2024-09-17-cost_action_signup/ 
+image: meeting.png 
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+The [Population Genomics workshop](https://lepeu2025.sciencesconf.org/) of Working Group 4 of [10kLepGenomes COST action](https://www.cost.eu/actions/CA23122/) (CA23122) will take place in Montpellier, France, from Monday 12th to Friday 16th May 2025.
+
+This message is sent to everyone who registered to Working Group 4 (Population genomic analyses) within 10KLepGenomes. Sorry for possible cross-posting.
+
+## Meeting Aims:
+1. **Building the LepEU community**: 
+   - Defining scientific objectives
+   - Strengthening collaborations.
+   - Discussing 2025 field priorities,
+2. **Planning and coordinating data acquisition**
+   - Coordinating collections, archiving, databasing
+   - Coordinating DNA isolation from 2024 collections
+   - Discuss funding solutions
+
+## Who should come? 
+
+We encourage researchers from all career stages that are interested in LepEU to come. There are a wide range of questions that regional sampling of European Lepidoptera could address. Let's see how we could make our individual efforts go further if we can collaborate together. We are inspired to keep building the LepEU community using a grass roots effort framework.
+
+The total number of attendees we can fit is 30, including 18 attendees who can be reimbursed through the COST action (www.cost.eu/actions/CA23122), and about 12 people who can attend with their own funding. See down below for possible travel cost reimbursements.
+
+## Location  
+
+The workshop will start on Monday 12th May in the later afternoon in Montpellier. We will meet in town. Tuesday-Thursday meeting and DNA workshops will take place at the University of Montpellier (43.6322, 3.8664) and CNRS (43.6386, 3.8645) north of the city centre. We propose to have a field outing on Friday.
+
+## DNA isolation 
+
+For those needing DNA extraction help, we propose to provide a solution to isolate DNA during that week. This is aimed primarily to help people who might find it difficult to do that in their own institution. If you are interested, you need to register your samples so we can plan extraction consumables. We will reach out individually.
+
+Please **register** to the workshop using the link below, by Sunday 23rd March.
+
+https://lepeu2025.sciencesconf.org/
+
+## Reimbursement
+
+To be eligible for reimbursement by the COST Action (www.cost.eu/actions/CA23122), you need to have signed up to the Working Group 4 of the COST Action first. The daily allowance is limited to 101€/day. Travel tickets are reimbursed (up to 300 EUR). Travel under 100 km and rental cars are considered part of the daily allowance. Please see the rules for travel reimbursement here: https://www.cost.eu/cost-actions/annotated-rules-qa/.
+
+The leaders of WG4 and COST CA23122 will select the attendees eligible for reimbursement based on transparent criteria, to reach maximum gain of the workshop. The criteria are:
+(1)   Eligibility (can attend the whole event or just partially): 1 or 0 points
+(2)   Career stage: 2 to 0 point
+(3)   Bringing samples: 2 to 0 points
+(4)   Regional representation (ITC countries): 2 points
+(5)  Motivation to attend: 0 to 3 points
+The participants selected for reimbursement will be notified by Monday 31st March.
+
+## Contact 
+
+If you have **any questions** or need to **discuss your participation** please contact us directly: Mathieu Joron mathieu.joron@cefe.cnrs.fr or Chris Wheat chris.wheat@zoologi.su.se
+
+We are looking forward to receiving your registrations, and to see you in Montpellier soon
