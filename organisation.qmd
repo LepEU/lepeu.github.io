@@ -36,6 +36,7 @@ include-in-header:
 ## Co-organizers of LepEU
 
 - Patrícia Beldade, Faculty of Sciences of the University of Lisbon, PT. 
+- Mathieu Joron, Centre d'Ecologie Fonctionnelle et Evolutive (CEFE), FR.
 - Christopher Wheat, Stockholm University, SE.
 
 ## Regional collection coordination
