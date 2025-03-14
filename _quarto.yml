@@ -7,7 +7,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**Alert** - Registeration is open for the  European Lepidoptera Pop Gen Workshop - 12-16 May 2025 - Montpellier, France see the [**News**](./news.qmd)"
+    content: "**Alert** - Registeration is open for the **European Lepidoptera Pop Gen Workshop** - 12-16 May 2025 - Montpellier, France see the [**News**](./news.qmd)"
     type: success
     position: below-navbar
   twitter-card: true
