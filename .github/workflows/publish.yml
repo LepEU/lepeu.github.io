@@ -1,67 +1,49 @@
+name: Deploy
+
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
 
-name: Render and Publish
+permissions:
+  contents: read
 
-# you need these permissions to publish to GitHub pages
-permissions: 
-     contents: write
-     pages: write
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
-  build-deploy:
+  deploy:
     runs-on: ubuntu-latest
-    
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Check out repository
+      - name: Checkout repository
         uses: actions/checkout@v4
-        
-      - name: Set up Quarto
+      - name: Install Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:
-          # To install LaTeX to build PDF book 
-          tinytex: true 
-          # uncomment below and fill to pin a version
-          # version: SPECIFIC-QUARTO-VERSION-HERE
-      
-      # add software dependencies here and any libraries
-      
-      # From https://github.com/actions/setup-python
-      # - name: Setup Python
-      #   uses: actions/setup-python@v3
-
-      # From https://github.com/r-lib/actions/tree/v2-branch/setup-r
-      # - name: Setup R
-      #   uses: r-lib/actions/setup-r@v2
-
-      # From https://github.com/julia-actions/setup-julia
-      # - name: Setup Julia
-      #   uses: julia-actions/setup-julia@v1
-
-      # See more at https://github.com/quarto-dev/quarto-actions/blob/main/examples/example-03-dependencies.md
-
-      # To publish to Netlify, RStudio Connect, or GitHub Pages, uncomment
-      # the appropriate block below
-      
-      # - name: Publish to Netlify (and render)
-      #   uses: quarto-dev/quarto-actions/publish@v2
-      #   with:
-      #     target: netlify
-      #     NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-        
-      # - name: Publish to RStudio Connect (and render)
-      #   uses: quarto-dev/quarto-actions/publish@v2
-      #   with:
-      #     target: connect
-      #     CONNECT_SERVER: enter-the-server-url-here
-      #     CONNECT_API_KEY: ${{ secrets.CONNECT_API_KEY }} 
-      
-      # NOTE: If Publishing to GitHub Pages, set the permissions correctly (see top of this yaml)
-      - name: Publish to GitHub Pages (and render) 
-        uses: quarto-dev/quarto-actions/publish@v2
+          version: pre-release
+      - name: "Build"
+        shell: bash
+        run: |
+          [ ! -f _quarto.yml ] && echo -e "project:\n  output-dir: _site" > _quarto.yml
+          if grep -q "output-dir: _site" _quarto.yml; then
+            quarto render
+          else
+            quarto render --output-dir _site
+          fi
+      - name: "Configure GitHub Pages"
+        uses: actions/configure-pages@v5
+      - name: "Upload Pages Artifact"
+        uses: actions/upload-pages-artifact@v3
         with:
-           target: gh-pages
-        env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # this secret is always available for github actions
+          path: "_site"
+      - name: "Deploy"
+        id: deployment
+        uses: actions/deploy-pages@v4
