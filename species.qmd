@@ -2,6 +2,8 @@
 title: "LepEU: European Lepidopteran Population Genomics Consortium"
 title-block-banner: "#00000000"
 title-block-banner-color: "#000"
+toc: true
+toc-location: left
 include-in-header:
   - text: |
       <style>
@@ -30,4 +32,45 @@ include-in-header:
 </nav>
 ```
 
-Species we intend to focus on...
+## Focal Species
+ <!-- TODO: Image or plate of species --> 
+Currently (2024-2026), we are sampling the following butterfly species:
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- *Aglais io*
+- *Aglais urticae*
+- *Anthocharis cardamines*
+- *Callophrys rubi*
+- *Coenonympha pamphilus*
+- *Gonepteryx rhamni*
+- *Lasiommata megera*
+:::
+
+::: {.column width="50%"}
+- *Maniola jurtina*
+- *Melitaea cinxia*
+- *Pararge aegeria*
+- *Pieris napi*
+- *Pieris rapae*
+- *Polyommatus icarus*
+:::
+
+::::
+
+
+
+## Future Plans
+
+ <!-- TODO: Image or plate of species --> 
+
+We aim to collect data on a total of 35 species by 2030. These include the original 13 focal species above. Additional species will include all 17 (5 are on the original focal species list) European Grassland Butterfly indicator species. There also plans to expand sampling to moths by sampling 10 Moth species. Hence, by 2030 we aim to have population genomic data across Europe for 35 Lepidopteran Species.
+
+## Helpful Resources for Identifying Species
+
+Some species can be difficult to tell apart to distinguish between males and females. Below is a collection of links that might be useful in helping you distinguish species. Some of these links are specific to a region.
+
+- [Turkish Butterfly Monitoring Scheme](https://butterfly-monitoring.net/tr/node/124) with identification materials!
+
