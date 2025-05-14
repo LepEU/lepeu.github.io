@@ -43,6 +43,7 @@ include-in-header:
 
  <!-- TODO: Make map interactive with hubs e.g. highlight hub when selected on map --> 
 
+ <!-- TODO: or update the image below to reflect new hubs --> 
 ![](./images/hubs.png){.hero}
 
 ### North
