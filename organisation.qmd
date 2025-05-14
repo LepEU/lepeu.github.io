@@ -43,20 +43,28 @@ include-in-header:
 
  <!-- TODO: Make map interactive with hubs e.g. highlight hub when selected on map --> 
 
+ <!-- TODO: or update the image below to reflect new hubs --> 
 ![](./images/hubs.png){.hero}
 
 ### North
 
+- **Estonia**:	Tomas Tammaru, University of Tartu.
 - **Finland**: Marjo Saastamoinen, University of Helsinki. 
 - **Sweden**: Niklas Wahlberg, Lund University. 
 - **United Kingdom**: Joana Meier and Charlotte Wright, Wellcome Sanger Institute. 
 
 ### Central
 
+- **Czech Republic**:	Zdenek Fric, Entomologický ústav.
 - **Poland**: Richard Bailey, University of Lodz. 
 - **Germany**: Matthew Nielsen, University of Bremen. 
 - **Switzerland**: Kay Lucek, University of Neuchâtel.  
 - **France**: Mathieu Joron, Centre for Evolutionary and Functional Ecology (CEFE-CNRS). 
+
+### East
+
+- **Turkey**: 	Başak Ulaşlı, Hatay Mustafa Kemal University, Plant Protection Department
+- **Romania**:	Vlad Dinca, "Grigore Antipa" National Museum of Natural History.
 
 ### South
 
