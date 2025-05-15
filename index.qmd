@@ -23,12 +23,12 @@ include-in-header:
 
 ## European Lepidopteran Population Genomics Consortium
 
-We are a collection of researchers focused upon sampling populations of Lepidoptera across Europe, to conduct continental scale, comparative population genomic analyses of local adaptation, over space and time. By learning the landscape of evolutionary dynamics for diverse species, we also seek to generate quantiative insights for biodiversity management at both the regional and EU level.
+We are a collection of researchers focused upon sampling populations of Lepidoptera across Europe, to conduct continental scale, comparative population genomic analyses of local adaptation, over space and time. 
 
 1000's of Lepidopteran genomes are now coming online [Project
 Psyche](https://www.projectpsyche.org/), with genomes for nearly all 11,000 species potentially coming in the next 5 to 10 years. 
 
-Butterfly declines are now well documented. While recent publications highlight this trend in [North America](https://www.science.org/doi/10.1126/science.adp4671), this is also true for [European butterflies](https://butterfly-monitoring.net/sites/default/files/Pdf/Indicators/VS2022.039%20European_Grassland_Butterfly_Indicator_1990-2020_v3.pdf).
+Butterfly declines are now well documented. While recent publications highlight this trend in [North America](https://www.science.org/doi/10.1126/science.adp4671), this is also true for [European butterflies](https://butterfly-monitoring.net/sites/default/files/Pdf/Indicators/VS2022.039%20European_Grassland_Butterfly_Indicator_1990-2020_v3.pdf). By learning the landscape of evolutionary dynamics for diverse species, we also seek to generate quantiative insights for biodiversity management at both the regional and EU level.
 
 LepEU is focused upon using these emerging genomes to gain insights into the patterns of
 local adaption of divese species across Europe, exploring how they adapt across latitudes, elevation, and
