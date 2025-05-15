@@ -39,7 +39,7 @@ include-in-header:
 - Mathieu Joron, Centre d'Ecologie Fonctionnelle et Evolutive (CEFE), FR.
 - Christopher Wheat, Stockholm University, SE.
 
-## Regional collection coordination
+## National collection coordinators
 
  <!-- TODO: Make map interactive with hubs e.g. highlight hub when selected on map --> 
 
@@ -48,7 +48,7 @@ include-in-header:
 
 ### North
 
-- **Estonia**:	Tomas Tammaru, University of Tartu.
+<!-- - **Estonia**:	Tomas Tammaru, University of Tartu. -->
 - **Finland**: Marjo Saastamoinen, University of Helsinki. 
 - **Sweden**: Niklas Wahlberg, Lund University. 
 - **United Kingdom**: Joana Meier and Charlotte Wright, Wellcome Sanger Institute. 
@@ -64,7 +64,7 @@ include-in-header:
 ### East
 
 - **Turkey**: 	Başak Ulaşlı, Hatay Mustafa Kemal University, Plant Protection Department
-- **Romania**:	Vlad Dinca, "Grigore Antipa" National Museum of Natural History.
+<!-- - **Romania**:	Vlad Dinca, "Grigore Antipa" National Museum of Natural History. -->
 
 ### South
 
