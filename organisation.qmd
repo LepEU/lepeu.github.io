@@ -44,7 +44,7 @@ include-in-header:
  <!-- TODO: Make map interactive with hubs e.g. highlight hub when selected on map --> 
 
  <!-- TODO: or update the image below to reflect new hubs --> 
-![](./images/hubs202505.png){.hero}
+![](./images/hubs202505.png){.img}
 
 ### North
 
@@ -71,6 +71,6 @@ include-in-header:
 - **Spain**: Constanti Stefanescu, Museum of Natural Sciences of Granollers. 
 - **Italy**: Emiliano Trucci, Marche Polytechnic University. 
 
-## Web administration and public outreach
+## Web site and public outreach
 
 - **Web Administrator**: Saad Arif, Oxford Brookes, University, GB.
