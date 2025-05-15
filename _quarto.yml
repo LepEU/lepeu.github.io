@@ -28,6 +28,8 @@ website:
         text: Species
       - href: datapolicy.qmd
         text: Data Sharing
+      - href: funding.qmd
+        text: Funding
       - href: pubs.qmd #TODO: make blog post like!
         text: Publications
       - href: news.qmd
