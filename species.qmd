@@ -70,19 +70,10 @@ Expands species to now include all of the European Biodiversity Grassland Indica
 - *Spialia sertorius*
 - *Thymelicus acteon*
 
-**Phase 3**: We are working to extend into a range of moth species.
+**Phase 3**: We are working to extend our sampling to represent the full range of Lepidopteran biodiversity across Europe, especially including a range of moth species.
 
+If you wish to suggest species for continental scale population sampling, please contact us.
 
-
-
-
-
-
-## Future Plans
-
- <!-- TODO: Image or plate of species --> 
-
-We aim to collect data on a total of 35 species by 2030. These include the original 13 focal species above. Additional species will include all 17 (5 are on the original focal species list) European Grassland Butterfly indicator species. There also plans to expand sampling to moths by sampling 10 Moth species. Hence, by 2030 we aim to have population genomic data across Europe for 35 Lepidopteran Species.
 
 ## Helpful Resources for Identifying Species
 
@@ -90,3 +81,4 @@ Some species can be difficult to tell apart to distinguish between males and fem
 
 - [Turkish Butterfly Monitoring Scheme](https://butterfly-monitoring.net/tr/node/124) with identification materials!
 
+More to come ... 
