@@ -55,7 +55,7 @@ This set is from 2024, including 5 of the European Biodiversity Grassland Indica
 - *Polyommatus icarus*
 
 ## **Phase 2**: n=12 species
-Expands species to now include all of the European Biodiversity Grassland Indicator species.
+Expands species to now include all of the [European Biodiversity Grassland Indicator species](https://butterfly-monitoring.net/sites/default/files/Pdf/Indicators/VS2022.039%20European_Grassland_Butterfly_Indicator_1990-2020_v3.pdf)
 
 - *Cupido minimus*
 - *Cyaniris semiargus*
