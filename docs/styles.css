@@ -20,6 +20,16 @@
   padding-bottom: 20px;
 }
 
+.img  {
+  width: 500px;
+  height: 450px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
 .bg-news {
   font-weight: bold;
   background-color: red;

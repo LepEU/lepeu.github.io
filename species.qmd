@@ -34,19 +34,12 @@ include-in-header:
 
 ## Focal Species
  <!-- TODO: Image or plate of species --> 
-We currently have 25 species in the LepEU collection list.
-This list was originally a set of 13 species, which in 2025 we expaneded to include all of the 
-European Biodiversity Grassland Indicator species (n=17 species)
+Sampling is currently structured in Phases as LepEU scales up capacity.
+If you wish to suggest species, please contact us.
 
-We therefore have sets of taxa that total to 25 species
+**Phase 1**: n=13 species
+This set is from 2024, including 5 of the European Biodiversity Grassland Indicator species. Goal for 2025 is to complete this sampling across collection hubs. 
 
-Core set: this set is from 2024, including 5 of the European Biodiversity Grassland Indicator species
-Extended set: now includes all of the remaining species in the European Biodiversity Grassland Indicator list
-
-
-:::: {.columns}
-
-::: {.column width="50%"}
 - *Aglais io*
 - *Aglais urticae*
 - *Anthocharis cardamines*
@@ -54,18 +47,34 @@ Extended set: now includes all of the remaining species in the European Biodiver
 - *Coenonympha pamphilus*
 - *Gonepteryx rhamni*
 - *Lasiommata megera*
-:::
-
-::: {.column width="50%"}
 - *Maniola jurtina*
 - *Melitaea cinxia*
 - *Pararge aegeria*
 - *Pieris napi*
 - *Pieris rapae*
 - *Polyommatus icarus*
-:::
 
-::::
+**Phase 2**: n=12 species
+Expands species to now include all of the European Biodiversity Grassland Indicator species.
+
+- *Cupido minimus*
+- *Cyaniris semiargus*
+- *Erynnis tages*
+- *Euphydryas aurinia*
+- *Lycaena phlaeas*
+- *Ochlodes sylvanus*
+- *Phengaris arion*
+- *Phengaris nausithous*
+- *Polyommatus bellargus*
+- *Polyommatus coridon*
+- *Spialia sertorius*
+- *Thymelicus acteon*
+
+**Phase 3**: We are working to extend into a range of moth species.
+
+
+
+
 
 
 

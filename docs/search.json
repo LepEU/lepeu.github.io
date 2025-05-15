@@ -25,7 +25,7 @@
     "href": "species.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "",
-    "text": "Home\n    Species\n  \n\nSpecies we intend to focus on…"
+    "text": "Home\n    Species"
   },
   {
     "objectID": "pubs.html",
@@ -81,7 +81,7 @@
     "href": "organisation.html#regional-collection-coordination",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "Regional collection coordination",
-    "text": "Regional collection coordination\n\n\n\nNorth\n\nFinland: Marjo Saastamoinen, University of Helsinki.\nSweden: Niklas Wahlberg, Lund University.\nUnited Kingdom: Joana Meier and Charlotte Wright, Wellcome Sanger Institute.\n\n\n\nCentral\n\nPoland: Richard Bailey, University of Lodz.\nGermany: Matthew Nielsen, University of Bremen.\nSwitzerland: Kay Lucek, University of Neuchâtel.\n\nFrance: Mathieu Joron, Centre for Evolutionary and Functional Ecology (CEFE-CNRS).\n\n\n\nSouth\n\nSpain: Constanti Stefanescu, Museum of Natural Sciences of Granollers.\nItaly: Emiliano Trucci, Marche Polytechnic University."
+    "text": "Regional collection coordination\n\n \n\nNorth\n\nEstonia: Tomas Tammaru, University of Tartu.\nFinland: Marjo Saastamoinen, University of Helsinki.\nSweden: Niklas Wahlberg, Lund University.\nUnited Kingdom: Joana Meier and Charlotte Wright, Wellcome Sanger Institute.\n\n\n\nCentral\n\nCzech Republic: Zdenek Fric, Entomologický ústav.\nPoland: Richard Bailey, University of Lodz.\nGermany: Matthew Nielsen, University of Bremen.\nSwitzerland: Kay Lucek, University of Neuchâtel.\n\nFrance: Mathieu Joron, Centre for Evolutionary and Functional Ecology (CEFE-CNRS).\n\n\n\nEast\n\nTurkey: Başak Ulaşlı, Hatay Mustafa Kemal University, Plant Protection Department\nRomania: Vlad Dinca, “Grigore Antipa” National Museum of Natural History.\n\n\n\nSouth\n\nSpain: Constanti Stefanescu, Museum of Natural Sciences of Granollers.\nItaly: Emiliano Trucci, Marche Polytechnic University."
   },
   {
     "objectID": "organisation.html#web-administration-and-public-outreach",
@@ -95,7 +95,7 @@
     "href": "news.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "",
-    "text": "Home\n    News\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEuropean Lepidoptera Pop Gen Workshop - 12-16 May 2025 - Montpellier, France\n\n\n\nmeeting\n\n\ntraining\n\n\nnetworking\n\n\n\nPop Gen Workshop - Meeting, DNA extractions and more\n\n\n\nMathieu Joron\n\n\nMar 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSignup details for COST Action Network funding\n\n\n\nfunding\n\n\ntraining\n\n\nnetworking\n\n\n\nSignup for funded LepEU training and networking activities\n\n\n\nChristopher Wheat\n\n\nSep 17, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Home\n    News\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEuropean Lepidoptera Pop Gen Workshop - 12-16 May 2025 - Montpellier, France\n\n\n\nmeeting\n\ntraining\n\nnetworking\n\n\n\nPop Gen Workshop - Meeting, DNA extractions and more\n\n\n\nMathieu Joron\n\n\nMar 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nSignup details for COST Action Network funding\n\n\n\nfunding\n\ntraining\n\nnetworking\n\n\n\nSignup for funded LepEU training and networking activities\n\n\n\nChristopher Wheat\n\n\nSep 17, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "contact.html",
@@ -123,21 +123,21 @@
     "href": "members.html#north",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "North",
-    "text": "North\n\n\n\n\n\n\n\n\n\n\nSaad Arif\n\n\nOxford Brookes University\n\n\n\n\n\n\n\nNo matching items"
+    "text": "North\n\n\n\n\n\n\n\n\n\n\nSaad Arif\n\n\nOxford Brookes University\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "members.html#central",
     "href": "members.html#central",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "Central",
-    "text": "Central\n\n\n\n\n\nNo matching items"
+    "text": "Central\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "members.html#south",
     "href": "members.html#south",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "South",
-    "text": "South\n\n\n\n\n\nNo matching items"
+    "text": "South\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "members.html#other",
@@ -264,5 +264,40 @@
     "title": "European Lepidoptera Pop Gen Workshop - 12-16 May 2025 - Montpellier, France",
     "section": "Contact",
     "text": "Contact\nIf you have any questions or need to discuss your participation please contact us directly: Mathieu Joron mathieu.joron@cefe.cnrs.fr or Chris Wheat chris.wheat@zoologi.su.se\nWe are looking forward to receiving your registrations, and to see you in Montpellier soon"
+  },
+  {
+    "objectID": "species.html#focal-species",
+    "href": "species.html#focal-species",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
+    "section": "Focal Species",
+    "text": "Focal Species\n Sampling is currently structured in Phases as LepEU scales up capacity. If you wish to suggest species, please contact us.\nPhase 1: n=13 species This set is from 2024, including 5 of the European Biodiversity Grassland Indicator species. Goal for 2025 is to complete this sampling across collection hubs.\n\nAglais io\nAglais urticae\nAnthocharis cardamines\nCallophrys rubi\nCoenonympha pamphilus\nGonepteryx rhamni\nLasiommata megera\nManiola jurtina\nMelitaea cinxia\nPararge aegeria\nPieris napi\nPieris rapae\nPolyommatus icarus\n\nPhase 2: n=12 species Expands species to now include all of the European Biodiversity Grassland Indicator species.\n\nCupido minimus\nCyaniris semiargus\nErynnis tages\nEuphydryas aurinia\nLycaena phlaeas\nOchlodes sylvanus\nPhengaris arion\nPhengaris nausithous\nPolyommatus bellargus\nPolyommatus coridon\nSpialia sertorius\nThymelicus acteon\n\nPhase 3: We are working to extend into a range of moth species."
+  },
+  {
+    "objectID": "species.html#future-plans",
+    "href": "species.html#future-plans",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
+    "section": "Future Plans",
+    "text": "Future Plans\n\nWe aim to collect data on a total of 35 species by 2030. These include the original 13 focal species above. Additional species will include all 17 (5 are on the original focal species list) European Grassland Butterfly indicator species. There also plans to expand sampling to moths by sampling 10 Moth species. Hence, by 2030 we aim to have population genomic data across Europe for 35 Lepidopteran Species."
+  },
+  {
+    "objectID": "species.html#helpful-resources-for-identifying-species",
+    "href": "species.html#helpful-resources-for-identifying-species",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
+    "section": "Helpful Resources for Identifying Species",
+    "text": "Helpful Resources for Identifying Species\nSome species can be difficult to tell apart to distinguish between males and females. Below is a collection of links that might be useful in helping you distinguish species. Some of these links are specific to a region.\n\nTurkish Butterfly Monitoring Scheme with identification materials!"
+  },
+  {
+    "objectID": "organisation.html#web-site-and-public-outreach",
+    "href": "organisation.html#web-site-and-public-outreach",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
+    "section": "Web site and public outreach",
+    "text": "Web site and public outreach\n\nWeb Administrator: Saad Arif, Oxford Brookes, University, GB."
+  },
+  {
+    "objectID": "funding.html",
+    "href": "funding.html",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
+    "section": "",
+    "text": "Home\n    Funding"
   }
 ]
