@@ -23,15 +23,13 @@ include-in-header:
 
 ## European Lepidopteran Population Genomics Consortium
 
-**We are a collection of researchers focused upon sampling populations of Lepidoptera
-species across Europe, to conduct continental scale, comparative population genomic analyses of local adaptation, over space and time.  
+We are a collection of researchers focused upon sampling populations of Lepidoptera across Europe, to conduct continental scale, comparative population genomic analyses of local adaptation, over space and time. By learning the landscape of evolutionary dynamics for diverse species, we also seek to generate quantiative insights for biodiversity management at both the regional and EU level.
 
 1000's of Lepidopteran genomes are now coming online [Project
 Psyche](https://www.projectpsyche.org/), with genomes for nearly all 11,000 species potentially coming in the next 5 to 10 years.  
 
 LepEU is focused upon using these emerging genomes to gain insights into the patterns of
-local adaption across Europe, exploring how species adapt across latitudes, elevation, and
-through seasons. We are currently focused upon ongoing field collections for our currently targets species, as well as generating
-individual level whole genome re-sequencing data for diverse populations that are of shared interest to
-LepEU members.
+local adaption of divese species across Europe, exploring how they adapt across latitudes, elevation, and
+through seasons. We are currently focused upon ongoing field collections and generating
+individual level whole genome re-sequencing data from regional populations of diverse species.
 
