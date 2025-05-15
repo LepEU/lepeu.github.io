@@ -38,9 +38,10 @@ We currently have 25 species in the LepEU collection list.
 This list was originally a set of 13 species, which in 2025 we expaneded to include all of the 
 European Biodiversity Grassland Indicator species (n=17 species)
 
-We therefore have a core set, which we set in 2024 and this included 5 of the European Biodiversity Grassland Indicator species
+We therefore have sets of taxa that total to 25 species
 
-, and the extened set, which now includes all of the (2024-2026), we are sampling the following butterfly species:
+Core set: this set is from 2024, including 5 of the European Biodiversity Grassland Indicator species
+Extended set: now includes all of the remaining species in the European Biodiversity Grassland Indicator list
 
 
 :::: {.columns}
