@@ -32,12 +32,12 @@ include-in-header:
 </nav>
 ```
 
-## Focal Species
+# Sampling overview 
  <!-- TODO: Image or plate of species --> 
 Sampling is currently structured in Phases as LepEU scales up capacity.
 If you wish to suggest species, please contact us.
 
-**Phase 1**: n=13 species
+## **Phase 1**: n=13 species
 This set is from 2024, including 5 of the European Biodiversity Grassland Indicator species. Goal for 2025 is to complete this sampling across collection hubs. 
 
 - *Aglais io*
@@ -54,7 +54,7 @@ This set is from 2024, including 5 of the European Biodiversity Grassland Indica
 - *Pieris rapae*
 - *Polyommatus icarus*
 
-**Phase 2**: n=12 species
+## **Phase 2**: n=12 species
 Expands species to now include all of the European Biodiversity Grassland Indicator species.
 
 - *Cupido minimus*
@@ -70,12 +70,13 @@ Expands species to now include all of the European Biodiversity Grassland Indica
 - *Spialia sertorius*
 - *Thymelicus acteon*
 
-**Phase 3**: We are working to extend our sampling to represent the full range of Lepidopteran biodiversity across Europe, especially including a range of moth species.
+## **Phase 3**: 
+We are actively working to extend our sampling and regional sampling hubs to represent the full range of Lepidopteran biodiversity across all of Europe, especially including a range of moth species.
 
 If you wish to suggest species for continental scale population sampling, please contact us.
 
 
-## Helpful Resources for Identifying Species
+# Resources for Identifying Species
 
 Some species can be difficult to tell apart to distinguish between males and females. Below is a collection of links that might be useful in helping you distinguish species. Some of these links are specific to a region.
 
