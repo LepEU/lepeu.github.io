@@ -48,7 +48,7 @@ include-in-header:
 
 ### North
 
-<!-- - **Estonia**:	Tomas Tammaru, University of Tartu. -->
+- **Estonia**:	Tomas Tammaru, University of Tartu.
 - **Finland**: Marjo Saastamoinen, University of Helsinki. 
 - **Sweden**: Niklas Wahlberg, Lund University. 
 - **United Kingdom**: Joana Meier and Charlotte Wright, Wellcome Sanger Institute. 
@@ -56,20 +56,20 @@ include-in-header:
 ### Central
 
 - **Czech Republic**:	Zdenek Fric, Entomologický ústav.
-- **Poland**: Richard Bailey, University of Lodz. 
-- **Germany**: Matthew Nielsen, University of Bremen. 
-- **Switzerland**: Kay Lucek, University of Neuchâtel.  
 - **France**: Mathieu Joron, Centre for Evolutionary and Functional Ecology (CEFE-CNRS). 
+- **Germany**: Matthew Nielsen, University of Bremen. 
+- **Poland**: Richard Bailey, University of Lodz. 
+- **Switzerland**: Kay Lucek, University of Neuchâtel.  
 
 ### East
 
+- **Romania**:	Vlad Dinca, "Grigore Antipa" National Museum of Natural History.
 - **Turkey**: 	Başak Ulaşlı, Hatay Mustafa Kemal University, Plant Protection Department
-<!-- - **Romania**:	Vlad Dinca, "Grigore Antipa" National Museum of Natural History. -->
 
 ### South
 
-- **Spain**: Constanti Stefanescu, Museum of Natural Sciences of Granollers. 
 - **Italy**: Emiliano Trucci, Marche Polytechnic University. 
+- **Spain**: Constanti Stefanescu, Museum of Natural Sciences of Granollers. 
 
 ## Web site and public outreach
 
