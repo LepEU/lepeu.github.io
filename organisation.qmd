@@ -35,6 +35,7 @@ include-in-header:
 
 LepEU is a network spanning 13 countries 
 
+
 ## Co-organizers of LepEU
 
 - Patrícia Beldade, Faculty of Sciences of the University of Lisbon, PT. 
@@ -43,17 +44,22 @@ LepEU is a network spanning 13 countries
 
 ## National collection coordinators
 
- <!-- TODO: Make map interactive with hubs e.g. highlight hub when selected on map --> 
-
- <!-- TODO: or update the image below to reflect new hubs --> 
-![](./images/hubs202505.png){.img}
-
 ### North
 
 - **Estonia**:	Tomas Tammaru, University of Tartu.
 - **Finland**: Marjo Saastamoinen, University of Helsinki. 
 - **Sweden**: Niklas Wahlberg, Lund University. 
 - **United Kingdom**: Joana Meier and Charlotte Wright, Wellcome Sanger Institute. 
+
+ <!-- TODO: Make map interactive with hubs e.g. highlight hub when selected on map --> 
+
+ <!-- TODO: or update the image below to reflect new hubs --> 
+
+::: {style="float: right; margin: 5px;"}
+
+![](./images/hubs2025.png){.img}
+
+:::
 
 ### Central
 
@@ -76,3 +82,12 @@ LepEU is a network spanning 13 countries
 ## Web site and public outreach
 
 - **Web Administrator**: Saad Arif, Oxford Brookes, University, GB.
+
+## LepEU (WG4) Members
+
+Our members (also part of **WG4** of Lep10K) come from all across Europe and beyond.
+The map below shows locations of the >150 members of LepEU based on their home institution.
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Iouj-QINzv5mlk1IqsCXqeDO7zFlHps&ehbc=2E312F&noprof=1" title="WG4 member institutional locations" width="640" height="480"></iframe>
+
+

@@ -48,7 +48,6 @@ website:
 format:
   html:
     theme: 
-      dark: slate
       light: cosmo
     css: styles.css
     toc: false
