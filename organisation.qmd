@@ -31,7 +31,9 @@ include-in-header:
   </ol>
 </nav>
 ```
+# The LepEU Network
 
+LepEU is a network spanning 13 countries 
 
 ## Co-organizers of LepEU
 
