@@ -43,6 +43,9 @@ website:
       - text: "{{< fa brands discord size=Huge >}}"
         aria-label: discord
         href: https://discord.gg/ypMYmkftQm
+  google-analytics: "G-Z6QF0999FY"
+  site-url: https://lepeu.github.io
+  repo-url: https://github.com/LepEU/lepeu.github.io
   
 
 format:
