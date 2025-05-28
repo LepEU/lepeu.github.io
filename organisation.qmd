@@ -57,7 +57,7 @@ LepEU is a network spanning 13 countries
 
 ::: {style="float: right; margin: 5px;"}
 
-![](./images/hubs2025.png){.img}
+![](./images/Hubs2025_2.png){.img}
 
 :::
 
