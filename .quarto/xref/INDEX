@@ -55,5 +55,14 @@
   },
   "news/2025-06-10-MP-meetingreport/index.qmd": {
     "index.html": "be2609ba"
+  },
+  "protocols.qmd": {
+    "protocols.html": "dc11144c"
+  },
+  "guides.qmd": {
+    "guides.html": "9adf3d50"
+  },
+  "samplingOverview.qmd": {
+    "samplingOverview.html": "d492d9b9"
   }
 }

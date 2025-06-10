@@ -54,7 +54,7 @@ LepEU is a network spanning 13 countries and >100 members.
 
 ::: {style="float: right; margin: 1px;"}
 
-![](./images/Hubs202506.png){.img}
+![](./images/hubtastic.png){.img}
 
 :::
 
@@ -73,8 +73,9 @@ LepEU is a network spanning 13 countries and >100 members.
 
 ### South
 
-- **Italy**: Emiliano Trucci, Marche Polytechnic University. 
-- **Spain**: Constanti Stefanescu, Museum of Natural Sciences of Granollers. 
+- **Italy**: Emiliano Trucci, Marche Polytechnic University.  
+- **Portugal**:  Patrícia Beldade, Faculty of Sciences of the University of Lisbon.
+- **Spain**: Constanti Stefanescu, Museum of Natural Sciences of Granollers.
 
 ## Web site and public outreach
 
@@ -85,6 +86,6 @@ LepEU is a network spanning 13 countries and >100 members.
 Our members come from all across Europe and beyond.
 The map below shows locations of the >100 members of LepEU based on their home institution.
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Iouj-QINzv5mlk1IqsCXqeDO7zFlHps&ehbc=2E312F&noprof=1" title="WG4 member institutional locations" width="100%" height="300px"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Iouj-QINzv5mlk1IqsCXqeDO7zFlHps&ehbc=2E312F&noprof=1" title="WG4 member institutional locations" width="75%" height="300px"></iframe>
 
 

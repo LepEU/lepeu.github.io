@@ -4,12 +4,12 @@ project:
 
 website:
   favicon: "./images/LepEU transparent.png"
-#  announcement: 
-#    icon: info-circle
-#    dismissable: true
-#    content: "**Alert** - Registeration is open for the **European Lepidoptera Pop Gen Workshop** - 12-16 May 2025 - Montpellier, France see the [**News**](./news.qmd)"
-#    type: success
-#    position: below-navbar
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "See the Post-meeting statement from the first face-to-face **European Lepidoptera Pop Gen Workshop** - 12-16 May 2025 - Montpellier, France on the [**News**](./news.qmd) page"
+    type: success
+    position: below-navbar
   twitter-card: true
   open-graph: true
 
@@ -18,24 +18,32 @@ website:
     title: false
     logo: "./images/LepEU transparent.png"
     left:
-      - href: index.qmd
-        text: Home
+  
 #      - href: members.qmd
 #        text: Members
       - href: organisation.qmd
         text: Organisation
       - href: species.qmd
-        text: Species
-      - href: datapolicy.qmd
-        text: Data Sharing
-      - href: funding.qmd
-        text: Funding
-      - href: pubs.qmd #TODO: make blog post like!
-        text: Publications
+        text: Strategy
+      - text: Resources
+        menu:
+          - href: samplingOverview.qmd
+            text: Sampling Status
+          - href: protocols.qmd
+            text: Protocols
+          - href: guides.qmd
+            text: Field Guides & ID
+          - href: datapolicy.qmd
+            text: Data Usage
+          - href: pubs.qmd #TODO: make blog post like!
+            text: Publications
+          - href: funding.qmd
+            text: Funding
+          - href: contact.qmd
+            text: Join Us!
       - href: news.qmd
         text: News
-      - href: contact.qmd
-        text: Join Us!
+     
   page-footer:  
     center:
       - text: "Copyright 2025 &copy; LepEU Consortium"

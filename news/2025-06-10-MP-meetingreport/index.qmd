@@ -1,7 +1,7 @@
 ---
 title: "LepEU Pop Gen Workshop (12-16 May 2025, Montpellier, France)"
 description: "Post-Meeting Statement"
-author: LepEU Leaders
+author: Patricia, Mathieu, Chris
 date: 06-10-2025
 categories: [meeting, training, networking] # self-defined categories
 #citation: 
@@ -25,9 +25,9 @@ Butterflies are a key study group to showcase the utility of genomic knowledge t
 1\. **Sampling Priorities**: Participants agreed to prioritize the completion of sampling
 of populations across Europe and Whole Genome Sequencing (WGS) for 13
 core butterfly species --- with top priority on *Pieris napi*, *Anthocharis
-cardamines*, *Pararge aegeria*, and *Maniola jurtina*. Meanwhile, sampling of an
-additional species 12 species, including grassland indicators and day-flying
-moths, will continue throughout the season (https://lepeu.github.io/species.html).
+cardamines*, *Pararge aegeria*, and *Maniola jurtina*. Meanwhile, [sampling of an
+additional 12 species](https://lepeu.github.io/species.html), including grassland indicators and day-flying
+moths, will continue throughout the season .
 
 2\. **Standardized Protocols**: The role of national coordinators was established for
 each participating country to facilitate specimens' collection together with local
