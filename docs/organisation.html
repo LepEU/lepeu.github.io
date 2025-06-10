@@ -69,6 +69,15 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-Z6QF0999FY"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-Z6QF0999FY', { 'anonymize_ip': true});
+</script>
 <style>
 
       .quarto-title-block .quarto-title-banner h1,
@@ -245,8 +254,6 @@ title-block-header.quarto-title-block.default .quarto-title-meta {
 <li><strong>Sweden</strong>: Niklas Wahlberg, Lund University.</li>
 <li><strong>United Kingdom</strong>: Joana Meier and Charlotte Wright, Wellcome Sanger Institute.</li>
 </ul>
-<p><!-- TODO: Make map interactive with hubs e.g. highlight hub when selected on map --></p>
-<p><!-- TODO: or update the image below to reflect new hubs --></p>
 <div style="float: right; margin: 1px;">
 <p><img src="./images/Hubs202506.png" class="img img-fluid"></p>
 </div>
@@ -284,8 +291,8 @@ title-block-header.quarto-title-block.default .quarto-title-meta {
 </section>
 <section id="lepeu-wg4-members" class="level2">
 <h2 class="anchored" data-anchor-id="lepeu-wg4-members">LepEU (WG4) Members</h2>
-<p>Our members (also part of <strong>WG4</strong> of Lep10K) come from all across Europe and beyond. The map below shows locations of the &gt;100 members of LepEU based on their home institution.</p>
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Iouj-QINzv5mlk1IqsCXqeDO7zFlHps&amp;ehbc=2E312F&amp;noprof=1" title="WG4 member institutional locations" width="100%" height="300">
+<p>Our members come from all across Europe and beyond. The map below shows locations of the &gt;100 members of LepEU based on their home institution.</p>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Iouj-QINzv5mlk1IqsCXqeDO7zFlHps&amp;ehbc=2E312F&amp;noprof=1" title="WG4 member institutional locations" width="100%" height="300px">
 </iframe>
 
 
@@ -385,7 +392,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/lepeu\.github\.io");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

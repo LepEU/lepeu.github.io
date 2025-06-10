@@ -1,12 +1,8 @@
 ---
-title: "European Lepidoptera Pop Gen Workshop (12-16 May 2025, Montpellier, France) - Post Meeting Statement"
+title: "LepEU Pop Gen Workshop (12-16 May 2025, Montpellier, France)"
 description: "Post-Meeting Statement"
-author:
-  - name: LepEU Leaders
-    url: 
-    affiliation: 
-    affiliation-url:
-date: 03-14-2025
+author: LepEU Leaders
+date: 06-10-2025
 categories: [meeting, training, networking] # self-defined categories
 #citation: 
 #  url: https://lepeu.github.io/news/2024-09-17-cost_action_signup/ 
@@ -24,76 +20,43 @@ Montpellier, France --- LepEU[^1] (European Lepidopteran Population Genomics Co
 
 Butterflies are a key study group to showcase the utility of genomic knowledge to understand and protect biodiversity. Butterfly ecology is well documented in research and museums, some species have great economic impact (pollinators and pests), or serve as key bioindicators for conservation. The size of their genomes allow efficient reference genome assembly and population genomics work. They are the target of active citizen science programmes and are powerful for outreach. LepEU aims at leveraging all the merits of butterflies to foster biodiversity research using population genomic approaches.
 
-## Key Outcomes of the Workshop and LepEU Milestones
+### Key Outcomes of the Workshop and LepEU Milestones
 
 1\. **Sampling Priorities**: Participants agreed to prioritize the completion of sampling
-
 of populations across Europe and Whole Genome Sequencing (WGS) for 13
-
-core butterfly species --- with top priority on *Pieris napi*, \*Anthocharis
-
-cardamines\*, *Pararge aegeria*, and *Maniola jurtina*. Meanwhile, sampling of an
-
+core butterfly species --- with top priority on *Pieris napi*, *Anthocharis
+cardamines*, *Pararge aegeria*, and *Maniola jurtina*. Meanwhile, sampling of an
 additional species 12 species, including grassland indicators and day-flying
-
 moths, will continue throughout the season (https://lepeu.github.io/species.html).
 
 2\. **Standardized Protocols**: The role of national coordinators was established for
-
 each participating country to facilitate specimens' collection together with local
-
 researchers. Shared protocols for sampling, preparation and metadata archiving
+were adopted to improve standardization and interoperability of generated datasets with other major biodiversity initiatives, such as the Darwin Tree of Life Project (DTOL) and the European Reference Genome Atlas (ERGA).
 
-were adopted to improve standardization and interoperability of generated datasets with other major biodiversity initiatives, such as the Darwin Tree of Life
+3\. **Hands-On Laboratory Work**: During the meeting, and coordinated by Dr.Mathieu Joron (CNRS, France), workshop participants conducted approximately 500 DNA extractions in the Centre d'Ecologie Fonctionnelle et Evolutive laboratories. The samples corresponded to 21 species collected by 15 researchers in 34 localities across 7 European countries. The DNA extractions will be ready for WGS in the coming months, representing a milestone for LepEU.
 
-Project (DTOL) and the European Reference Genome Atlas (ERGA).
-
-3\. **Hands-On Laboratory Work**: During the meeting, and coordinated by Dr
-
-Mathieu Joron (CNRS, France), workshop participants conducted approximately
-
-500 DNA extractions in the Centre d'Ecologie Fonctionnelle et
-
-Evolutive laboratories. The samples corresponded to 21 species collected by 15
-
-researchers in 34 localities across 7 European countries. The DNA extractions
-
-will be ready for WGS in the coming months, representing a milestone for
-
-LepEU.
-
-## A Vision for 2030
+### A Vision for 2030
 
 Looking to the future, the LepEU consortium outlined an ambitious roadmap:
 
 -   **Expanding Species Coverage**: The initiative will now extend to all 17 butterfly
-
 species used in the European Grassland Butterfly Indicator, as well as 10
-
 widespread and easily identifiable moth species, thus contributing to the EU
-
 Pollinators Initiative.
 
 -   **Genetic Diversity Monitoring**: The project will generate and analyze genomic
-
-data necessary to estimate genetic diversity indicators, as required under the
-
-2022 Kunming-Montreal Global Biodiversity Framework.
+data necessary to estimate genetic diversity indicators, as required under the 2022 Kunming-Montreal Global Biodiversity Framework.
 
 -   **Temporal Insights via Museum Samples**: A key goal will be to assess changes
-
 in genetic diversity over time driven by anthropogenic activities using historical
-
 specimens archived at museum collections.
 
 -   **Capacity Building**: A training school focused on analyzing WGS data and
-
 targeting early career researchers will be organized in 2026, offering hands-on
-
 practice to analyze WGS data for comparative population genomics.
 
 -   **Securing Support**: The consortium will actively seek funding to support the
-
 continued sampling, sequencing, and analysis efforts across Europe.
 
 
