@@ -34,3 +34,10 @@
   font-weight: bold;
   background-color: red;
 }
+
+/* divs for positioning google maps iframe */
+.iframe-div { 
+ display: flex; 
+ align-items: center; 
+ justify-content: center; 
+} 

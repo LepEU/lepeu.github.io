@@ -91,6 +91,8 @@ LepEU is a network spanning 13 countries and 42 members.
 [10kLepGenomes COST Action](https://10klepgenomes.eu/
 ) Working Group 4 (WG4) members are also associated with LepEU. The map below shows locations of the >100 members of WG4 based on their home institution.
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Iouj-QINzv5mlk1IqsCXqeDO7zFlHps&ehbc=2E312F&noprof=1" title="WG4 member institutional locations" width="75%" height="300px"></iframe>
+<div class="iframe-div">
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Iouj-QINzv5mlk1IqsCXqeDO7zFlHps&ehbc=2E312F&noprof=1" title="WG4 member institutional locations" width="100%" height="300px"></iframe>
+</div>
 
 
