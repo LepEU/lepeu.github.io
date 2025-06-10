@@ -31,9 +31,18 @@ include-in-header:
   </ol>
 </nav>
 ```
+
+::: {style="float: right; margin: 1px;"}
+
+![](./images/hubtastic.png){.img}
+
+:::
+
+
+
 # The LepEU Network
 
-LepEU is a network spanning 13 countries and >100 members.
+LepEU is a network spanning 13 countries and 42 members.
 
 
 ## Co-organizers of LepEU
@@ -52,11 +61,7 @@ LepEU is a network spanning 13 countries and >100 members.
 - **United Kingdom**: Joana Meier and Charlotte Wright, Wellcome Sanger Institute. 
 
 
-::: {style="float: right; margin: 1px;"}
 
-![](./images/hubtastic.png){.img}
-
-:::
 
 ### Central
 
@@ -81,10 +86,10 @@ LepEU is a network spanning 13 countries and >100 members.
 
 - **Web Administrator**: Saad Arif, Oxford Brookes, University, GB.
 
-## LepEU (WG4) Members
+## Lep10K WG4 Members
 
-Our members come from all across Europe and beyond.
-The map below shows locations of the >100 members of LepEU based on their home institution.
+[10kLepGenomes COST Action](https://10klepgenomes.eu/
+) Working Group 4 (WG4) members are also associated with LepEU. The map below shows locations of the >100 members of WG4 based on their home institution.
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Iouj-QINzv5mlk1IqsCXqeDO7zFlHps&ehbc=2E312F&noprof=1" title="WG4 member institutional locations" width="75%" height="300px"></iframe>
 

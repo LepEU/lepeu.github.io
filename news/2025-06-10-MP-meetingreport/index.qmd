@@ -1,7 +1,7 @@
 ---
 title: "LepEU Pop Gen Workshop (12-16 May 2025, Montpellier, France)"
 description: "Post-Meeting Statement"
-author: Patricia, Mathieu, Chris
+author: Matos Maravi Pavel Fortunato, Marta Vila Taboada 
 date: 06-10-2025
 categories: [meeting, training, networking] # self-defined categories
 #citation: 
