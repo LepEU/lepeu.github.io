@@ -24,7 +24,7 @@ listing:
   - id: south
     contents: "members/south/*.qmd"
     type: grid
-    image-height: 200px
+    image-height: 250px
     grid-columns: 8
     fields: [image, title, subtitle]
     grid-item-align: center

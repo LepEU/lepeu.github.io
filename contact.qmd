@@ -16,7 +16,7 @@ include-in-header:
         background-image: url(./images/imagine1withText.png);
         background-size: cover;
         background-position-y: center;
-        height: 200px;
+        height: 250px;
       }
       </style>
 #pageTitle: "Join Us! | LepEU"
