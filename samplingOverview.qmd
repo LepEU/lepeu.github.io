@@ -31,6 +31,6 @@ include-in-header:
 ```
 
 
-```{=html}
+<!-- ```{=html}
 <iframe width="100%" height="100%" src="https://r-poloni.github.io/exabase_visualiser/" title="Database visualisation" frameborder="0" allowfullscreen></iframe>
-```
+``` -->
