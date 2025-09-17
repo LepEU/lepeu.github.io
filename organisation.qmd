@@ -61,8 +61,6 @@ LepEU is a network spanning 14 countries and 42 core members (which expands to >
 - **United Kingdom**: Joana Meier and Charlotte Wright, Wellcome Sanger Institute. 
 
 
-
-
 ### Central
 
 - **Czech Republic**:	Zdenek Fric, Entomologický ústav.
