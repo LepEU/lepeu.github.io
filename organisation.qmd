@@ -42,6 +42,7 @@ include-in-header:
 
 # The LepEU Network
 
+
 LepEU is a network spanning 14 countries and 42 members (which expands to > 100 members through WG4 of the 10kLEPGENOMES COST Action).
 
 
@@ -59,8 +60,6 @@ LepEU is a network spanning 14 countries and 42 members (which expands to > 100 
 - **Finland**: Marjo Saastamoinen, University of Helsinki. 
 - **Sweden**: Niklas Wahlberg, Lund University. 
 - **United Kingdom**: Joana Meier and Charlotte Wright, Wellcome Sanger Institute. 
-
-
 
 
 ### Central
