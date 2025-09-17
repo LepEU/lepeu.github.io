@@ -42,7 +42,8 @@ include-in-header:
 
 # The LepEU Network
 
-LepEU is a network spanning 14 countries and 42 core members (which expands to > 100 through the 10KLEPGENOMES COST ACTION).
+
+LepEU is a network spanning 14 countries and 42 members (which expands to > 100 members through WG4 of the 10kLEPGENOMES COST Action).
 
 
 ## Co-organizers of LepEU

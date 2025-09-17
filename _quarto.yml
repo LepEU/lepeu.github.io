@@ -4,12 +4,12 @@ project:
 
 website:
   favicon: "./images/LepEU transparent.png"
-  announcement: 
-    icon: info-circle
-    dismissable: true
-    content: "See the Post-meeting statement from the first face-to-face **European Lepidoptera Pop Gen Workshop** - 12-16 May 2025 - Montpellier, France on the [**News**](./news.qmd) page"
-    type: success
-    position: below-navbar
+  # announcement: 
+  #   icon: info-circle
+  #   dismissable: true
+  #   content: "See the Post-meeting statement from the first face-to-face **European Lepidoptera Pop Gen Workshop** - 12-16 May 2025 - Montpellier, France on the [**News**](./news.qmd) page"
+  #   type: success
+  #   position: below-navbar
   twitter-card: true
   open-graph: true
 
@@ -27,8 +27,8 @@ website:
         text: Strategy
       - text: Resources
         menu:
-          - href: samplingOverview.qmd
-            text: Sampling Status
+#         - href: samplingOverview.qmd
+#           text: Sampling Status
           - href: protocols.qmd
             text: Protocols
           - href: guides.qmd
