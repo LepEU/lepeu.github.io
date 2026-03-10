@@ -1,5 +1,5 @@
 ---
-title: "LepEU Traning Workshop 2026 "
+title: "LepEU Training Workshop 2026 "
 description: "Signup for funded LepEU training and networking activities 2026"
 author:
   - name: Marta Vila
