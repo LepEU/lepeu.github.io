@@ -50,6 +50,7 @@ LepEU is a network spanning 14 countries and 42 members (which expands to > 100 
 
 - Patrícia Beldade, Faculty of Sciences of the University of Lisbon, PT. 
 - Mathieu Joron, Centre d'Ecologie Fonctionnelle et Evolutive (CEFE), FR.
+- Marta Vila Taboada, University of A Coruna, ES.
 - Christopher Wheat, Stockholm University, SE.
 
 ## National collection coordinators
@@ -81,9 +82,10 @@ LepEU is a network spanning 14 countries and 42 members (which expands to > 100 
 - **Portugal**:  Patrícia Beldade, Faculty of Sciences of the University of Lisbon.
 - **Spain**: Constanti Stefanescu, Museum of Natural Sciences of Granollers.
 
-## Web site and public outreach
+## Infrastructure and data management
 
 - **Web Administrator**: Saad Arif, Oxford Brookes, University, GB.
+- **Database Administrator**: Riccardo Poloni,  Université PSL, CNRS, INSERM & MNHN-CNRS-EPHA-SU-UA, FR
 
 ## Lep10K WG4 Members
 
