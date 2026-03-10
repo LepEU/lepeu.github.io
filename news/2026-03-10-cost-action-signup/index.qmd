@@ -2,7 +2,7 @@
 title: "LepEU Traning Workshop 2026 "
 description: "Signup for funded LepEU training and networking activities 2026"
 author:
-  - name: Martina Vila Taboada
+  - name: Martina Vila
     affiliation: University of A Coruna, ES
 date: 03-10-2026
 categories: [funding, training, networking] # self-defined categorie

@@ -50,7 +50,7 @@ LepEU is a network spanning 14 countries and 42 members (which expands to > 100 
 
 - Patrícia Beldade, Faculty of Sciences of the University of Lisbon, PT. 
 - Mathieu Joron, Centre d'Ecologie Fonctionnelle et Evolutive (CEFE), FR.
-- Marta Vila Taboada, University of A Coruna, ES.
+- Marta Vila, University of A Coruna, ES.
 - Christopher Wheat, Stockholm University, SE.
 
 ## National collection coordinators
