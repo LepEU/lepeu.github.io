@@ -1,0 +1,32 @@
+---
+title: "LepEU Traning Workshop 2026 "
+description: "Signup for funded LepEU training and networking activities 2026"
+author:
+  - name: Martina Vila Taboada
+    affiliation: University of A Coruna, ES
+date: 03-10-2026
+categories: [funding, training, networking] # self-defined categorie
+#citation: 
+#  url: https://lepeu.github.io/news/2024-09-17-cost_action_signup/ 
+image: liboa.webp
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+## Sign-up details for LepEU training and hackathon 2026
+
+Applications are open for the LepEU Workshop 2026: a joint training + hackathon event focused on the analysis of Lepidoptera genomic data.
+
+
+**When**: 26–29 May 2026   
+**Where**: Faculty of Sciences, University of Lisbon (Portugal)
+
+Benchmarking studies in genomics and bioinformatics show that analytical choices can lead to different results, even when using the same data. In response, the LepEU Workshop 2026 will focus on developing best-practice recommendations for reproducible Lepidoptera genomics.
+
+The program is designed to support participants with different levels of experience:
+
+- **Beginners** will learn how to run and interpret standard #bioinformatics pipelines
+- **More experienced participants** will explore the potential of alternative approaches in Lepidoptera  population genomics
+
+ Registration for the workshop is open until 15 March 2026. Please sign up [here](https://forms.gle/ZqG58pc2yyCKV1sj6)
+
+ Join us in Lisbon for an exciting opportunity to learn, collaborate, and contribute to the future of Lepidoptera genomics research!
