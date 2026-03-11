@@ -32,6 +32,8 @@ website:
         menu:
           - text: Data Sharing
             href: datapolicy.qmd 
+          - text: Database Entry
+            href: database.qmd
       - href: funding.qmd
         text: Funding
       - href: pubs.qmd #TODO: make blog post like!
@@ -58,5 +60,6 @@ format:
       light: cosmo
     css: styles.css
     toc: false
+    bootstrap-icons: true
     page-layout: full
 
