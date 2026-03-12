@@ -1,11 +1,11 @@
 ---
-title: "LepEU Training Workshop 2026 "
-description: "Signup for funded LepEU training and networking activities 2026"
+title: "LepEU Lepidoptera Genomics Training Workshop 2026 "
+description: "Signup for funded LepEU training workshop 2026"
 author:
   - name: Marta Vila
     affiliation: University of A Coruna, ES
 date: 03-10-2026
-categories: [funding, training, networking] # self-defined categorie
+categories: [workshop, training, networking] # self-defined categorie
 #citation: 
 #  url: https://lepeu.github.io/news/2024-09-17-cost_action_signup/ 
 image: liboa.webp
