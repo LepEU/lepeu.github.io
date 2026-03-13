@@ -24,7 +24,7 @@ Benchmarking studies in genomics and bioinformatics show that analytical choices
 
 The program is designed to support participants with different levels of experience:
 
-- **Beginners** will learn how to run and interpret standard #bioinformatics pipelines
+- **Beginners** will learn how to run and interpret standard bioinformatics pipelines
 - **More experienced participants** will explore the potential of alternative approaches in Lepidoptera  population genomics
 
  Registration for the workshop is open until 15 March 2026. Please sign up [here](https://forms.gle/ZqG58pc2yyCKV1sj6)
