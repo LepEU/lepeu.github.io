@@ -4,12 +4,12 @@ project:
 
 website:
   favicon: "./images/LepEU transparent.png"
-  announcement: 
-    icon: info-circle
-    dismissable: true
-    content: "**Alert** - Registeration is open for the **LepEU Training Workshop** - 26-29 May 2026 - Lisbon, Portugal see the [**News**](./news.qmd)"
-    type: success
-    position: below-navbar
+ # announcement: 
+ #   icon: info-circle
+ #   dismissable: true
+ #   content: "**Alert** - Registeration is open for the **LepEU Training Workshop** - 26-29 May 2026 - Lisbon, Portugal see the [**News**](./news.qmd)"
+ #   type: success
+ #   position: below-navbar
   twitter-card: true
   open-graph: true
 
