@@ -32,8 +32,8 @@ website:
             href: datapolicy.qmd 
           - text: Database Entry
             href: database.qmd
-          - text: Sampling Protocols
-            href: protocols.qmd
+          - text: Sampling Guidelines
+            href: sampling.qmd
       - href: funding.qmd
         text: Funding
       - href: pubs.qmd #TODO: make blog post like!
