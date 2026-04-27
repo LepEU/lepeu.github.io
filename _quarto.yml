@@ -34,6 +34,8 @@ website:
             href: database.qmd
           - text: Sampling Guidelines
             href: sampling.qmd
+          - text: Using Epicollect for Metadata Collection
+            href: epicollect.qmd
       - href: funding.qmd
         text: Funding
       - href: pubs.qmd #TODO: make blog post like!

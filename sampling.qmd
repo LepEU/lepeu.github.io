@@ -30,9 +30,10 @@ include-in-header:
 </nav>
 ```
 
-{{< pdf files/Guidelines_for_Specimens_Sampling_Processing_Transport.pdf width=100% height=600 >}}
-
 ::: {.callout-tip}
-## Can't see the document?
+## Can't see the document below?
 If the PDF isn't loading, you can [Download the PDF here](files/Guidelines_for_Specimens_Sampling_Processing_Transport.pdf){.btn .btn-outline-primary .btn-sm role="button"}
 :::
+
+{{< pdf files/Guidelines_for_Specimens_Sampling_Processing_Transport.pdf width=100% height=600 >}}
+
