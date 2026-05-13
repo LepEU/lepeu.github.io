@@ -29,6 +29,9 @@ include-in-header:
   </ol>
 </nav>
 ```
+
+The **epicollect** app can be directly used by LepEU members and facilitates the collection of metadata associated to the samples on the field. In this way, the data are directly ready to be inserted into the LepEU database. See below for a PDF of the form and instructions on how to use it.
+
 ::: {.callout-tip}
 ## Can't see the document below?
 If the PDF isn't loading, you can [Download the PDF here](files/pres_epicollect.pdf){.btn .btn-outline-primary .btn-sm role="button"}
