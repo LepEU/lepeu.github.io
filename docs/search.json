@@ -347,7 +347,7 @@
     "href": "species.html#phase-3",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "Phase 3:",
-    "text": "Phase 3:\nWe are actively working to extend our sampling and regional sampling hubs to represent the full range of Lepidopteran biodiversity across all of Europe, especially including a range of moth species.\nIf you wish to suggest species for continental scale population sampling, please contact us."
+    "text": "Phase 3:\nThis phase will expand to include moth species.\n\nLasiocampa quercus\nNoctua pronuba\nPanolis flammea\nPhalera bucephala\nCalliteara pudibunda\nCydalima perspectalis\nHelicoverpa armigera\n\nAgrotis exclamationis\nOdezia atrata\nArctia caja\nPseudopanthera macularia\nSiona lineata\nArctia plantaginis\nHesperia comma\nZygaena ephialtes"
   },
   {
     "objectID": "funding.html#klepgenomes-cost-action-network",
@@ -530,5 +530,12 @@
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "",
     "text": "Home\n    Using epicollect for metadata collection\n  \n\n\n\n\n\n\n\nTipCan’t see the document below?\n\n\n\nIf the PDF isn’t loading, you can Download the PDF here\n\n\nDownload PDF file."
+  },
+  {
+    "objectID": "species.html#phase-3-n15-species",
+    "href": "species.html#phase-3-n15-species",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
+    "section": "Phase 3 n=15 species:",
+    "text": "Phase 3 n=15 species:\nThis phase will expand to include moth species.\n\nLasiocampa quercus\nNoctua pronuba\nPanolis flammea\nPhalera bucephala\nCalliteara pudibunda\nCydalima perspectalis\nHelicoverpa armigera\n\nAgrotis exclamationis\nOdezia atrata\nArctia caja\nPseudopanthera macularia\nSiona lineata\nArctia plantaginis\nHesperia comma\nZygaena ephialtes"
   }
 ]

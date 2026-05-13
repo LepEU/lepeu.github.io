@@ -70,9 +70,22 @@ Expands species to now include all of the [European Biodiversity Grassland Indic
 - *Spialia sertorius*
 - *Thymelicus acteon*
 
-## **Phase 3**: 
-We are actively working to extend our sampling and regional sampling hubs to represent the full range of Lepidopteran biodiversity across all of Europe, especially including a range of moth species.
+## **Phase 3** n=15 species: 
 
-If you wish to suggest species for continental scale population sampling, please contact us.
+This phase will expand to include moth species.
 
-
+- *Lasiocampa quercus*
+- *Noctua pronuba*
+- *Panolis flammea*
+- *Phalera bucephala*
+- *Calliteara pudibunda*
+- *Cydalima perspectalis*
+- *Helicoverpa armigera*  
+- *Agrotis exclamationis*
+- *Odezia atrata*
+- *Arctia caja*
+- *Pseudopanthera macularia*
+- *Siona lineata*
+- *Arctia plantaginis*
+- *Hesperia comma*
+- *Zygaena ephialtes*
