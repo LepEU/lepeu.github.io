@@ -70,7 +70,7 @@ Expands species to now include all of the [European Biodiversity Grassland Indic
 - *Spialia sertorius*
 - *Thymelicus acteon*
 
-## **Phase 3** n=15 species: 
+## **Phase 3**: n=15 species: 
 
 This phase will expand to include moth species.
 
