@@ -1,0 +1,74 @@
+.logo-slider {
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start; 
+  background: #ffffff;
+  padding: 20px 0;
+  
+  /* AUTOSIZE LOGIC: Limit container width to exactly ONE logo + its padding */
+  /* --logo-width: 150px;       /* Set your preferred logo width */
+  /* --logo-margin: 15px;       Set your preferred logo spacing */
+  /* width: calc(var(--logo-width) + (var(--logo-margin) * 2)); */
+  /* margin: 0 auto;            Centers the entire container on the webpage */ 
+
+  /* FIXED WINDOW DIMENSIONS */
+  width: 180px;             /* Enforces a strict, unyielding window width */
+  height: 100px;            /* Enforces a strict, unyielding window height */
+  margin: 0 auto;           /* Centers the fixed box horizontally on your page */
+  box-sizing: border-box;
+    /* ADD THIS: Softly blurs/fades logos out as they exit the box sides */
+  mask-image: linear-gradient(to right, transparent, #000 15%, #000 85%, transparent);
+  -webkit-mask-image: linear-gradient(to right, transparent, #000 15%, #000 85%, transparent);
+}
+
+.logo-slider:hover .logo-track {
+  animation-play-state: paused;
+}
+
+.logo-track {
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+  
+  /* ANIMATION ADJUSTMENT */
+  /* For 2 distinct logos (4 total in HTML with duplicates): */
+  /* Move by exactly 2 logos width to return to the starting position */
+  animation: scroll-single 12s linear infinite;   
+}
+
+.logo-track img {
+  /* width: var(--logo-width);  Enforces uniform width */
+  /* height: auto;              Maintains image aspect ratio */
+  /* margin: 0 var(--logo-margin); */
+  /* flex-shrink: 0;            Prevents browser from squishing the logos */
+
+
+    /* RESPONSIVE LOGO BOXES */
+  width: 180px;             /* Each logo slide matches the exact window width */
+  height: 80px;             /* Leave a small buffer for top/bottom padding */
+  padding: 0 20px;          /* Internal padding to keep logos away from edges */
+  flex-shrink: 0;           /* Prevents the browser from compressing the images */
+  
+  /* IMAGE PROPORTION PROTECTION */
+  object-fit: contain;      /* Magic rule: fits logos perfectly without distorting them */
+  object-position: center;  
+}
+
+@keyframes scroll-single {
+  /* 0% {
+    transform: translateX(0);
+  }
+  100% {
+    /* Translates by exactly 2 logos worth of total width */
+    /* transform: translateX(calc(-2 * (var(--logo-width) + (var(--logo-margin) * 2)))); */
+  /* }  */
+    0% {
+    transform: translateX(0);
+  }
+  100% {
+    /* Translates by exactly two full slide widths (250px * 2 = 500px) */
+    transform: translateX(-50%); 
+  }
+}

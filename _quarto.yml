@@ -63,7 +63,9 @@ format:
   html:
     theme: 
       light: cosmo
-    css: styles.css
+    css: 
+      - styles.css
+      - carousel.css
     toc: false
     bootstrap-icons: true
     page-layout: full
