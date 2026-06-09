@@ -64,5 +64,17 @@
   },
   "samplingOverview.qmd": {
     "samplingOverview.html": "d492d9b9"
+  },
+  "news/2026-03-10-cost-action-signup/index.qmd": {
+    "index.html": "71bcdba3"
+  },
+  "database.qmd": {
+    "database.html": "b5de9fc9"
+  },
+  "sampling.qmd": {
+    "sampling.html": "0943e468"
+  },
+  "epicollect.qmd": {
+    "epicollect.html": "4c595a67"
   }
 }

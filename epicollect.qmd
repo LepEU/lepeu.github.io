@@ -25,17 +25,18 @@ include-in-header:
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Data Sharing Policy</li>
+    <li class="breadcrumb-item active" aria-current="page">Using epicollect for metadata collection</li>
   </ol>
 </nav>
 ```
 
+The **epicollect** app can be directly used by LepEU members and facilitates the collection of metadata associated to the samples on the field. In this way, the data are directly ready to be inserted into the LepEU database. See below for a PDF of the form and instructions on how to use it.
+
 ::: {.callout-tip}
 ## Can't see the document below?
-If the PDF isn't loading, you can [Download the PDF here](files/Guidelines_for_Data_Sharing_and_Paper_Authorship.pdf){.btn .btn-outline-primary .btn-sm role="button"}
+If the PDF isn't loading, you can [Download the PDF here](files/pres_epicollect.pdf){.btn .btn-outline-primary .btn-sm role="button"}
 :::
 
 
-{{< pdf files/Guidelines_for_Data_Sharing_and_Paper_Authorship.pdf  width=100% height=600 >}}
-
+{{< pdf files/pres_epicollect.pdf width=100% height=600 >}}
 
