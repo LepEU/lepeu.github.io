@@ -21,17 +21,23 @@ include-in-header:
       </style>
 
 listing: 
-  contents: news # this name must match the name of the folder you created in step #1; here, all Quarto docs in the `posts` directory will be included on your listing page
-  type: default # or `default` or `table`; each type has its own set of yaml options to include
+  contents: associatedProjects # this name must match the name of the folder you created in step #1; here, all Quarto docs in the `posts` directory will be included on your listing page
+  type: grid # or `default` or `table`; each type has its own set of yaml options to include
   sort: "date desc" # can also sort on more than one field
-  categories: true # allows you to sort posts by assigned categories 
+  categories: false # allows you to sort posts by assigned categories 
 ---
 
 ```{=html}
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-    <li class="breadcrumb-item active" aria-current="page">News</li>
+    <li class="breadcrumb-item active" aria-current="page">Associated Projects</li>
   </ol>
 </nav>
 ```
+
+This page documents projects that are being conducted or led by LepEU members, independently of the [main consortium activities](./index.qmd), while leveraging the reach of the LepEU network and community. 
+
+You can read about the projects that are currently being conducted by LepEU members, and find out how to get involved in them!
+
+---

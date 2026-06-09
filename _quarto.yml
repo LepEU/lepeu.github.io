@@ -20,12 +20,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-#      - href: members.qmd
-#        text: Members
-      - href: organisation.qmd
-        text: Organisation
-      - href: species.qmd
-        text: Species
+      - text: "About"
+        menu:
+        - href: organisation.qmd
+          text: Organisation
+        - href: species.qmd
+          text: Species  
+        - href: funding.qmd
+          text: Funding
       - text: Resources
         menu:
           - text: Data Sharing
@@ -36,8 +38,8 @@ website:
             href: sampling.qmd
           - text: Using Epicollect for Metadata Collection
             href: epicollect.qmd
-      - href: funding.qmd
-        text: Funding
+      - href: associatedProjects.qmd
+        text: Associated Projects
       - href: pubs.qmd #TODO: make blog post like!
         text: Publications
       - href: news.qmd

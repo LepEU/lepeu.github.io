@@ -13,5 +13,19 @@
     "items": [
       "/members/north/saadarif.html"
     ]
+  },
+  {
+    "listing": "/specialProjects.html",
+    "items": [
+      "/specialProjects/winterMoths_NatalievanDis/index.html",
+      "/specialProjects/microbiome_arneWeinhold/index.html"
+    ]
+  },
+  {
+    "listing": "/associatedProjects.html",
+    "items": [
+      "/associatedProjects/winterMoths_NatalievanDis/index.html",
+      "/associatedProjects/microbiome_arneWeinhold/index.html"
+    ]
   }
 ]

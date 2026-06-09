@@ -1,0 +1,42 @@
+---
+title: "Sample winter moths (*Operophtera brumata*) for space-for-time project"
+description: "Sampling help needed"
+author:
+  - name: Natalie van Dis
+    affiliation: Netherlands Institute of Ecology (NIOO-KNAW)
+date: 06-09-2026
+#categories: [workshop, training, networking] # self-defined categorie
+#citation: 
+#  url: https://lepeu.github.io/news/2024-09-17-cost_action_signup/ 
+image: liboa.webp
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+I am Natalie van Dis, a junior group leader at the Netherlands Institute of Ecology (NIOO-KNAW), working on drivers and constraints of rapid adaptation to climate change. I am emailing you because I am looking for collaborators to help me sample winter moth (Operophtera brumata) populations across Europe for a new project about space-for-time substitutions.
+
+I recently pitched this project at the LepEU May 2026 meeting to invite the network to contribute samples. With this email, I would look to formally invite you to join the project.
+
+## The project in short
+I have obtained funding to study space-for-time substitutions for the next four years, asking whether populations can adapt to climate change by becoming genetically similar to more southern populations, using the winter moth as my model species. I already have a unique temporal dataset (both phenotypic and genomics) that I have previously collected for four Dutch winter moth populations, capturing their genetic adaptation to climate change. The newly obtained funding covers the additional sequencing of 378 individuals from 18 different populations across Europe, to obtain the spatial data to test whether genetic variation that varies across spatial climate gradients is the same variation that has changed over time in response to climate change.
+
+## What you could help me with
+
+- **What**: Sampling of 20-30 females per year of the winter moth, *Operophtera brumata* (minimum 20 females per year) for phenotyping and genotyping
+- **Where**: on deciduous oak trees (*Quercus* spp.) near you
+- **When**: late autumn or early winter in 2026 / 2027 / 2028 / 2029 (minimally in one year, but preferably in multiple years)
+-  **How**: with funnel traps (provided by me) or by visiting oak trees after dusk
+
+
+## What I can offer in return
+
+- Catching materials (traps, tubes, substrate for egg laying) and shipping of samples will be provided and paid for by me
+- I will keep you up-to-date about the project, via email and by providing updates at the monthly LepEU online meetings
+-  I expect to publish at least three manuscripts on this project and offer co-authorship on all papers that use samples that you collected
+
+
+## More information
+You can find more information about the project and the sampling procedure in this [Google Drive folder](https://urldefense.com/v3/__https://drive.google.com/drive/folders/1i7kn6OKNr_6EOMnF-faI4pxkmCLXmMtd?usp=sharing__;!!FapE6t-4AhA!IS-whJDdFBzkToyvQZYrULu-Owwuimwa4UysOqyoH2DCLFm0YblBxw6XHzlv99Skr8VqTpPwrB0-0AN-VvAkJ1hFY2EwUuQGuA$). Note that winter moth (*O. brumata*) samples that meet the sampling requirements are likely to get whole genome sequenced. The obtained sequencing data will be contributed to the LepEU Consortium.
+
+## How to join
+I very much hope you are willing to contribute samples to this project! If yes, please fill in this [Google form](https://urldefense.com/v3/__https://forms.gle/aRZdshsT1wWvRbHY7__;!!FapE6t-4AhA!IS-whJDdFBzkToyvQZYrULu-Owwuimwa4UysOqyoH2DCLFm0YblBxw6XHzlv99Skr8VqTpPwrB0-0AN-VvAkJ1hFY2F9kF0BUg$) as an expression of interest and I will be in touch to arrange the sampling with you.
+
