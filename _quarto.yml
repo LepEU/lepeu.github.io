@@ -28,6 +28,8 @@ website:
           text: Species  
         - href: funding.qmd
           text: Funding
+        - href: contact.qmd
+          text: Join Us!
       - text: Resources
         menu:
           - text: Data Sharing
@@ -44,8 +46,7 @@ website:
         text: Publications
       - href: news.qmd
         text: News
-      - href: contact.qmd
-        text: Join Us!
+    
   page-footer:  
     center:
       - text: "Copyright 2026 &copy; LepEU Consortium"
