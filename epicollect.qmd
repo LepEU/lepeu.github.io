@@ -39,7 +39,8 @@ The **epicollect** app can be directly used by LepEU members and facilitates the
 If the PDF isn't loading, you can [Download the PDF here](files/pres_epicollect.pdf){.btn .btn-outline-primary .btn-sm role="button" aria-label="Download Epicollect instructions PDF"}
 :::
 
-<div style="position: relative; width: 100%; padding-bottom: 75%; height: 0; overflow: hidden;">
+<div style="position: relative; width: 100%; padding-bottom: 75%; 
+            height: 0; overflow: hidden; min-height: 400px;">
   <iframe 
     src="files/pres_epicollect.pdf" 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"

@@ -37,7 +37,8 @@ include-in-header:
 If the PDF isn't loading, you can [Download the PDF here](files/Guidelines_for_Specimens_Sampling_Processing_Transport.pdf){.btn .btn-outline-primary .btn-sm role="button" aria-label="Download Sampling Guidelines PDF"}
 :::
 
-<div style="position: relative; width: 100%; padding-bottom: 75%; height: 0; overflow: hidden;">
+<div style="position: relative; width: 100%; padding-bottom: 75%; 
+            height: 0; overflow: hidden; min-height: 400px;">
   <iframe 
     src="files/Guidelines_for_Specimens_Sampling_Processing_Transport.pdf" 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"

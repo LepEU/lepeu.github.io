@@ -52,3 +52,22 @@
   clip: rect(0,0,0,0);
   white-space: nowrap;
 }
+
+/* Smooth scale up on hover for blog grid entries, currently applied to all grid items */
+.quarto-grid-item {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.quarto-grid-item:hover {
+  transform: scale(1.03);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+}
+/* Disable animation for users who prefer reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .quarto-grid-item {
+    transition: none;
+  }
+  .quarto-grid-item:hover {
+    transform: none;
+  }
+}
