@@ -41,7 +41,7 @@ website:
             text: Associated Projects
       - text: Resources
         menu:
-          - text: Data Sharing
+          - text: Data Sharing Policy
             href: datapolicy.qmd 
           - text: Database Entry
             href: database.qmd
@@ -49,9 +49,9 @@ website:
             href: sampling.qmd
           - text: Using Epicollect for Metadata Collection
             href: epicollect.qmd
-#      - href: associatedProjects.qmd
- #       text: Associated Projects
-      - href: pubs.qmd #TODO: make blog post like!
+          - text: Lepidoptera Species Identification
+            href: guides.qmd
+      - href: pubs.qmd 
         text: Publications
       - href: news.qmd
         text: News

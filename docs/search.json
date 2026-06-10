@@ -109,7 +109,7 @@
     "href": "datapolicy.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "",
-    "text": "Home\n    Resources\n    Data Sharing Policy\n  \n\n\n\n\n\n\n\nTipCan’t see the document below?\n\n\n\nIf the PDF isn’t loading, you can Download the PDF here\n\n\nDownload PDF file."
+    "text": "Home\n    Resources\n    Data Sharing Policy"
   },
   {
     "objectID": "news.html",
@@ -228,7 +228,7 @@
     "href": "database.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "",
-    "text": "Home\n    Resources\n    Database Entry\n  \n\n\n\n\n\n\n\nTipCan’t see the document below?\n\n\n\nIf the PDF isn’t loading, you can Download the PDF here\n\n\nDownload PDF file."
+    "text": "Home\n    Resources\n    Database Entry"
   },
   {
     "objectID": "associatedProjects/winterMoths_NatalievanDis/index.html",
@@ -298,21 +298,21 @@
     "href": "sampling.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "",
-    "text": "Home\n    Resources\n    Sampling Guidelines\n  \n\n\n\n\n\n\n\nTipCan’t see the document below?\n\n\n\nIf the PDF isn’t loading, you can Download the PDF here\n\n\nDownload PDF file."
+    "text": "Home\n    Resources\n    Sampling Guidelines\n  \n\n\nSampling Guidelines for Specimens Collection, Processing and Transport\n\n\n\n\n\n\nTipCan’t see the document below?\n\n\n\nIf the PDF isn’t loading, you can Download the PDF here\n\n\n\n\n&lt;p&gt;\nYour browser does not support embedded PDFs. &lt;a href=\"files/Guidelines_for_Specimens_Sampling_Processing_Transport.pdf\"&gt;Download the PDF here&lt;/a&gt;.\n&lt;/p&gt;\n&lt;p&gt;\n\nDownload PDF file."
   },
   {
     "objectID": "associatedProjects.html",
     "href": "associatedProjects.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "",
-    "text": "Home\n    Working Groups\n    Associated Projects\n  \n\nThis page documents projects that are being conducted or led by LepEU members, independently of the main consortium activities, while leveraging the LepEU network and community for help with sampling, funding acquisition and other aspects. These projects may be in various stages of development, and may or may not be directly related to the main goals of LepEU. They are listed here to facilitate collaboration and communication among LepEU members, and to provide a platform for sharing resources and expertise.\nYou can read about the projects below, and find out how to get involved in them!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDynamics of microbial enrichment in adult butterflies\n\n\n\nArne Weinhold\n\n\n\n\n\n\naffiliation\n\n\nLMU Munich, Germany\n\n\n\n\n\nstatus\n\n\nactive\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSample winter moths (Operophtera brumata) for space-for-time project\n\n\n\nNatalie van Dis\n\n\n\n\n\n\naffiliation\n\n\nNetherlands Institute of Ecology (NIOO-KNAW)\n\n\n\n\n\nstatus\n\n\nactive\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Home\n    Working Groups\n    Associated Projects"
   },
   {
     "objectID": "guides.html",
     "href": "guides.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "",
-    "text": "Home\n    Field Guides and ID Resouces"
+    "text": "Home\n     Resources\n    Lepidoptera Species Identification"
   },
   {
     "objectID": "guides.html#resources-for-identifying-species",
@@ -396,7 +396,7 @@
     "href": "epicollect.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "",
-    "text": "Home\n    Resources\n    Using epicollect for metadata collection\n  \n\nThe epicollect app can be directly used by LepEU members and facilitates the collection of metadata associated to the samples on the field. In this way, the data are directly ready to be inserted into the LepEU database. See below for a PDF of the form and instructions on how to use it.\n\n\n\n\n\n\nTipCan’t see the document below?\n\n\n\nIf the PDF isn’t loading, you can Download the PDF here\n\n\nDownload PDF file."
+    "text": "Home\n    Resources\n    Using epicollect for metadata collection"
   },
   {
     "objectID": "associatedProjects/microbiome_arneWeinhold/index.html#how-can-you-help",
@@ -460,5 +460,33 @@
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "Population Genomics",
     "text": "Population Genomics"
+  },
+  {
+    "objectID": "epicollect.html#using-epicollect-for-metadata-collection",
+    "href": "epicollect.html#using-epicollect-for-metadata-collection",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
+    "section": "Using Epicollect for Metadata Collection",
+    "text": "Using Epicollect for Metadata Collection\nThe epicollect app can be directly used by LepEU members and facilitates the collection of metadata associated to the samples on the field. In this way, the data are directly ready to be inserted into the LepEU database. See below for a PDF of the form and instructions on how to use it.\n\n\n\n\n\n\nTipCan’t see the document below?\n\n\n\nIf the PDF isn’t loading, you can Download the PDF here\n\n\n\n\n&lt;p&gt;\nYour browser does not support embedded PDFs. &lt;a href=\"files/pres_epicollect.pdf\"&gt;Download the PDF here&lt;/a&gt;.\n&lt;/p&gt;\n&lt;p&gt;"
+  },
+  {
+    "objectID": "datapolicy.html#data-sharing-policy-and-paper-authorship-guidelines",
+    "href": "datapolicy.html#data-sharing-policy-and-paper-authorship-guidelines",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
+    "section": "Data Sharing Policy and Paper Authorship Guidelines",
+    "text": "Data Sharing Policy and Paper Authorship Guidelines\n\n\n\n\n\n\nTipCan’t see the document below?\n\n\n\nIf the PDF isn’t loading, you can Download the PDF here\n\n\n\n\n&lt;p&gt;\nYour browser does not support embedded PDFs. &lt;a href=\"files/Guidelines_for_Data_Sharing_and_Paper_Authorship.pdf\"&gt;Download the PDF here&lt;/a&gt;.\n&lt;/p&gt;\n&lt;p&gt;"
+  },
+  {
+    "objectID": "database.html#database-entry-instructions",
+    "href": "database.html#database-entry-instructions",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
+    "section": "Database Entry Instructions",
+    "text": "Database Entry Instructions\n\n\n\n\n\n\nTipCan’t see the document below?\n\n\n\nIf the PDF isn’t loading, you can Download the PDF here\n\n\n\n\n&lt;p&gt;\nYour browser does not support embedded PDFs. &lt;a href=\"files/how_to_fill_database.pdf\"&gt;Download the PDF here&lt;/a&gt;.\n&lt;/p&gt;\n&lt;p&gt;"
+  },
+  {
+    "objectID": "associatedProjects.html#associated-projects",
+    "href": "associatedProjects.html#associated-projects",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
+    "section": "Associated Projects",
+    "text": "Associated Projects\nThis page documents projects that are being conducted or led by LepEU members, independently of the main consortium activities, while still leveraging the LepEU network and community for help with sampling, funding acquisition and other aspects. These projects may be in various stages of development, and may or may not be directly related to the main goals of LepEU. They are listed here to facilitate collaboration and communication among LepEU members, and to provide a platform for sharing resources and expertise.\nYou can read about the projects below, and find out how to get involved in them! If you have a project that you could benefit from the LepEU network, please feel free to contact any of the LepEU admin."
   }
 ]
