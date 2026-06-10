@@ -11,6 +11,7 @@ status: active
 #citation: 
 #  url: https://lepeu.github.io/news/2024-09-17-cost_action_signup/ 
 image: WM_caption.png
+image-alt: "A winter moth (Operophtera brumata) resting on an oak leaf"
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 

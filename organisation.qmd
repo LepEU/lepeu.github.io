@@ -34,7 +34,7 @@ include-in-header:
 
 ::: {style="float: right; margin: 1px;"}
 
-![](./images/hubicon.png){.img}
+<img src="./images/hubicon.png" class="img" alt="A map of Europe showing location of regional collection hubs">
 
 :::
 

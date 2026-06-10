@@ -11,6 +11,7 @@ status: active
 #citation: 
 #  url: https://lepeu.github.io/news/2024-09-17-cost_action_signup/ 
 image: Pbrass_AW.webp
+image-alt:  "A cabbage white butterfly (Pieris brassicae) resting on a leaf"
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 

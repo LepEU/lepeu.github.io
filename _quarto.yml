@@ -17,9 +17,10 @@ website:
   navbar:
     title: false
     logo: "./images/LepEU transparent.png"
+    logo-href: index.qmd
     left:
-      - href: index.qmd
-        text: Home
+     # - href: index.qmd
+     #   text: Home
       - text: "About"
         menu:
         - href: organisation.qmd
