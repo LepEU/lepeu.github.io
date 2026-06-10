@@ -27,6 +27,7 @@ include-in-header:
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+    <li class="breadcrumb-item">About</li>
     <li class="breadcrumb-item active" aria-current="page">Species</li>
   </ol>
 </nav>
@@ -72,7 +73,7 @@ Expands species to now include all of the [European Biodiversity Grassland Indic
 
 ## **Phase 3**: n=15 species: 
 
-This phase will expand to include moth species.
+This phase will expand to include mostly moth species.
 
 - *Lasiocampa quercus*
 - *Noctua pronuba*

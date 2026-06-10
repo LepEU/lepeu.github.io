@@ -109,5 +109,14 @@
   },
   "publications/articles/beldadeetal2026.qmd": {
     "beldadeetal2026.html": "cf6dc8b1"
+  },
+  "workinggroups.qmd": {
+    "workinggroups.html": "caa21660"
+  },
+  "wgHistoricalSamples.qmd": {
+    "wgHistoricalSamples.html": "b4343d04"
+  },
+  "wgPopulationGenomics.qmd": {
+    "wgPopulationGenomics.html": "34f6cef6"
   }
 }

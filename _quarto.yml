@@ -31,6 +31,14 @@ website:
           text: Funding
         - href: contact.qmd
           text: Join Us!
+      - text: "Working Groups"
+        menu:
+          - href: wgPopulationGenomics.qmd
+            text: Population Genomics
+          - href: wgHistoricalSamples.qmd
+            text: Historical Samples
+          - href: associatedProjects.qmd
+            text: Associated Projects
       - text: Resources
         menu:
           - text: Data Sharing
@@ -41,8 +49,8 @@ website:
             href: sampling.qmd
           - text: Using Epicollect for Metadata Collection
             href: epicollect.qmd
-      - href: associatedProjects.qmd
-        text: Associated Projects
+#      - href: associatedProjects.qmd
+ #       text: Associated Projects
       - href: pubs.qmd #TODO: make blog post like!
         text: Publications
       - href: news.qmd
