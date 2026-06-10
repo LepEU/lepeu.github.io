@@ -19,10 +19,12 @@ include-in-header:
         height: 250px;
       }
       </style>
-
 listing: 
   contents: associatedProjects # this name must match the name of the folder you created in step #1; here, all Quarto docs in the `posts` directory will be included on your listing page
   type: grid # or `default` or `table`; each type has its own set of yaml options to include
+  fields: [image, title, author, affiliation, status]  # add status here
+  field-display-names:
+    status: ""       # controls the label shown on the card
   sort: "date desc" # can also sort on more than one field
   categories: false # allows you to sort posts by assigned categories 
 ---
@@ -41,3 +43,18 @@ This page documents projects that are being conducted or led by LepEU members, i
 You can read about the projects that are currently being conducted by LepEU members, and find out how to get involved in them!
 
 ---
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".card-other-values td.status").forEach(function (td) {
+    const value = td.textContent.trim().toLowerCase();
+    if (value === "active") {
+      td.style.backgroundColor = "#22c55e";
+      td.style.color = "white";
+    } else if (value === "inactive") {
+      td.style.backgroundColor = "#d1d5db";
+      td.style.color = "#374151";
+    }
+  });
+});
+</script>

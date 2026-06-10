@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/pubs.html",
+    "items": [
+      "/publications/articles/beldadeetal2026.html"
+    ]
+  },
+  {
     "listing": "/news.html",
     "items": [
       "/news/2026-03-10-cost-action-signup/index.html",
@@ -15,23 +21,10 @@
     ]
   },
   {
-    "listing": "/specialProjects.html",
-    "items": [
-      "/specialProjects/winterMoths_NatalievanDis/index.html",
-      "/specialProjects/microbiome_arneWeinhold/index.html"
-    ]
-  },
-  {
     "listing": "/associatedProjects.html",
     "items": [
-      "/associatedProjects/winterMoths_NatalievanDis/index.html",
-      "/associatedProjects/microbiome_arneWeinhold/index.html"
-    ]
-  },
-  {
-    "listing": "/pubs.html",
-    "items": [
-      "/publications/articles/beldadeetal2026.html"
+      "/associatedProjects/microbiome_arneWeinhold/index.html",
+      "/associatedProjects/winterMoths_NatalievanDis/index.html"
     ]
   }
 ]

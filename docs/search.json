@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "datapolicy.html",
-    "href": "datapolicy.html",
+    "objectID": "members/north/saadarif.html",
+    "href": "members/north/saadarif.html",
+    "title": "Saad Arif",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Saad Arif"
+  },
+  {
+    "objectID": "members/north/saadarif.html#biography-info",
+    "href": "members/north/saadarif.html#biography-info",
+    "title": "Saad Arif",
+    "section": "Biography /Info",
+    "text": "Biography /Info"
+  },
+  {
+    "objectID": "samplingOverview.html",
+    "href": "samplingOverview.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "",
-    "text": "Home\n    Data Sharing Policy\n  \n\n\n\n\n\n\n\nTipCan’t see the document below?\n\n\n\nIf the PDF isn’t loading, you can Download the PDF here\n\n\nDownload PDF file."
+    "text": "Home\n    Sampling Status"
   },
   {
     "objectID": "news/2024-09-17-cost_action_signup/index.html",
@@ -21,11 +35,53 @@
     "text": "LepEU is part of the recently funded 10kLepGenomes COST Action Network. This network has 5 working groups (1.Societal needs; 2.Speciment collection for genomic work; 3.Reference genome assembly and comparative genomic analyses; 4.Population genomic analyses; 5.Applied uses of results). LepEU interests primarily fall within WG2 and WG4, while Psyche interests fall with WG2 and WG4. But, we all likely have some interest in more working groups.\nThe COST action means that we have funding for our community to attend in person meetings, organize student placements and run training events. These interactions will also allow us to transport samples, coordinate DNA extractions, and develop our community in connection with Psyche and others. In the immediate future, we are looking forward to planning an in-person meeting to discuss regional sampling, DNA extractions, methods and analyses.\nTo benefit from this funding and attend meetings and workshops organized by this action, you need to be registered to the COST action. You can sign up to 1-3 working groups depending on your interests. You can read more about the action and sign up here: https://www.cost.eu/actions/CA23122/\nWhen applying to join, you will be asked to provide a brief summary of your motivation and how you would contribute to the working group. This does not need to be in depth but including details of what interests you, and what you would like to see planned, will be extremely useful in shaping what we will achieve during the action.\nEarly-career researchers, including students, are particularly encouraged to join as the action will provide exciting opportunities for training, engaging in exchanges and attending meetings. Please feel free to share the invite with your lab members and others that you think would be interested in joining.\nSo, please go and sign-up ASAP (before October 1)."
   },
   {
+    "objectID": "news/2025-06-10-MP-meetingreport/index.html",
+    "href": "news/2025-06-10-MP-meetingreport/index.html",
+    "title": "LepEU Pop Gen Workshop (12-16 May 2025, Montpellier, France)",
+    "section": "",
+    "text": "Montpellier, France — LepEU1 (European Lepidopteran Population Genomics Consortium) studies diversity patterns and local adaptation of butterflies and moths over space and time through a comparative population genomics approach. From 12 to 16 May, 21 researchers from across Europe2 convened in Montpellier for the first LepEU Workshop, a meeting dedicated to coordinating collecting efforts and discussing the research goals and future applications in conservation and pest management. The event was supported by the European Cooperation in Science and Technology (COST) Action 10kLepGenomes.\nButterflies are a key study group to showcase the utility of genomic knowledge to understand and protect biodiversity. Butterfly ecology is well documented in research and museums, some species have great economic impact (pollinators and pests), or serve as key bioindicators for conservation. The size of their genomes allow efficient reference genome assembly and population genomics work. They are the target of active citizen science programmes and are powerful for outreach. LepEU aims at leveraging all the merits of butterflies to foster biodiversity research using population genomic approaches.\n\n\n1. Sampling Priorities: Participants agreed to prioritize the completion of sampling of populations across Europe and Whole Genome Sequencing (WGS) for 13 core butterfly species — with top priority on Pieris napi, Anthocharis cardamines, Pararge aegeria, and Maniola jurtina. Meanwhile, sampling of an additional 12 species, including grassland indicators and day-flying moths, will continue throughout the season .\n2. Standardized Protocols: The role of national coordinators was established for each participating country to facilitate specimens’ collection together with local researchers. Shared protocols for sampling, preparation and metadata archiving were adopted to improve standardization and interoperability of generated datasets with other major biodiversity initiatives, such as the Darwin Tree of Life Project (DTOL) and the European Reference Genome Atlas (ERGA).\n3. Hands-On Laboratory Work: During the meeting, and coordinated by Dr.Mathieu Joron (CNRS, France), workshop participants conducted approximately 500 DNA extractions in the Centre d’Ecologie Fonctionnelle et Evolutive laboratories. The samples corresponded to 21 species collected by 15 researchers in 34 localities across 7 European countries. The DNA extractions will be ready for WGS in the coming months, representing a milestone for LepEU.\n\n\n\nLooking to the future, the LepEU consortium outlined an ambitious roadmap:\n\nExpanding Species Coverage: The initiative will now extend to all 17 butterfly species used in the European Grassland Butterfly Indicator, as well as 10 widespread and easily identifiable moth species, thus contributing to the EU Pollinators Initiative.\nGenetic Diversity Monitoring: The project will generate and analyze genomic data necessary to estimate genetic diversity indicators, as required under the 2022 Kunming-Montreal Global Biodiversity Framework.\nTemporal Insights via Museum Samples: A key goal will be to assess changes in genetic diversity over time driven by anthropogenic activities using historical specimens archived at museum collections.\nCapacity Building: A training school focused on analyzing WGS data and targeting early career researchers will be organized in 2026, offering hands-on practice to analyze WGS data for comparative population genomics.\nSecuring Support: The consortium will actively seek funding to support the continued sampling, sequencing, and analysis efforts across Europe.\n\nDr Patrícia Beldade summarized the collective sentiment: \n\n\n“This meeting has strengthened our scientific vision and built the foundations for a lasting collaborative effort. By combining resources, expertise and data, we are paving the way for an unprecedented understanding of butterfly population genomics in Europe.”"
+  },
+  {
+    "objectID": "news/2025-06-10-MP-meetingreport/index.html#european-scientists-unite-to-advance-butterfly-genomics-for-understanding-and-preserving-biodiversity",
+    "href": "news/2025-06-10-MP-meetingreport/index.html#european-scientists-unite-to-advance-butterfly-genomics-for-understanding-and-preserving-biodiversity",
+    "title": "LepEU Pop Gen Workshop (12-16 May 2025, Montpellier, France)",
+    "section": "",
+    "text": "Montpellier, France — LepEU1 (European Lepidopteran Population Genomics Consortium) studies diversity patterns and local adaptation of butterflies and moths over space and time through a comparative population genomics approach. From 12 to 16 May, 21 researchers from across Europe2 convened in Montpellier for the first LepEU Workshop, a meeting dedicated to coordinating collecting efforts and discussing the research goals and future applications in conservation and pest management. The event was supported by the European Cooperation in Science and Technology (COST) Action 10kLepGenomes.\nButterflies are a key study group to showcase the utility of genomic knowledge to understand and protect biodiversity. Butterfly ecology is well documented in research and museums, some species have great economic impact (pollinators and pests), or serve as key bioindicators for conservation. The size of their genomes allow efficient reference genome assembly and population genomics work. They are the target of active citizen science programmes and are powerful for outreach. LepEU aims at leveraging all the merits of butterflies to foster biodiversity research using population genomic approaches.\n\n\n1. Sampling Priorities: Participants agreed to prioritize the completion of sampling of populations across Europe and Whole Genome Sequencing (WGS) for 13 core butterfly species — with top priority on Pieris napi, Anthocharis cardamines, Pararge aegeria, and Maniola jurtina. Meanwhile, sampling of an additional 12 species, including grassland indicators and day-flying moths, will continue throughout the season .\n2. Standardized Protocols: The role of national coordinators was established for each participating country to facilitate specimens’ collection together with local researchers. Shared protocols for sampling, preparation and metadata archiving were adopted to improve standardization and interoperability of generated datasets with other major biodiversity initiatives, such as the Darwin Tree of Life Project (DTOL) and the European Reference Genome Atlas (ERGA).\n3. Hands-On Laboratory Work: During the meeting, and coordinated by Dr.Mathieu Joron (CNRS, France), workshop participants conducted approximately 500 DNA extractions in the Centre d’Ecologie Fonctionnelle et Evolutive laboratories. The samples corresponded to 21 species collected by 15 researchers in 34 localities across 7 European countries. The DNA extractions will be ready for WGS in the coming months, representing a milestone for LepEU.\n\n\n\nLooking to the future, the LepEU consortium outlined an ambitious roadmap:\n\nExpanding Species Coverage: The initiative will now extend to all 17 butterfly species used in the European Grassland Butterfly Indicator, as well as 10 widespread and easily identifiable moth species, thus contributing to the EU Pollinators Initiative.\nGenetic Diversity Monitoring: The project will generate and analyze genomic data necessary to estimate genetic diversity indicators, as required under the 2022 Kunming-Montreal Global Biodiversity Framework.\nTemporal Insights via Museum Samples: A key goal will be to assess changes in genetic diversity over time driven by anthropogenic activities using historical specimens archived at museum collections.\nCapacity Building: A training school focused on analyzing WGS data and targeting early career researchers will be organized in 2026, offering hands-on practice to analyze WGS data for comparative population genomics.\nSecuring Support: The consortium will actively seek funding to support the continued sampling, sequencing, and analysis efforts across Europe.\n\nDr Patrícia Beldade summarized the collective sentiment: \n\n\n“This meeting has strengthened our scientific vision and built the foundations for a lasting collaborative effort. By combining resources, expertise and data, we are paving the way for an unprecedented understanding of butterfly population genomics in Europe.”"
+  },
+  {
+    "objectID": "news/2025-06-10-MP-meetingreport/index.html#footnotes",
+    "href": "news/2025-06-10-MP-meetingreport/index.html#footnotes",
+    "title": "LepEU Pop Gen Workshop (12-16 May 2025, Montpellier, France)",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThe LepEU Consortium (https://lepeu.github.io/) involves 42 researchers working in 13 countries across Europe. LepEU works closely with Project Psyche (https://www.projectpsyche.org/), which generates chromosome-level genomes of all butterflies and moths in Europe. As such, LepEU complement these efforts with population genomics insights of selected species across Europe.↩︎\nParticipants included researchers working in 10 different countries (Czechia, Finland, France, Germany, Portugal, Spain, Sweden, Switzerland, Turkey, and the United Kingdom), at different career stages, and brought together an equal gender balance (10 women and 11 men), reflecting the collaborative and inclusive spirit of the network.↩︎"
+  },
+  {
     "objectID": "species.html",
     "href": "species.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "",
     "text": "Home\n    Species"
+  },
+  {
+    "objectID": "species.html#phase-1-n13-species",
+    "href": "species.html#phase-1-n13-species",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
+    "section": "Phase 1: n=13 species",
+    "text": "Phase 1: n=13 species\nThis set is from 2024, including 5 of the European Biodiversity Grassland Indicator species. Goal for 2025 is to complete this sampling across collection hubs.\n\nAglais io\nAglais urticae\nAnthocharis cardamines\nCallophrys rubi\nCoenonympha pamphilus\nGonepteryx rhamni\nLasiommata megera\nManiola jurtina\nMelitaea cinxia\nPararge aegeria\nPieris napi\nPieris rapae\nPolyommatus icarus"
+  },
+  {
+    "objectID": "species.html#phase-2-n12-species",
+    "href": "species.html#phase-2-n12-species",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
+    "section": "Phase 2: n=12 species",
+    "text": "Phase 2: n=12 species\nExpands species to now include all of the European Biodiversity Grassland Indicator species\n\nCupido minimus\nCyaniris semiargus\nErynnis tages\nEuphydryas aurinia\nLycaena phlaeas\nOchlodes sylvanus\nPhengaris arion\nPhengaris nausithous\nPolyommatus bellargus\nPolyommatus coridon\nSpialia sertorius\nThymelicus acteon"
+  },
+  {
+    "objectID": "species.html#phase-3-n15-species",
+    "href": "species.html#phase-3-n15-species",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
+    "section": "Phase 3: n=15 species:",
+    "text": "Phase 3: n=15 species:\nThis phase will expand to include moth species.\n\nLasiocampa quercus\nNoctua pronuba\nPanolis flammea\nPhalera bucephala\nCalliteara pudibunda\nCydalima perspectalis\nHelicoverpa armigera\n\nAgrotis exclamationis\nOdezia atrata\nArctia caja\nPseudopanthera macularia\nSiona lineata\nArctia plantaginis\nHesperia comma\nZygaena ephialtes"
   },
   {
     "objectID": "pubs.html",
@@ -49,46 +105,11 @@
     "text": "LepEU is focused upon understanding and conserving the biodiversity of butterflies and moths.\nWe coordinate the sampling of wild populations of Lepidoptera across Europe. We take the DNA from these individuals to generate whole genome sequencing data of regional populaion samples for each species. Our goal is to conduct continental scale, comparative population genomic analyses of local adaptation, over space and time.\nInsect declines, especially among diverse Lepidoptera, are now well documented. By learning the landscape of evolutionary dynamics for diverse Lepidoptera, LepEU seeks to inform biodiversity management at both the regional and EU level.\nLepEU relies upon the 1000’s of reference genomes that are being generated by Project Psyche and the 10kLepGenomes COST Action. We seek to complement these efforts with population genomic insights."
   },
   {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "News",
-    "text": "News\n17th Sept, 2024 - LepEU now has COST action funding! Please see the latest News"
-  },
-  {
-    "objectID": "index.html#join-us",
-    "href": "index.html#join-us",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "Join Us",
-    "text": "Join Us\nif you would like to join or paricipate, please check out the Join Us page"
-  },
-  {
-    "objectID": "organisation.html",
-    "href": "organisation.html",
+    "objectID": "datapolicy.html",
+    "href": "datapolicy.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "",
-    "text": "Home\n    Organisation"
-  },
-  {
-    "objectID": "organisation.html#co-organizers-of-lepeu",
-    "href": "organisation.html#co-organizers-of-lepeu",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "Co-organizers of LepEU",
-    "text": "Co-organizers of LepEU\n\nPatrícia Beldade, Faculty of Sciences of the University of Lisbon, PT.\nMathieu Joron, Centre d’Ecologie Fonctionnelle et Evolutive (CEFE), FR.\nMarta Vila, University of A Coruna, ES.\nChristopher Wheat, Stockholm University, SE."
-  },
-  {
-    "objectID": "organisation.html#regional-collection-coordination",
-    "href": "organisation.html#regional-collection-coordination",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "Regional collection coordination",
-    "text": "Regional collection coordination\n\n \n\nNorth\n\nEstonia: Tomas Tammaru, University of Tartu.\nFinland: Marjo Saastamoinen, University of Helsinki.\nSweden: Niklas Wahlberg, Lund University.\nUnited Kingdom: Joana Meier and Charlotte Wright, Wellcome Sanger Institute.\n\n\n\nCentral\n\nCzech Republic: Zdenek Fric, Entomologický ústav.\nPoland: Richard Bailey, University of Lodz.\nGermany: Matthew Nielsen, University of Bremen.\nSwitzerland: Kay Lucek, University of Neuchâtel.\n\nFrance: Mathieu Joron, Centre for Evolutionary and Functional Ecology (CEFE-CNRS).\n\n\n\nEast\n\nTurkey: Başak Ulaşlı, Hatay Mustafa Kemal University, Plant Protection Department\nRomania: Vlad Dinca, “Grigore Antipa” National Museum of Natural History.\n\n\n\nSouth\n\nSpain: Constanti Stefanescu, Museum of Natural Sciences of Granollers.\nItaly: Emiliano Trucci, Marche Polytechnic University."
-  },
-  {
-    "objectID": "organisation.html#web-administration-and-public-outreach",
-    "href": "organisation.html#web-administration-and-public-outreach",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "Web administration and public outreach",
-    "text": "Web administration and public outreach\n\nWeb Administrator: Saad Arif, Oxford Brookes, University, GB."
+    "text": "Home\n    Data Sharing Policy\n  \n\n\n\n\n\n\n\nTipCan’t see the document below?\n\n\n\nIf the PDF isn’t loading, you can Download the PDF here\n\n\nDownload PDF file."
   },
   {
     "objectID": "news.html",
@@ -96,6 +117,27 @@
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "",
     "text": "Home\n    News\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLepEU Lepidoptera Genomics Training Workshop 2026\n\n\n\nworkshop\n\ntraining\n\nnetworking\n\n\n\nSignup for funded LepEU training workshop 2026\n\n\n\n\n\nMar 10, 2026\n\n\nMarta Vila\n\n\n\n\n\n\n\n\n\n\n\n\nLepEU Pop Gen Workshop (12-16 May 2025, Montpellier, France)\n\n\n\nmeeting\n\ntraining\n\nnetworking\n\n\n\nPost-Meeting Statement\n\n\n\n\n\nJun 10, 2025\n\n\nPavel Fortunato Matos Maravi, Marta Vila\n\n\n\n\n\n\n\n\n\n\n\n\nEuropean Lepidoptera Pop Gen Workshop - 12-16 May 2025 - Montpellier, France\n\n\n\nmeeting\n\ntraining\n\nnetworking\n\n\n\nPop Gen Workshop - Meeting, DNA extractions and more\n\n\n\n\n\nMar 14, 2025\n\n\nMathieu Joron\n\n\n\n\n\n\n\n\n\n\n\n\nSignup details for COST Action Network funding\n\n\n\nfunding\n\ntraining\n\nnetworking\n\n\n\nSignup for funded LepEU training and networking activities\n\n\n\n\n\nSep 17, 2024\n\n\nChristopher Wheat\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "associatedProjects/microbiome_arneWeinhold/index.html",
+    "href": "associatedProjects/microbiome_arneWeinhold/index.html",
+    "title": "Dynamics of microbial enrichment in adult butterflies",
+    "section": "",
+    "text": "I use cabbage white butterflies (Pieris spp.) as a model to investigate how the timing of microbial acquisition shapes microbial community assembly dynamics over time. The goal is to understand microbial enrichment within natural habitats across three adult butterfly generations. The combination of 16S Metabarcoding and ecological modelling will allow to test hypotheses about host-filtering and neutral community assembly on a temporal gradient."
+  },
+  {
+    "objectID": "associatedProjects/microbiome_arneWeinhold/index.html#european-scientists-unite-to-advance-butterfly-genomics-for-understanding-and-preserving-biodiversity",
+    "href": "associatedProjects/microbiome_arneWeinhold/index.html#european-scientists-unite-to-advance-butterfly-genomics-for-understanding-and-preserving-biodiversity",
+    "title": "LepEU Pop Gen Workshop (12-16 May 2025, Montpellier, France)",
+    "section": "",
+    "text": "Montpellier, France — LepEU1 (European Lepidopteran Population Genomics Consortium) studies diversity patterns and local adaptation of butterflies and moths over space and time through a comparative population genomics approach. From 12 to 16 May, 21 researchers from across Europe2 convened in Montpellier for the first LepEU Workshop, a meeting dedicated to coordinating collecting efforts and discussing the research goals and future applications in conservation and pest management. The event was supported by the European Cooperation in Science and Technology (COST) Action 10kLepGenomes.\nButterflies are a key study group to showcase the utility of genomic knowledge to understand and protect biodiversity. Butterfly ecology is well documented in research and museums, some species have great economic impact (pollinators and pests), or serve as key bioindicators for conservation. The size of their genomes allow efficient reference genome assembly and population genomics work. They are the target of active citizen science programmes and are powerful for outreach. LepEU aims at leveraging all the merits of butterflies to foster biodiversity research using population genomic approaches.\n\n\n1. Sampling Priorities: Participants agreed to prioritize the completion of sampling of populations across Europe and Whole Genome Sequencing (WGS) for 13 core butterfly species — with top priority on Pieris napi, Anthocharis cardamines, Pararge aegeria, and Maniola jurtina. Meanwhile, sampling of an additional 12 species, including grassland indicators and day-flying moths, will continue throughout the season .\n2. Standardized Protocols: The role of national coordinators was established for each participating country to facilitate specimens’ collection together with local researchers. Shared protocols for sampling, preparation and metadata archiving were adopted to improve standardization and interoperability of generated datasets with other major biodiversity initiatives, such as the Darwin Tree of Life Project (DTOL) and the European Reference Genome Atlas (ERGA).\n3. Hands-On Laboratory Work: During the meeting, and coordinated by Dr.Mathieu Joron (CNRS, France), workshop participants conducted approximately 500 DNA extractions in the Centre d’Ecologie Fonctionnelle et Evolutive laboratories. The samples corresponded to 21 species collected by 15 researchers in 34 localities across 7 European countries. The DNA extractions will be ready for WGS in the coming months, representing a milestone for LepEU.\n\n\n\nLooking to the future, the LepEU consortium outlined an ambitious roadmap:\n\nExpanding Species Coverage: The initiative will now extend to all 17 butterfly species used in the European Grassland Butterfly Indicator, as well as 10 widespread and easily identifiable moth species, thus contributing to the EU Pollinators Initiative.\nGenetic Diversity Monitoring: The project will generate and analyze genomic data necessary to estimate genetic diversity indicators, as required under the 2022 Kunming-Montreal Global Biodiversity Framework.\nTemporal Insights via Museum Samples: A key goal will be to assess changes in genetic diversity over time driven by anthropogenic activities using historical specimens archived at museum collections.\nCapacity Building: A training school focused on analyzing WGS data and targeting early career researchers will be organized in 2026, offering hands-on practice to analyze WGS data for comparative population genomics.\nSecuring Support: The consortium will actively seek funding to support the continued sampling, sequencing, and analysis efforts across Europe.\n\nDr Patrícia Beldade summarized the collective sentiment: \n\n\n“This meeting has strengthened our scientific vision and built the foundations for a lasting collaborative effort. By combining resources, expertise and data, we are paving the way for an unprecedented understanding of butterfly population genomics in Europe.”"
+  },
+  {
+    "objectID": "associatedProjects/microbiome_arneWeinhold/index.html#footnotes",
+    "href": "associatedProjects/microbiome_arneWeinhold/index.html#footnotes",
+    "title": "LepEU Pop Gen Workshop (12-16 May 2025, Montpellier, France)",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThe LepEU Consortium (https://lepeu.github.io/) involves 42 researchers working in 13 countries across Europe. LepEU works closely with Project Psyche (https://www.projectpsyche.org/), which generates chromosome-level genomes of all butterflies and moths in Europe. As such, LepEU complement these efforts with population genomics insights of selected species across Europe.↩︎\nParticipants included researchers working in 10 different countries (Czechia, Finland, France, Germany, Portugal, Spain, Sweden, Switzerland, Turkey, and the United Kingdom), at different career stages, and brought together an equal gender balance (10 women and 11 men), reflecting the collaborative and inclusive spirit of the network.↩︎"
   },
   {
     "objectID": "contact.html",
@@ -112,6 +154,41 @@
     "text": "Join Us\nIf you are interested in butterfly and moth evolutionary dynamics in Europe or elsewhere, you are welcome to join us.\nPlease email the co-coordinators of LepEU."
   },
   {
+    "objectID": "organisation.html",
+    "href": "organisation.html",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
+    "section": "",
+    "text": "Home\n    Organisation"
+  },
+  {
+    "objectID": "organisation.html#co-organizers-of-lepeu",
+    "href": "organisation.html#co-organizers-of-lepeu",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
+    "section": "Co-organizers of LepEU",
+    "text": "Co-organizers of LepEU\n\nPatrícia Beldade, Faculty of Sciences of the University of Lisbon, PT.\nMathieu Joron, Centre d’Ecologie Fonctionnelle et Evolutive (CEFE), FR.\nMarta Vila, University of A Coruna, ES.\nChristopher Wheat, Stockholm University, SE."
+  },
+  {
+    "objectID": "organisation.html#national-collection-coordinators",
+    "href": "organisation.html#national-collection-coordinators",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
+    "section": "National collection coordinators",
+    "text": "National collection coordinators\n\nNorth\n\nEstonia: Tomas Tammaru, University of Tartu.\nFinland: Marjo Saastamoinen, University of Helsinki.\nSweden: Niklas Wahlberg, Lund University.\nUnited Kingdom: Joana Meier and Charlotte Wright, Wellcome Sanger Institute.\n\n\n\nCentral\n\nCzech Republic: Zdenek Fric, Entomologický ústav.\nFrance: Mathieu Joron, Centre for Evolutionary and Functional Ecology (CEFE-CNRS).\nGermany: Matthew Nielsen, University of Bremen.\nPoland: Richard Bailey, University of Lodz.\nSwitzerland: Kay Lucek, University of Neuchâtel.\n\n\n\nEast\n\nRomania: Vlad Dinca, “Grigore Antipa” National Museum of Natural History.\nTurkey: Başak Ulaşlı, Hatay Mustafa Kemal University, Plant Protection Department\n\n\n\nSouth\n\nItaly: Emiliano Trucci, Marche Polytechnic University.\n\nPortugal: Patrícia Beldade, Faculty of Sciences of the University of Lisbon.\nSpain: Constanti Stefanescu, Museum of Natural Sciences of Granollers."
+  },
+  {
+    "objectID": "organisation.html#infrastructure-and-data-management",
+    "href": "organisation.html#infrastructure-and-data-management",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
+    "section": "Infrastructure and data management",
+    "text": "Infrastructure and data management\n\nWeb Administrator: Saad Arif, Oxford Brookes, University, GB.\nDatabase Administrator: Riccardo Poloni, Université PSL, CNRS, INSERM & MNHN-CNRS-EPHA-SU-UA, FR"
+  },
+  {
+    "objectID": "organisation.html#lep10k-wg4-members",
+    "href": "organisation.html#lep10k-wg4-members",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
+    "section": "Lep10K WG4 Members",
+    "text": "Lep10K WG4 Members\n10kLepGenomes COST Action Working Group 4 (WG4) members are also associated with LepEU. The map below shows locations of the &gt;100 members of WG4 based on their home institution."
+  },
+  {
     "objectID": "members.html",
     "href": "members.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
@@ -123,21 +200,21 @@
     "href": "members.html#north",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "North",
-    "text": "North\n\n\n\n\n\n\n\n\n\n\nSaad Arif\n\n\nOxford Brookes University\n\n\n\n\n\n\n\nNo matching items"
+    "text": "North\n\n\n\n\n\n\n\n\n\n\nSaad Arif\n\n\nOxford Brookes University\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "members.html#central",
     "href": "members.html#central",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "Central",
-    "text": "Central\n\n\n\n\n\nNo matching items"
+    "text": "Central\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "members.html#south",
     "href": "members.html#south",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "South",
-    "text": "South\n\n\n\n\n\nNo matching items"
+    "text": "South\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "members.html#other",
@@ -147,74 +224,116 @@
     "text": "Other"
   },
   {
-    "objectID": "members/north/saadarif.html",
-    "href": "members/north/saadarif.html",
-    "title": "Saad Arif",
+    "objectID": "database.html",
+    "href": "database.html",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Saad Arif"
+    "text": "Home\n    Database Entry\n  \n\n\n\n\n\n\n\nTipCan’t see the document below?\n\n\n\nIf the PDF isn’t loading, you can Download the PDF here\n\n\nDownload PDF file."
   },
   {
-    "objectID": "members/north/saadarif.html#biography-info",
-    "href": "members/north/saadarif.html#biography-info",
-    "title": "Saad Arif",
-    "section": "Biography /Info",
-    "text": "Biography /Info"
-  },
-  {
-    "objectID": "members/north/saadarif_4.html",
-    "href": "members/north/saadarif_4.html",
-    "title": "Saad Arif",
+    "objectID": "associatedProjects/winterMoths_NatalievanDis/index.html",
+    "href": "associatedProjects/winterMoths_NatalievanDis/index.html",
+    "title": "Sample winter moths (Operophtera brumata) for space-for-time project",
     "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Saad Arif"
+    "text": "I am Natalie van Dis, a junior group leader at the Netherlands Institute of Ecology (NIOO-KNAW), working on drivers and constraints of rapid adaptation to climate change. I am emailing you because I am looking for collaborators to help me sample winter moth (Operophtera brumata) populations across Europe for a new project about space-for-time substitutions.\nI recently pitched this project at the LepEU May 2026 meeting to invite the network to contribute samples. With this email, I would look to formally invite you to join the project."
   },
   {
-    "objectID": "members/north/saadarif_4.html#biography-info",
-    "href": "members/north/saadarif_4.html#biography-info",
-    "title": "Saad Arif",
-    "section": "Biography /Info",
-    "text": "Biography /Info"
+    "objectID": "associatedProjects/winterMoths_NatalievanDis/index.html#the-project-in-short",
+    "href": "associatedProjects/winterMoths_NatalievanDis/index.html#the-project-in-short",
+    "title": "Sample winter moths (Operophtera brumata) for space-for-time project",
+    "section": "The project in short",
+    "text": "The project in short\nI have obtained funding to study space-for-time substitutions for the next four years, asking whether populations can adapt to climate change by becoming genetically similar to more southern populations, using the winter moth as my model species. I already have a unique temporal dataset (both phenotypic and genomics) that I have previously collected for four Dutch winter moth populations, capturing their genetic adaptation to climate change. The newly obtained funding covers the additional sequencing of 378 individuals from 18 different populations across Europe, to obtain the spatial data to test whether genetic variation that varies across spatial climate gradients is the same variation that has changed over time in response to climate change."
   },
   {
-    "objectID": "members/north/saadarif_5.html",
-    "href": "members/north/saadarif_5.html",
-    "title": "Saad Arif",
+    "objectID": "associatedProjects/winterMoths_NatalievanDis/index.html#what-you-could-help-me-with",
+    "href": "associatedProjects/winterMoths_NatalievanDis/index.html#what-you-could-help-me-with",
+    "title": "Sample winter moths (Operophtera brumata) for space-for-time project",
+    "section": "What you could help me with",
+    "text": "What you could help me with\n\nWhat: Sampling of 20-30 females per year of the winter moth, Operophtera brumata (minimum 20 females per year) for phenotyping and genotyping\nWhere: on deciduous oak trees (Quercus spp.) near you\nWhen: late autumn or early winter in 2026 / 2027 / 2028 / 2029 (minimally in one year, but preferably in multiple years)\nHow: with funnel traps (provided by me) or by visiting oak trees after dusk"
+  },
+  {
+    "objectID": "associatedProjects/winterMoths_NatalievanDis/index.html#what-i-can-offer-in-return",
+    "href": "associatedProjects/winterMoths_NatalievanDis/index.html#what-i-can-offer-in-return",
+    "title": "Sample winter moths (Operophtera brumata) for space-for-time project",
+    "section": "What I can offer in return",
+    "text": "What I can offer in return\n\nCatching materials (traps, tubes, substrate for egg laying) and shipping of samples will be provided and paid for by me\nI will keep you up-to-date about the project, via email and by providing updates at the monthly LepEU online meetings\nI expect to publish at least three manuscripts on this project and offer co-authorship on all papers that use samples that you collected"
+  },
+  {
+    "objectID": "associatedProjects/winterMoths_NatalievanDis/index.html#more-information",
+    "href": "associatedProjects/winterMoths_NatalievanDis/index.html#more-information",
+    "title": "Sample winter moths (Operophtera brumata) for space-for-time project",
+    "section": "More information",
+    "text": "More information\nYou can find more information about the project and the sampling procedure in this Google Drive folder. Note that winter moth (O. brumata) samples that meet the sampling requirements are likely to get whole genome sequenced. The obtained sequencing data will be contributed to the LepEU Consortium."
+  },
+  {
+    "objectID": "associatedProjects/winterMoths_NatalievanDis/index.html#how-to-join",
+    "href": "associatedProjects/winterMoths_NatalievanDis/index.html#how-to-join",
+    "title": "Sample winter moths (Operophtera brumata) for space-for-time project",
+    "section": "How to join",
+    "text": "How to join\nI very much hope you are willing to contribute samples to this project! If yes, please fill in this Google form as an expression of interest and I will be in touch to arrange the sampling with you."
+  },
+  {
+    "objectID": "publications/articles/beldadeetal2026.html",
+    "href": "publications/articles/beldadeetal2026.html",
+    "title": "LepEU: A Consortium to Study the Population Genomics of Butterflies and Moths Across Europe",
     "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Saad Arif"
+    "text": "Beldade, P., M. Vila, S. Arif, et al. 2026. “LepEU: A Consortium to Study the Population Genomics of Butterflies and Moths Across Europe.” Evolutionary Applications 19, no. 5: e70246. https://doi.org/10.1111/eva.70246."
   },
   {
-    "objectID": "members/north/saadarif_5.html#biography-info",
-    "href": "members/north/saadarif_5.html#biography-info",
-    "title": "Saad Arif",
-    "section": "Biography /Info",
-    "text": "Biography /Info"
-  },
-  {
-    "objectID": "members/north/saadarif_2.html",
-    "href": "members/north/saadarif_2.html",
-    "title": "Saad Arif",
+    "objectID": "publications/articles/beldadeetal2026.html#citation",
+    "href": "publications/articles/beldadeetal2026.html#citation",
+    "title": "LepEU: A Consortium to Study the Population Genomics of Butterflies and Moths Across Europe",
     "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Saad Arif"
+    "text": "Beldade, P., M. Vila, S. Arif, et al. 2026. “LepEU: A Consortium to Study the Population Genomics of Butterflies and Moths Across Europe.” Evolutionary Applications 19, no. 5: e70246. https://doi.org/10.1111/eva.70246."
   },
   {
-    "objectID": "members/north/saadarif_2.html#biography-info",
-    "href": "members/north/saadarif_2.html#biography-info",
-    "title": "Saad Arif",
-    "section": "Biography /Info",
-    "text": "Biography /Info"
+    "objectID": "publications/articles/beldadeetal2026.html#abstract",
+    "href": "publications/articles/beldadeetal2026.html#abstract",
+    "title": "LepEU: A Consortium to Study the Population Genomics of Butterflies and Moths Across Europe",
+    "section": "Abstract",
+    "text": "Abstract\nLepEU, the European Lepidopteran Population Genomics Consortium, was launched in 2023 to coordinate continental-scale collections and generate population-level genomic data for butterflies and moths across Europe. Its whole-genome resequencing strategy takes advantage of the growing availability of reference genomes for Lepidoptera. LepEU supports scalable, standardized sampling and sequencing to quantify genetic diversity and population resilience. These data will allow addressing long-standing questions about geographic patterns of biodiversity in this iconic clade for evolutionary ecology, while also filling critical gaps in biodiversity monitoring and conservation. The consortium’s first in-person workshop was held in Montpellier (France) in 2025 and was supported by the COST Action 10kLepGenomes. It gathered 23 researchers from 10 countries, including experts in Lepidoptera ecology, evolution, and population genomics. Building on 2 years of video conferencing, the workshop enabled participants to draw a roadmap for trans-continental standardized sampling, isolate DNA of specimens collected during 2024, outline key research questions for LepEU, and discuss an outreach strategy to engage additional stakeholders. LepEU is coordinating with other international networks and consortia to develop a collaborative platform for tracking European lepidopteran biodiversity and evolution. Looking ahead, LepEU is focused on training and mentoring the next generation of scientists, empowering them to integrate genomic analyses with phenotypic and ecological data to address ecological, evolutionary, and conservation questions."
   },
   {
-    "objectID": "members/north/saadarif_3.html",
-    "href": "members/north/saadarif_3.html",
-    "title": "Saad Arif",
+    "objectID": "sampling.html",
+    "href": "sampling.html",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Saad Arif"
+    "text": "Home\n    Sampling Guidelines\n  \n\n\n\n\n\n\n\nTipCan’t see the document below?\n\n\n\nIf the PDF isn’t loading, you can Download the PDF here\n\n\nDownload PDF file."
   },
   {
-    "objectID": "members/north/saadarif_3.html#biography-info",
-    "href": "members/north/saadarif_3.html#biography-info",
-    "title": "Saad Arif",
-    "section": "Biography /Info",
-    "text": "Biography /Info"
+    "objectID": "associatedProjects.html",
+    "href": "associatedProjects.html",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
+    "section": "",
+    "text": "Home\n    Associated Projects\n  \n\nThis page documents projects that are being conducted or led by LepEU members, independently of the main consortium activities, while leveraging the reach of the LepEU network and community.\nYou can read about the projects that are currently being conducted by LepEU members, and find out how to get involved in them!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDynamics of microbial enrichment in adult butterflies\n\n\n\nArne Weinhold\n\n\n\n\n\n\naffiliation\n\n\nLMU Munich, Germany\n\n\n\n\n\nstatus\n\n\nactive\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSample winter moths (Operophtera brumata) for space-for-time project\n\n\n\nNatalie van Dis\n\n\n\n\n\n\naffiliation\n\n\nNetherlands Institute of Ecology (NIOO-KNAW)\n\n\n\n\n\nstatus\n\n\nactive\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "guides.html",
+    "href": "guides.html",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
+    "section": "",
+    "text": "Home\n    Field Guides and ID Resouces"
+  },
+  {
+    "objectID": "guides.html#resources-for-identifying-species",
+    "href": "guides.html#resources-for-identifying-species",
+    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
+    "section": "Resources for Identifying Species",
+    "text": "Resources for Identifying Species\nSome species can be difficult to tell apart and/or to distinguish between males and females. Below is a collection of links that might be useful in helping you distinguish species. Some of these links are specific to a region.\n\nOfficial guides from European Butterfly Monitoring Scheme with guides for various countries and sub-regions.\nTurkish Butterfly Monitoring Scheme with identification materials!\n\nMore to come …"
+  },
+  {
+    "objectID": "news/2026-03-10-cost-action-signup/index.html",
+    "href": "news/2026-03-10-cost-action-signup/index.html",
+    "title": "LepEU Lepidoptera Genomics Training Workshop 2026",
+    "section": "",
+    "text": "Applications are open for the LepEU Workshop 2026: a joint training + hackathon event focused on the analysis of Lepidoptera genomic data.\nWhen: 26–29 May 2026\nWhere: Faculty of Sciences, University of Lisbon (Portugal)\nBenchmarking studies in genomics and bioinformatics show that analytical choices can lead to different results, even when using the same data. In response, the LepEU Workshop 2026 will focus on developing best-practice recommendations for reproducible Lepidoptera genomics.\nThe program is designed to support participants with different levels of experience:\n\nBeginners will learn how to run and interpret standard bioinformatics pipelines\nMore experienced participants will explore the potential of alternative approaches in Lepidoptera population genomics\n\nRegistration for the workshop is open until 15 March 2026. Please sign up here\nJoin us in Lisbon for an exciting opportunity to learn, collaborate, and contribute to the future of Lepidoptera genomics research!"
+  },
+  {
+    "objectID": "news/2026-03-10-cost-action-signup/index.html#sign-up-details-for-lepeu-training-and-hackathon-2026",
+    "href": "news/2026-03-10-cost-action-signup/index.html#sign-up-details-for-lepeu-training-and-hackathon-2026",
+    "title": "LepEU Lepidoptera Genomics Training Workshop 2026",
+    "section": "",
+    "text": "Applications are open for the LepEU Workshop 2026: a joint training + hackathon event focused on the analysis of Lepidoptera genomic data.\nWhen: 26–29 May 2026\nWhere: Faculty of Sciences, University of Lisbon (Portugal)\nBenchmarking studies in genomics and bioinformatics show that analytical choices can lead to different results, even when using the same data. In response, the LepEU Workshop 2026 will focus on developing best-practice recommendations for reproducible Lepidoptera genomics.\nThe program is designed to support participants with different levels of experience:\n\nBeginners will learn how to run and interpret standard bioinformatics pipelines\nMore experienced participants will explore the potential of alternative approaches in Lepidoptera population genomics\n\nRegistration for the workshop is open until 15 March 2026. Please sign up here\nJoin us in Lisbon for an exciting opportunity to learn, collaborate, and contribute to the future of Lepidoptera genomics research!"
   },
   {
     "objectID": "news/2025-03-14-pop-gen-workshop/index.html",
@@ -266,263 +385,11 @@
     "text": "Contact\nIf you have any questions or need to discuss your participation please contact us directly: Mathieu Joron mathieu.joron@cefe.cnrs.fr or Chris Wheat chris.wheat@zoologi.su.se\nWe are looking forward to receiving your registrations, and to see you in Montpellier soon"
   },
   {
-    "objectID": "species.html#focal-species",
-    "href": "species.html#focal-species",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "Focal Species",
-    "text": "Focal Species\n Sampling is currently structured in Phases as LepEU scales up capacity. If you wish to suggest species, please contact us."
-  },
-  {
-    "objectID": "species.html#future-plans",
-    "href": "species.html#future-plans",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "Future Plans",
-    "text": "Future Plans\n\nWe aim to collect data on a total of 35 species by 2030. These include the original 13 focal species above. Additional species will include all 17 (5 are on the original focal species list) European Grassland Butterfly indicator species. There also plans to expand sampling to moths by sampling 10 Moth species. Hence, by 2030 we aim to have population genomic data across Europe for 35 Lepidopteran Species."
-  },
-  {
-    "objectID": "species.html#helpful-resources-for-identifying-species",
-    "href": "species.html#helpful-resources-for-identifying-species",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "Helpful Resources for Identifying Species",
-    "text": "Helpful Resources for Identifying Species\nSome species can be difficult to tell apart to distinguish between males and females. Below is a collection of links that might be useful in helping you distinguish species. Some of these links are specific to a region.\n\nTurkish Butterfly Monitoring Scheme with identification materials!\n\nMore to come …"
-  },
-  {
-    "objectID": "organisation.html#web-site-and-public-outreach",
-    "href": "organisation.html#web-site-and-public-outreach",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "Web site and public outreach",
-    "text": "Web site and public outreach\n\nWeb Administrator: Saad Arif, Oxford Brookes, University, GB."
-  },
-  {
     "objectID": "funding.html",
     "href": "funding.html",
     "title": "LepEU: European Lepidopteran Population Genomics Consortium",
     "section": "",
     "text": "Home\n    Funding\n  \n\n\nGrants\n\n\n10kLepGenomes COST Action Network\nLepEU is part of the 2024 funded 10kLepGenomes COST Action Network. This network has 5 working groups (1.Societal needs; 2.Speciment collection for genomic work; 3.Reference genome assembly and comparative genomic analyses; 4.Population genomic analyses; 5.Applied uses of results). LepEU is directly supported by WG4, Population Genomic analyses. We intimately rely upon WG2 and WG3. Similarily, Psyche is directly supported by WG2 and WG3.\nThe COST action means that we have funding for our community to attend in person meetings, organize student placements and run training events. These interactions will also allow us to transport samples, coordinate DNA extractions, and develop our community in connection with Psyche and others.\nIn May (12-16), we held an in-person meeting to discuss LepEU goals, regional sampling, protocols, and strategize for the future. We also used this support to gather samples and extract DNA from nearly 500 field collections.\nTo benefit from this funding and attend meetings and workshops organized by this action, you need to be registered to the COST action. You can sign up to 1-3 working groups depending on your interests. Again, sign up to at least WG4 for LepEU related activities.\nYou can read more about the action and sign up here: https://www.cost.eu/actions/CA23122/\n\n\nCarl Tryggers Foundation\nLepEU is focused upon helping individual researchers obtain national level funding to support both national and international focused population genomics of Lepidoptera. In 2024, Chris Wheat at Stockholm University was awarded funding to support Phase 1 of LepEU. Funding will support a 2 year postdoc and nearly 30,000 Euros in sequencing funds.\n\n\n\nFinancial support\n Support for the objectives of LepEU can also come in the form of sequencing support from various sources.\n\nWellcome Sanger Institute\nLepEU is receiving substantial support from Psyche and the Wellcome Sanger Institute in the form of generating whole genome resequencing data for our Phase 1 collections from the UK and Switzerland.\nWellcome Sanger Institute has also offered support for eventually hosting various output from LepEU in the form of VCF file integration with the revised LepBase genomics database. More details to come."
-  },
-  {
-    "objectID": "funding.html#focal-species",
-    "href": "funding.html#focal-species",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "Focal Species",
-    "text": "Focal Species\n Sampling is currently structured in Phases as LepEU scales up capacity. If you wish to suggest species, please contact us."
-  },
-  {
-    "objectID": "funding.html#grants",
-    "href": "funding.html#grants",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "Grants",
-    "text": "Grants\n\n10kLepGenomes COST Action Network\nLepEU is part of the 2024 funded 10kLepGenomes COST Action Network. This network has 5 working groups (1.Societal needs; 2.Speciment collection for genomic work; 3.Reference genome assembly and comparative genomic analyses; 4.Population genomic analyses; 5.Applied uses of results). LepEU is directly supported by WG4, Population Genomic analyses. We intimately rely upon WG2 and WG3. Similarily, Psyche is directly supported by WG2 and WG3.\nThe COST action means that we have funding for our community to attend in person meetings, organize student placements and run training events. These interactions will also allow us to transport samples, coordinate DNA extractions, and develop our community in connection with Psyche and others.\nIn May (12-16), we held an in-person meeting to discuss LepEU goals, regional sampling, protocols, and strategize for the future. We also used this support to gather samples and extract DNA from nearly 500 field collections.\nTo benefit from this funding and attend meetings and workshops organized by this action, you need to be registered to the COST action. You can sign up to 1-3 working groups depending on your interests. Again, sign up to at least WG4 for LepEU related activities.\nYou can read more about the action and sign up here: https://www.cost.eu/actions/CA23122/"
-  },
-  {
-    "objectID": "funding.html#financial-support",
-    "href": "funding.html#financial-support",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "Financial support",
-    "text": "Financial support\n Sampling is currently structured in Phases as LepEU scales up capacity. If you wish to suggest species, please contact us."
-  },
-  {
-    "objectID": "species.html#phase-1-n13-species",
-    "href": "species.html#phase-1-n13-species",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "Phase 1: n=13 species",
-    "text": "Phase 1: n=13 species\nThis set is from 2024, including 5 of the European Biodiversity Grassland Indicator species. Goal for 2025 is to complete this sampling across collection hubs.\n\nAglais io\nAglais urticae\nAnthocharis cardamines\nCallophrys rubi\nCoenonympha pamphilus\nGonepteryx rhamni\nLasiommata megera\nManiola jurtina\nMelitaea cinxia\nPararge aegeria\nPieris napi\nPieris rapae\nPolyommatus icarus"
-  },
-  {
-    "objectID": "species.html#phase-2-n12-species",
-    "href": "species.html#phase-2-n12-species",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "Phase 2: n=12 species",
-    "text": "Phase 2: n=12 species\nExpands species to now include all of the European Biodiversity Grassland Indicator species\n\nCupido minimus\nCyaniris semiargus\nErynnis tages\nEuphydryas aurinia\nLycaena phlaeas\nOchlodes sylvanus\nPhengaris arion\nPhengaris nausithous\nPolyommatus bellargus\nPolyommatus coridon\nSpialia sertorius\nThymelicus acteon"
-  },
-  {
-    "objectID": "species.html#phase-3-we-are-working-to-extend-our-sampling-to-represent-the-full-range-of-lepidopteran-biodiversity-across-europe-especially-including-a-range-of-moth-species.",
-    "href": "species.html#phase-3-we-are-working-to-extend-our-sampling-to-represent-the-full-range-of-lepidopteran-biodiversity-across-europe-especially-including-a-range-of-moth-species.",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "Phase 3: We are working to extend our sampling to represent the full range of Lepidopteran biodiversity across Europe, especially including a range of moth species.",
-    "text": "Phase 3: We are working to extend our sampling to represent the full range of Lepidopteran biodiversity across Europe, especially including a range of moth species.\nIf you wish to suggest species for continental scale population sampling, please contact us."
-  },
-  {
-    "objectID": "species.html#phase-3",
-    "href": "species.html#phase-3",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "Phase 3:",
-    "text": "Phase 3:\nThis phase will expand to include moth species.\n\nLasiocampa quercus\nNoctua pronuba\nPanolis flammea\nPhalera bucephala\nCalliteara pudibunda\nCydalima perspectalis\nHelicoverpa armigera\n\nAgrotis exclamationis\nOdezia atrata\nArctia caja\nPseudopanthera macularia\nSiona lineata\nArctia plantaginis\nHesperia comma\nZygaena ephialtes"
-  },
-  {
-    "objectID": "funding.html#klepgenomes-cost-action-network",
-    "href": "funding.html#klepgenomes-cost-action-network",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "10kLepGenomes COST Action Network",
-    "text": "10kLepGenomes COST Action Network\nLepEU is part of the 2024 funded 10kLepGenomes COST Action Network. This network has 5 working groups (1.Societal needs; 2.Speciment collection for genomic work; 3.Reference genome assembly and comparative genomic analyses; 4.Population genomic analyses; 5.Applied uses of results). LepEU is directly supported by WG4, Population Genomic analyses. We intimately rely upon WG2 and WG3. Similarily, Psyche is directly supported by WG2 and WG3.\nThe COST action means that we have funding for our community to attend in person meetings, organize student placements and run training events. These interactions will also allow us to transport samples, coordinate DNA extractions, and develop our community in connection with Psyche and others.\nIn May (12-16), we held an in-person meeting to discuss LepEU goals, regional sampling, protocols, and strategize for the future. We also used this support to gather samples and extract DNA from nearly 500 field collections.\nTo benefit from this funding and attend meetings and workshops organized by this action, you need to be registered to the COST action. You can sign up to 1-3 working groups depending on your interests. Again, sign up to at least WG4 for LepEU related activities.\nYou can read more about the action and sign up here: https://www.cost.eu/actions/CA23122/"
-  },
-  {
-    "objectID": "funding.html#klepgenomes-cost-action-network-1",
-    "href": "funding.html#klepgenomes-cost-action-network-1",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "10kLepGenomes COST Action Network",
-    "text": "10kLepGenomes COST Action Network\nLepEU is part of the 2024 funded 10kLepGenomes COST Action Network. This network has 5"
-  },
-  {
-    "objectID": "funding.html#carl-tryggers-foundation",
-    "href": "funding.html#carl-tryggers-foundation",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "Carl Tryggers Foundation",
-    "text": "Carl Tryggers Foundation\nLepEU is focused upon helping individual researchers obtain national level funding to support both national and international focused population genomics of Lepidoptera. In 2024, Chris Wheat at Stockholm University was awarded funding to support Phase 1 of LepEU. Funding will support a 2 year postdoc and nearly 30,000 Euros in sequencing funds."
-  },
-  {
-    "objectID": "funding.html#section",
-    "href": "funding.html#section",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "2024",
-    "text": "2024\n\n10kLepGenomes COST Action Network\nLepEU is part of the 2024 funded 10kLepGenomes COST Action Network. This network has 5 working groups (1.Societal needs; 2.Speciment collection for genomic work; 3.Reference genome assembly and comparative genomic analyses; 4.Population genomic analyses; 5.Applied uses of results). LepEU is directly supported by WG4, Population Genomic analyses. We intimately rely upon WG2 and WG3. Similarily, Psyche is directly supported by WG2 and WG3.\nThe COST action means that we have funding for our community to attend in person meetings, organize student placements and run training events. These interactions will also allow us to transport samples, coordinate DNA extractions, and develop our community in connection with Psyche and others.\nIn May (12-16), we held an in-person meeting to discuss LepEU goals, regional sampling, protocols, and strategize for the future. We also used this support to gather samples and extract DNA from nearly 500 field collections.\nTo benefit from this funding and attend meetings and workshops organized by this action, you need to be registered to the COST action. You can sign up to 1-3 working groups depending on your interests. Again, sign up to at least WG4 for LepEU related activities.\nYou can read more about the action and sign up here: https://www.cost.eu/actions/CA23122/\n\n\nCarl Tryggers Foundation\nLepEU is focused upon helping individual researchers obtain national level funding to support both national and international focused population genomics of Lepidoptera. In 2024, Chris Wheat at Stockholm University was awarded funding to support Phase 1 of LepEU. Funding will support a 2 year postdoc and nearly 30,000 Euros in sequencing funds."
-  },
-  {
-    "objectID": "organisation.html#national-collection-coordinators",
-    "href": "organisation.html#national-collection-coordinators",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "National collection coordinators",
-    "text": "National collection coordinators\n\nNorth\n\nEstonia: Tomas Tammaru, University of Tartu.\nFinland: Marjo Saastamoinen, University of Helsinki.\nSweden: Niklas Wahlberg, Lund University.\nUnited Kingdom: Joana Meier and Charlotte Wright, Wellcome Sanger Institute.\n\n\n\nCentral\n\nCzech Republic: Zdenek Fric, Entomologický ústav.\nFrance: Mathieu Joron, Centre for Evolutionary and Functional Ecology (CEFE-CNRS).\nGermany: Matthew Nielsen, University of Bremen.\nPoland: Richard Bailey, University of Lodz.\nSwitzerland: Kay Lucek, University of Neuchâtel.\n\n\n\nEast\n\nRomania: Vlad Dinca, “Grigore Antipa” National Museum of Natural History.\nTurkey: Başak Ulaşlı, Hatay Mustafa Kemal University, Plant Protection Department\n\n\n\nSouth\n\nItaly: Emiliano Trucci, Marche Polytechnic University.\n\nPortugal: Patrícia Beldade, Faculty of Sciences of the University of Lisbon.\nSpain: Constanti Stefanescu, Museum of Natural Sciences of Granollers."
-  },
-  {
-    "objectID": "organisation.html#wider-membership",
-    "href": "organisation.html#wider-membership",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "Wider Membership",
-    "text": "Wider Membership\nOther members (also part of WG4 of Lep10K) come from all across Europe and beyond. The map below shows institutional locations of the &gt;150 members of LepEU."
-  },
-  {
-    "objectID": "organisation.html#lepeu-wg4-members",
-    "href": "organisation.html#lepeu-wg4-members",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "LepEU (WG4) Members",
-    "text": "LepEU (WG4) Members\nOur members come from all across Europe and beyond. The map below shows locations of the &gt;100 members of LepEU based on their home institution."
-  },
-  {
-    "objectID": "news/2025-06-10-MP-meetingreport/index.html",
-    "href": "news/2025-06-10-MP-meetingreport/index.html",
-    "title": "LepEU Pop Gen Workshop (12-16 May 2025, Montpellier, France)",
-    "section": "",
-    "text": "Montpellier, France — LepEU1 (European Lepidopteran Population Genomics Consortium) studies diversity patterns and local adaptation of butterflies and moths over space and time through a comparative population genomics approach. From 12 to 16 May, 21 researchers from across Europe2 convened in Montpellier for the first LepEU Workshop, a meeting dedicated to coordinating collecting efforts and discussing the research goals and future applications in conservation and pest management. The event was supported by the European Cooperation in Science and Technology (COST) Action 10kLepGenomes.\nButterflies are a key study group to showcase the utility of genomic knowledge to understand and protect biodiversity. Butterfly ecology is well documented in research and museums, some species have great economic impact (pollinators and pests), or serve as key bioindicators for conservation. The size of their genomes allow efficient reference genome assembly and population genomics work. They are the target of active citizen science programmes and are powerful for outreach. LepEU aims at leveraging all the merits of butterflies to foster biodiversity research using population genomic approaches.\n\n\n1. Sampling Priorities: Participants agreed to prioritize the completion of sampling of populations across Europe and Whole Genome Sequencing (WGS) for 13 core butterfly species — with top priority on Pieris napi, Anthocharis cardamines, Pararge aegeria, and Maniola jurtina. Meanwhile, sampling of an additional 12 species, including grassland indicators and day-flying moths, will continue throughout the season .\n2. Standardized Protocols: The role of national coordinators was established for each participating country to facilitate specimens’ collection together with local researchers. Shared protocols for sampling, preparation and metadata archiving were adopted to improve standardization and interoperability of generated datasets with other major biodiversity initiatives, such as the Darwin Tree of Life Project (DTOL) and the European Reference Genome Atlas (ERGA).\n3. Hands-On Laboratory Work: During the meeting, and coordinated by Dr.Mathieu Joron (CNRS, France), workshop participants conducted approximately 500 DNA extractions in the Centre d’Ecologie Fonctionnelle et Evolutive laboratories. The samples corresponded to 21 species collected by 15 researchers in 34 localities across 7 European countries. The DNA extractions will be ready for WGS in the coming months, representing a milestone for LepEU.\n\n\n\nLooking to the future, the LepEU consortium outlined an ambitious roadmap:\n\nExpanding Species Coverage: The initiative will now extend to all 17 butterfly species used in the European Grassland Butterfly Indicator, as well as 10 widespread and easily identifiable moth species, thus contributing to the EU Pollinators Initiative.\nGenetic Diversity Monitoring: The project will generate and analyze genomic data necessary to estimate genetic diversity indicators, as required under the 2022 Kunming-Montreal Global Biodiversity Framework.\nTemporal Insights via Museum Samples: A key goal will be to assess changes in genetic diversity over time driven by anthropogenic activities using historical specimens archived at museum collections.\nCapacity Building: A training school focused on analyzing WGS data and targeting early career researchers will be organized in 2026, offering hands-on practice to analyze WGS data for comparative population genomics.\nSecuring Support: The consortium will actively seek funding to support the continued sampling, sequencing, and analysis efforts across Europe.\n\nDr Patrícia Beldade summarized the collective sentiment: \n\n\n“This meeting has strengthened our scientific vision and built the foundations for a lasting collaborative effort. By combining resources, expertise and data, we are paving the way for an unprecedented understanding of butterfly population genomics in Europe.”"
-  },
-  {
-    "objectID": "news/2025-06-10-MP-meetingreport/index.html#european-scientists-unite-to-advance-butterfly-genomics-for-understanding-and-preserving-biodiversity",
-    "href": "news/2025-06-10-MP-meetingreport/index.html#european-scientists-unite-to-advance-butterfly-genomics-for-understanding-and-preserving-biodiversity",
-    "title": "LepEU Pop Gen Workshop (12-16 May 2025, Montpellier, France)",
-    "section": "",
-    "text": "Montpellier, France — LepEU1 (European Lepidopteran Population Genomics Consortium) studies diversity patterns and local adaptation of butterflies and moths over space and time through a comparative population genomics approach. From 12 to 16 May, 21 researchers from across Europe2 convened in Montpellier for the first LepEU Workshop, a meeting dedicated to coordinating collecting efforts and discussing the research goals and future applications in conservation and pest management. The event was supported by the European Cooperation in Science and Technology (COST) Action 10kLepGenomes.\nButterflies are a key study group to showcase the utility of genomic knowledge to understand and protect biodiversity. Butterfly ecology is well documented in research and museums, some species have great economic impact (pollinators and pests), or serve as key bioindicators for conservation. The size of their genomes allow efficient reference genome assembly and population genomics work. They are the target of active citizen science programmes and are powerful for outreach. LepEU aims at leveraging all the merits of butterflies to foster biodiversity research using population genomic approaches.\n\n\n1. Sampling Priorities: Participants agreed to prioritize the completion of sampling of populations across Europe and Whole Genome Sequencing (WGS) for 13 core butterfly species — with top priority on Pieris napi, Anthocharis cardamines, Pararge aegeria, and Maniola jurtina. Meanwhile, sampling of an additional 12 species, including grassland indicators and day-flying moths, will continue throughout the season .\n2. Standardized Protocols: The role of national coordinators was established for each participating country to facilitate specimens’ collection together with local researchers. Shared protocols for sampling, preparation and metadata archiving were adopted to improve standardization and interoperability of generated datasets with other major biodiversity initiatives, such as the Darwin Tree of Life Project (DTOL) and the European Reference Genome Atlas (ERGA).\n3. Hands-On Laboratory Work: During the meeting, and coordinated by Dr.Mathieu Joron (CNRS, France), workshop participants conducted approximately 500 DNA extractions in the Centre d’Ecologie Fonctionnelle et Evolutive laboratories. The samples corresponded to 21 species collected by 15 researchers in 34 localities across 7 European countries. The DNA extractions will be ready for WGS in the coming months, representing a milestone for LepEU.\n\n\n\nLooking to the future, the LepEU consortium outlined an ambitious roadmap:\n\nExpanding Species Coverage: The initiative will now extend to all 17 butterfly species used in the European Grassland Butterfly Indicator, as well as 10 widespread and easily identifiable moth species, thus contributing to the EU Pollinators Initiative.\nGenetic Diversity Monitoring: The project will generate and analyze genomic data necessary to estimate genetic diversity indicators, as required under the 2022 Kunming-Montreal Global Biodiversity Framework.\nTemporal Insights via Museum Samples: A key goal will be to assess changes in genetic diversity over time driven by anthropogenic activities using historical specimens archived at museum collections.\nCapacity Building: A training school focused on analyzing WGS data and targeting early career researchers will be organized in 2026, offering hands-on practice to analyze WGS data for comparative population genomics.\nSecuring Support: The consortium will actively seek funding to support the continued sampling, sequencing, and analysis efforts across Europe.\n\nDr Patrícia Beldade summarized the collective sentiment: \n\n\n“This meeting has strengthened our scientific vision and built the foundations for a lasting collaborative effort. By combining resources, expertise and data, we are paving the way for an unprecedented understanding of butterfly population genomics in Europe.”"
-  },
-  {
-    "objectID": "news/2025-06-10-MP-meetingreport/index.html#key-outcomes-of-the-workshop-and-lepeu-milestones",
-    "href": "news/2025-06-10-MP-meetingreport/index.html#key-outcomes-of-the-workshop-and-lepeu-milestones",
-    "title": "LepEU Pop Gen Workshop (12-16 May 2025, Montpellier, France)",
-    "section": "Key Outcomes of the Workshop and LepEU Milestones",
-    "text": "Key Outcomes of the Workshop and LepEU Milestones\n1. Sampling Priorities: Participants agreed to prioritize the completion of sampling of populations across Europe and Whole Genome Sequencing (WGS) for 13 core butterfly species — with top priority on Pieris napi, Anthocharis cardamines, Pararge aegeria, and Maniola jurtina. Meanwhile, sampling of an additional species 12 species, including grassland indicators and day-flying moths, will continue throughout the season (https://lepeu.github.io/species.html).\n2. Standardized Protocols: The role of national coordinators was established for each participating country to facilitate specimens’ collection together with local researchers. Shared protocols for sampling, preparation and metadata archiving were adopted to improve standardization and interoperability of generated datasets with other major biodiversity initiatives, such as the Darwin Tree of Life Project (DTOL) and the European Reference Genome Atlas (ERGA).\n3. Hands-On Laboratory Work: During the meeting, and coordinated by Dr.Mathieu Joron (CNRS, France), workshop participants conducted approximately 500 DNA extractions in the Centre d’Ecologie Fonctionnelle et Evolutive laboratories. The samples corresponded to 21 species collected by 15 researchers in 34 localities across 7 European countries. The DNA extractions will be ready for WGS in the coming months, representing a milestone for LepEU."
-  },
-  {
-    "objectID": "news/2025-06-10-MP-meetingreport/index.html#a-vision-for-2030",
-    "href": "news/2025-06-10-MP-meetingreport/index.html#a-vision-for-2030",
-    "title": "LepEU Pop Gen Workshop (12-16 May 2025, Montpellier, France)",
-    "section": "A Vision for 2030",
-    "text": "A Vision for 2030\nLooking to the future, the LepEU consortium outlined an ambitious roadmap:\n\nExpanding Species Coverage: The initiative will now extend to all 17 butterfly species used in the European Grassland Butterfly Indicator, as well as 10 widespread and easily identifiable moth species, thus contributing to the EU Pollinators Initiative.\nGenetic Diversity Monitoring: The project will generate and analyze genomic data necessary to estimate genetic diversity indicators, as required under the 2022 Kunming-Montreal Global Biodiversity Framework.\nTemporal Insights via Museum Samples: A key goal will be to assess changes in genetic diversity over time driven by anthropogenic activities using historical specimens archived at museum collections.\nCapacity Building: A training school focused on analyzing WGS data and targeting early career researchers will be organized in 2026, offering hands-on practice to analyze WGS data for comparative population genomics.\nSecuring Support: The consortium will actively seek funding to support the continued sampling, sequencing, and analysis efforts across Europe.\n\nDr Patrícia Beldade summarized the collective sentiment: \n\n\n“This meeting has strengthened our scientific vision and built the foundations for a lasting collaborative effort. By combining resources, expertise and data, we are paving the way for an unprecedented understanding of butterfly population genomics in Europe.”"
-  },
-  {
-    "objectID": "news/2025-06-10-MP-meetingreport/index.html#footnotes",
-    "href": "news/2025-06-10-MP-meetingreport/index.html#footnotes",
-    "title": "LepEU Pop Gen Workshop (12-16 May 2025, Montpellier, France)",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThe LepEU Consortium (https://lepeu.github.io/) involves 42 researchers working in 13 countries across Europe. LepEU works closely with Project Psyche (https://www.projectpsyche.org/), which generates chromosome-level genomes of all butterflies and moths in Europe. As such, LepEU complement these efforts with population genomics insights of selected species across Europe.↩︎\nParticipants included researchers working in 10 different countries (Czechia, Finland, France, Germany, Portugal, Spain, Sweden, Switzerland, Turkey, and the United Kingdom), at different career stages, and brought together an equal gender balance (10 women and 11 men), reflecting the collaborative and inclusive spirit of the network.↩︎"
-  },
-  {
-    "objectID": "protocols.html",
-    "href": "protocols.html",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "",
-    "text": "Home\n    Protocols\n  \n\nDownload PDF file.\n\n\n\n\n\n\nTipCan’t see the document?\n\n\n\nIf the PDF isn’t loading, you can Download the PDF here"
-  },
-  {
-    "objectID": "guides.html",
-    "href": "guides.html",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "",
-    "text": "Home\n    Field Guides and ID Resouces"
-  },
-  {
-    "objectID": "guides.html#resources-for-identifying-species",
-    "href": "guides.html#resources-for-identifying-species",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "Resources for Identifying Species",
-    "text": "Resources for Identifying Species\nSome species can be difficult to tell apart and/or to distinguish between males and females. Below is a collection of links that might be useful in helping you distinguish species. Some of these links are specific to a region.\n\nOfficial guides from European Butterfly Monitoring Scheme with guides for various countries and sub-regions.\nTurkish Butterfly Monitoring Scheme with identification materials!\n\nMore to come …"
-  },
-  {
-    "objectID": "samplingOverview.html",
-    "href": "samplingOverview.html",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "",
-    "text": "Home\n    Sampling Status"
-  },
-  {
-    "objectID": "organisation.html#lep10k-wg4-members",
-    "href": "organisation.html#lep10k-wg4-members",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "Lep10K WG4 Members",
-    "text": "Lep10K WG4 Members\n10kLepGenomes COST Action Working Group 4 (WG4) members are also associated with LepEU. The map below shows locations of the &gt;100 members of WG4 based on their home institution."
-  },
-  {
-    "objectID": "organisation.html#infrastructure-and-data-management",
-    "href": "organisation.html#infrastructure-and-data-management",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "Infrastructure and data management",
-    "text": "Infrastructure and data management\n\nWeb Administrator: Saad Arif, Oxford Brookes, University, GB.\nDatabase Administrator: Riccardo Poloni, Université PSL, CNRS, INSERM & MNHN-CNRS-EPHA-SU-UA, FR"
-  },
-  {
-    "objectID": "news/2026-03-10-cost-action-signup/index.html",
-    "href": "news/2026-03-10-cost-action-signup/index.html",
-    "title": "LepEU Lepidoptera Genomics Training Workshop 2026",
-    "section": "",
-    "text": "Applications are open for the LepEU Workshop 2026: a joint training + hackathon event focused on the analysis of Lepidoptera genomic data.\nWhen: 26–29 May 2026\nWhere: Faculty of Sciences, University of Lisbon (Portugal)\nBenchmarking studies in genomics and bioinformatics show that analytical choices can lead to different results, even when using the same data. In response, the LepEU Workshop 2026 will focus on developing best-practice recommendations for reproducible Lepidoptera genomics.\nThe program is designed to support participants with different levels of experience:\n\nBeginners will learn how to run and interpret standard bioinformatics pipelines\nMore experienced participants will explore the potential of alternative approaches in Lepidoptera population genomics\n\nRegistration for the workshop is open until 15 March 2026. Please sign up here\nJoin us in Lisbon for an exciting opportunity to learn, collaborate, and contribute to the future of Lepidoptera genomics research!"
-  },
-  {
-    "objectID": "news/2026-03-10-cost-action-signup/index.html#signup-details-for-cost-action-network-funding",
-    "href": "news/2026-03-10-cost-action-signup/index.html#signup-details-for-cost-action-network-funding",
-    "title": "Signup details for COST Action Network funding",
-    "section": "",
-    "text": "LepEU is part of the recently funded 10kLepGenomes COST Action Network. This network has 5 working groups (1.Societal needs; 2.Speciment collection for genomic work; 3.Reference genome assembly and comparative genomic analyses; 4.Population genomic analyses; 5.Applied uses of results). LepEU interests primarily fall within WG2 and WG4, while Psyche interests fall with WG2 and WG4. But, we all likely have some interest in more working groups.\nThe COST action means that we have funding for our community to attend in person meetings, organize student placements and run training events. These interactions will also allow us to transport samples, coordinate DNA extractions, and develop our community in connection with Psyche and others. In the immediate future, we are looking forward to planning an in-person meeting to discuss regional sampling, DNA extractions, methods and analyses.\nTo benefit from this funding and attend meetings and workshops organized by this action, you need to be registered to the COST action. You can sign up to 1-3 working groups depending on your interests. You can read more about the action and sign up here: https://www.cost.eu/actions/CA23122/\nWhen applying to join, you will be asked to provide a brief summary of your motivation and how you would contribute to the working group. This does not need to be in depth but including details of what interests you, and what you would like to see planned, will be extremely useful in shaping what we will achieve during the action.\nEarly-career researchers, including students, are particularly encouraged to join as the action will provide exciting opportunities for training, engaging in exchanges and attending meetings. Please feel free to share the invite with your lab members and others that you think would be interested in joining.\nSo, please go and sign-up ASAP (before October 1)."
-  },
-  {
-    "objectID": "news/2026-03-10-cost-action-signup/index.html#signup-details-for-lepeu-training-and-hackathon-2026",
-    "href": "news/2026-03-10-cost-action-signup/index.html#signup-details-for-lepeu-training-and-hackathon-2026",
-    "title": "LepEU Traning Workshop 2026",
-    "section": "",
-    "text": "Applications are open for the LepEU Workshop 2026: a joint training + hackathon event focused on the analysis of Lepidoptera genomic data.\nWhen: 26–29 May 2026\nWhere: Faculty of Sciences, University of Lisbon (Portugal)\nBenchmarking studies in genomics and bioinformatics show that analytical choices can lead to different results, even when using the same data. In response, the LepEU Workshop 2026 will focus on developing best-practice recommendations for reproducible Lepidoptera genomics.\nThe program is designed to support participants with different levels of experience:\n\nBeginners will learn how to run and interpret standard #bioinformatics pipelines\nMore experienced participants will explore the potential of alternative approaches in Lepidoptera population genomics\n\nRegistration for the workshop is open until 15 March 2026. Please sign up here\nJoin us in Lisbon for an exciting opportunity to learn, collaborate, and contribute to the future of Lepidoptera genomics research!"
-  },
-  {
-    "objectID": "news/2026-03-10-cost-action-signup/index.html#sign-up-details-for-lepeu-training-and-hackathon-2026",
-    "href": "news/2026-03-10-cost-action-signup/index.html#sign-up-details-for-lepeu-training-and-hackathon-2026",
-    "title": "LepEU Lepidoptera Genomics Training Workshop 2026",
-    "section": "",
-    "text": "Applications are open for the LepEU Workshop 2026: a joint training + hackathon event focused on the analysis of Lepidoptera genomic data.\nWhen: 26–29 May 2026\nWhere: Faculty of Sciences, University of Lisbon (Portugal)\nBenchmarking studies in genomics and bioinformatics show that analytical choices can lead to different results, even when using the same data. In response, the LepEU Workshop 2026 will focus on developing best-practice recommendations for reproducible Lepidoptera genomics.\nThe program is designed to support participants with different levels of experience:\n\nBeginners will learn how to run and interpret standard bioinformatics pipelines\nMore experienced participants will explore the potential of alternative approaches in Lepidoptera population genomics\n\nRegistration for the workshop is open until 15 March 2026. Please sign up here\nJoin us in Lisbon for an exciting opportunity to learn, collaborate, and contribute to the future of Lepidoptera genomics research!"
-  },
-  {
-    "objectID": "protocols.html#adding-your-sampling-infomation-to-the-lepeu-database",
-    "href": "protocols.html#adding-your-sampling-infomation-to-the-lepeu-database",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "Adding your sampling infomation to the LepEU database",
-    "text": "Adding your sampling infomation to the LepEU database\nIf you need to add or update sampling information for your samples on the LepEU database, please follow the instructions below (opens in a new tab).\n\nHow to fill the LepEU database\n{{&lt; bi download &gt;}} Download: How to fill the LepEU database"
-  },
-  {
-    "objectID": "database.html",
-    "href": "database.html",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "",
-    "text": "Home\n    Database Entry\n  \n\n\n\n\n\n\n\nTipCan’t see the document below?\n\n\n\nIf the PDF isn’t loading, you can Download the PDF here\n\n\nDownload PDF file."
-  },
-  {
-    "objectID": "sampling.html",
-    "href": "sampling.html",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "",
-    "text": "Home\n    Sampling Guidelines\n  \n\n\n\n\n\n\n\nTipCan’t see the document below?\n\n\n\nIf the PDF isn’t loading, you can Download the PDF here\n\n\nDownload PDF file."
   },
   {
     "objectID": "epicollect.html",
@@ -532,269 +399,10 @@
     "text": "Home\n    Using epicollect for metadata collection\n  \n\nThe epicollect app can be directly used by LepEU members and facilitates the collection of metadata associated to the samples on the field. In this way, the data are directly ready to be inserted into the LepEU database. See below for a PDF of the form and instructions on how to use it.\n\n\n\n\n\n\nTipCan’t see the document below?\n\n\n\nIf the PDF isn’t loading, you can Download the PDF here\n\n\nDownload PDF file."
   },
   {
-    "objectID": "species.html#phase-3-n15-species",
-    "href": "species.html#phase-3-n15-species",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "Phase 3: n=15 species:",
-    "text": "Phase 3: n=15 species:\nThis phase will expand to include moth species.\n\nLasiocampa quercus\nNoctua pronuba\nPanolis flammea\nPhalera bucephala\nCalliteara pudibunda\nCydalima perspectalis\nHelicoverpa armigera\n\nAgrotis exclamationis\nOdezia atrata\nArctia caja\nPseudopanthera macularia\nSiona lineata\nArctia plantaginis\nHesperia comma\nZygaena ephialtes"
-  },
-  {
-    "objectID": "specialProjects.html",
-    "href": "specialProjects.html",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "",
-    "text": "Home\n    Associated Projects\n  \n\nThis page documents special projects that are being conducted by LepEU members, independently of the main consortium activities, highlighting the potential of leveraging the LepEU network and community. Enteries on each project also includes information on how you can get involved!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSample winter moths (Operophtera brumata) for space-for-time project\n\n\n\n\n\n\nNatalie van Dis\n\n\nJun 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nLepEU Pop Gen Workshop (12-16 May 2025, Montpellier, France)\n\n\n\nmeeting\n\ntraining\n\nnetworking\n\n\n\nPost-Meeting Statement\n\n\n\nPavel Fortunato Matos Maravi, Marta Vila\n\n\nJun 10, 2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "specialProjects/2025-03-14-pop-gen-workshop/index.html",
-    "href": "specialProjects/2025-03-14-pop-gen-workshop/index.html",
-    "title": "European Lepidoptera Pop Gen Workshop - 12-16 May 2025 - Montpellier, France",
-    "section": "",
-    "text": "The Population Genomics workshop of Working Group 4 of 10kLepGenomes COST action (CA23122) will take place in Montpellier, France, from Monday 12th to Friday 16th May 2025.\nThis message is sent to everyone who registered to Working Group 4 (Population genomic analyses) within 10KLepGenomes. Sorry for possible cross-posting."
-  },
-  {
-    "objectID": "specialProjects/2025-03-14-pop-gen-workshop/index.html#meeting-aims",
-    "href": "specialProjects/2025-03-14-pop-gen-workshop/index.html#meeting-aims",
-    "title": "European Lepidoptera Pop Gen Workshop - 12-16 May 2025 - Montpellier, France",
-    "section": "Meeting Aims:",
-    "text": "Meeting Aims:\n\nBuilding the LepEU community:\n\nDefining scientific objectives\nStrengthening collaborations.\nDiscussing 2025 field priorities,\n\nPlanning and coordinating data acquisition\n\nCoordinating collections, archiving, databasing\nCoordinating DNA isolation from 2024 collections\nDiscuss funding solutions"
-  },
-  {
-    "objectID": "specialProjects/2025-03-14-pop-gen-workshop/index.html#who-should-come",
-    "href": "specialProjects/2025-03-14-pop-gen-workshop/index.html#who-should-come",
-    "title": "European Lepidoptera Pop Gen Workshop - 12-16 May 2025 - Montpellier, France",
-    "section": "Who should come?",
-    "text": "Who should come?\nWe encourage researchers from all career stages that are interested in LepEU to come. There are a wide range of questions that regional sampling of European Lepidoptera could address. Let’s see how we could make our individual efforts go further if we can collaborate together. We are inspired to keep building the LepEU community using a grass roots effort framework.\nThe total number of attendees we can fit is 30, including 18 attendees who can be reimbursed through the COST action (www.cost.eu/actions/CA23122), and about 12 people who can attend with their own funding. See down below for possible travel cost reimbursements."
-  },
-  {
-    "objectID": "specialProjects/2025-03-14-pop-gen-workshop/index.html#location",
-    "href": "specialProjects/2025-03-14-pop-gen-workshop/index.html#location",
-    "title": "European Lepidoptera Pop Gen Workshop - 12-16 May 2025 - Montpellier, France",
-    "section": "Location",
-    "text": "Location\nThe workshop will start on Monday 12th May in the later afternoon in Montpellier. We will meet in town. Tuesday-Thursday meeting and DNA workshops will take place at the University of Montpellier (43.6322, 3.8664) and CNRS (43.6386, 3.8645) north of the city centre. We propose to have a field outing on Friday."
-  },
-  {
-    "objectID": "specialProjects/2025-03-14-pop-gen-workshop/index.html#dna-isolation",
-    "href": "specialProjects/2025-03-14-pop-gen-workshop/index.html#dna-isolation",
-    "title": "European Lepidoptera Pop Gen Workshop - 12-16 May 2025 - Montpellier, France",
-    "section": "DNA isolation",
-    "text": "DNA isolation\nFor those needing DNA extraction help, we propose to provide a solution to isolate DNA during that week. This is aimed primarily to help people who might find it difficult to do that in their own institution. If you are interested, you need to register your samples so we can plan extraction consumables. We will reach out individually.\nPlease register to the workshop using the link below, by Sunday 23rd March.\nhttps://lepeu2025.sciencesconf.org/"
-  },
-  {
-    "objectID": "specialProjects/2025-03-14-pop-gen-workshop/index.html#reimbursement",
-    "href": "specialProjects/2025-03-14-pop-gen-workshop/index.html#reimbursement",
-    "title": "European Lepidoptera Pop Gen Workshop - 12-16 May 2025 - Montpellier, France",
-    "section": "Reimbursement",
-    "text": "Reimbursement\nTo be eligible for reimbursement by the COST Action (www.cost.eu/actions/CA23122), you need to have signed up to the Working Group 4 of the COST Action first. The daily allowance is limited to 101€/day. Travel tickets are reimbursed (up to 300 EUR). Travel under 100 km and rental cars are considered part of the daily allowance. Please see the rules for travel reimbursement here: https://www.cost.eu/cost-actions/annotated-rules-qa/.\nThe leaders of WG4 and COST CA23122 will select the attendees eligible for reimbursement based on transparent criteria, to reach maximum gain of the workshop. The criteria are: (1) Eligibility (can attend the whole event or just partially): 1 or 0 points (2) Career stage: 2 to 0 point (3) Bringing samples: 2 to 0 points (4) Regional representation (ITC countries): 2 points (5) Motivation to attend: 0 to 3 points The participants selected for reimbursement will be notified by Monday 31st March."
-  },
-  {
-    "objectID": "specialProjects/2025-03-14-pop-gen-workshop/index.html#contact",
-    "href": "specialProjects/2025-03-14-pop-gen-workshop/index.html#contact",
-    "title": "European Lepidoptera Pop Gen Workshop - 12-16 May 2025 - Montpellier, France",
-    "section": "Contact",
-    "text": "Contact\nIf you have any questions or need to discuss your participation please contact us directly: Mathieu Joron mathieu.joron@cefe.cnrs.fr or Chris Wheat chris.wheat@zoologi.su.se\nWe are looking forward to receiving your registrations, and to see you in Montpellier soon"
-  },
-  {
-    "objectID": "specialProjects/2026-03-10-cost-action-signup/index.html",
-    "href": "specialProjects/2026-03-10-cost-action-signup/index.html",
-    "title": "LepEU Lepidoptera Genomics Training Workshop 2026",
-    "section": "",
-    "text": "Applications are open for the LepEU Workshop 2026: a joint training + hackathon event focused on the analysis of Lepidoptera genomic data.\nWhen: 26–29 May 2026\nWhere: Faculty of Sciences, University of Lisbon (Portugal)\nBenchmarking studies in genomics and bioinformatics show that analytical choices can lead to different results, even when using the same data. In response, the LepEU Workshop 2026 will focus on developing best-practice recommendations for reproducible Lepidoptera genomics.\nThe program is designed to support participants with different levels of experience:\n\nBeginners will learn how to run and interpret standard bioinformatics pipelines\nMore experienced participants will explore the potential of alternative approaches in Lepidoptera population genomics\n\nRegistration for the workshop is open until 15 March 2026. Please sign up here\nJoin us in Lisbon for an exciting opportunity to learn, collaborate, and contribute to the future of Lepidoptera genomics research!"
-  },
-  {
-    "objectID": "specialProjects/2026-03-10-cost-action-signup/index.html#sign-up-details-for-lepeu-training-and-hackathon-2026",
-    "href": "specialProjects/2026-03-10-cost-action-signup/index.html#sign-up-details-for-lepeu-training-and-hackathon-2026",
-    "title": "LepEU Lepidoptera Genomics Training Workshop 2026",
-    "section": "",
-    "text": "Applications are open for the LepEU Workshop 2026: a joint training + hackathon event focused on the analysis of Lepidoptera genomic data.\nWhen: 26–29 May 2026\nWhere: Faculty of Sciences, University of Lisbon (Portugal)\nBenchmarking studies in genomics and bioinformatics show that analytical choices can lead to different results, even when using the same data. In response, the LepEU Workshop 2026 will focus on developing best-practice recommendations for reproducible Lepidoptera genomics.\nThe program is designed to support participants with different levels of experience:\n\nBeginners will learn how to run and interpret standard bioinformatics pipelines\nMore experienced participants will explore the potential of alternative approaches in Lepidoptera population genomics\n\nRegistration for the workshop is open until 15 March 2026. Please sign up here\nJoin us in Lisbon for an exciting opportunity to learn, collaborate, and contribute to the future of Lepidoptera genomics research!"
-  },
-  {
-    "objectID": "specialProjects/2025-06-10-MP-meetingreport/index.html",
-    "href": "specialProjects/2025-06-10-MP-meetingreport/index.html",
-    "title": "LepEU Pop Gen Workshop (12-16 May 2025, Montpellier, France)",
-    "section": "",
-    "text": "Montpellier, France — LepEU1 (European Lepidopteran Population Genomics Consortium) studies diversity patterns and local adaptation of butterflies and moths over space and time through a comparative population genomics approach. From 12 to 16 May, 21 researchers from across Europe2 convened in Montpellier for the first LepEU Workshop, a meeting dedicated to coordinating collecting efforts and discussing the research goals and future applications in conservation and pest management. The event was supported by the European Cooperation in Science and Technology (COST) Action 10kLepGenomes.\nButterflies are a key study group to showcase the utility of genomic knowledge to understand and protect biodiversity. Butterfly ecology is well documented in research and museums, some species have great economic impact (pollinators and pests), or serve as key bioindicators for conservation. The size of their genomes allow efficient reference genome assembly and population genomics work. They are the target of active citizen science programmes and are powerful for outreach. LepEU aims at leveraging all the merits of butterflies to foster biodiversity research using population genomic approaches.\n\n\n1. Sampling Priorities: Participants agreed to prioritize the completion of sampling of populations across Europe and Whole Genome Sequencing (WGS) for 13 core butterfly species — with top priority on Pieris napi, Anthocharis cardamines, Pararge aegeria, and Maniola jurtina. Meanwhile, sampling of an additional 12 species, including grassland indicators and day-flying moths, will continue throughout the season .\n2. Standardized Protocols: The role of national coordinators was established for each participating country to facilitate specimens’ collection together with local researchers. Shared protocols for sampling, preparation and metadata archiving were adopted to improve standardization and interoperability of generated datasets with other major biodiversity initiatives, such as the Darwin Tree of Life Project (DTOL) and the European Reference Genome Atlas (ERGA).\n3. Hands-On Laboratory Work: During the meeting, and coordinated by Dr.Mathieu Joron (CNRS, France), workshop participants conducted approximately 500 DNA extractions in the Centre d’Ecologie Fonctionnelle et Evolutive laboratories. The samples corresponded to 21 species collected by 15 researchers in 34 localities across 7 European countries. The DNA extractions will be ready for WGS in the coming months, representing a milestone for LepEU.\n\n\n\nLooking to the future, the LepEU consortium outlined an ambitious roadmap:\n\nExpanding Species Coverage: The initiative will now extend to all 17 butterfly species used in the European Grassland Butterfly Indicator, as well as 10 widespread and easily identifiable moth species, thus contributing to the EU Pollinators Initiative.\nGenetic Diversity Monitoring: The project will generate and analyze genomic data necessary to estimate genetic diversity indicators, as required under the 2022 Kunming-Montreal Global Biodiversity Framework.\nTemporal Insights via Museum Samples: A key goal will be to assess changes in genetic diversity over time driven by anthropogenic activities using historical specimens archived at museum collections.\nCapacity Building: A training school focused on analyzing WGS data and targeting early career researchers will be organized in 2026, offering hands-on practice to analyze WGS data for comparative population genomics.\nSecuring Support: The consortium will actively seek funding to support the continued sampling, sequencing, and analysis efforts across Europe.\n\nDr Patrícia Beldade summarized the collective sentiment: \n\n\n“This meeting has strengthened our scientific vision and built the foundations for a lasting collaborative effort. By combining resources, expertise and data, we are paving the way for an unprecedented understanding of butterfly population genomics in Europe.”"
-  },
-  {
-    "objectID": "specialProjects/2025-06-10-MP-meetingreport/index.html#european-scientists-unite-to-advance-butterfly-genomics-for-understanding-and-preserving-biodiversity",
-    "href": "specialProjects/2025-06-10-MP-meetingreport/index.html#european-scientists-unite-to-advance-butterfly-genomics-for-understanding-and-preserving-biodiversity",
-    "title": "LepEU Pop Gen Workshop (12-16 May 2025, Montpellier, France)",
-    "section": "",
-    "text": "Montpellier, France — LepEU1 (European Lepidopteran Population Genomics Consortium) studies diversity patterns and local adaptation of butterflies and moths over space and time through a comparative population genomics approach. From 12 to 16 May, 21 researchers from across Europe2 convened in Montpellier for the first LepEU Workshop, a meeting dedicated to coordinating collecting efforts and discussing the research goals and future applications in conservation and pest management. The event was supported by the European Cooperation in Science and Technology (COST) Action 10kLepGenomes.\nButterflies are a key study group to showcase the utility of genomic knowledge to understand and protect biodiversity. Butterfly ecology is well documented in research and museums, some species have great economic impact (pollinators and pests), or serve as key bioindicators for conservation. The size of their genomes allow efficient reference genome assembly and population genomics work. They are the target of active citizen science programmes and are powerful for outreach. LepEU aims at leveraging all the merits of butterflies to foster biodiversity research using population genomic approaches.\n\n\n1. Sampling Priorities: Participants agreed to prioritize the completion of sampling of populations across Europe and Whole Genome Sequencing (WGS) for 13 core butterfly species — with top priority on Pieris napi, Anthocharis cardamines, Pararge aegeria, and Maniola jurtina. Meanwhile, sampling of an additional 12 species, including grassland indicators and day-flying moths, will continue throughout the season .\n2. Standardized Protocols: The role of national coordinators was established for each participating country to facilitate specimens’ collection together with local researchers. Shared protocols for sampling, preparation and metadata archiving were adopted to improve standardization and interoperability of generated datasets with other major biodiversity initiatives, such as the Darwin Tree of Life Project (DTOL) and the European Reference Genome Atlas (ERGA).\n3. Hands-On Laboratory Work: During the meeting, and coordinated by Dr.Mathieu Joron (CNRS, France), workshop participants conducted approximately 500 DNA extractions in the Centre d’Ecologie Fonctionnelle et Evolutive laboratories. The samples corresponded to 21 species collected by 15 researchers in 34 localities across 7 European countries. The DNA extractions will be ready for WGS in the coming months, representing a milestone for LepEU.\n\n\n\nLooking to the future, the LepEU consortium outlined an ambitious roadmap:\n\nExpanding Species Coverage: The initiative will now extend to all 17 butterfly species used in the European Grassland Butterfly Indicator, as well as 10 widespread and easily identifiable moth species, thus contributing to the EU Pollinators Initiative.\nGenetic Diversity Monitoring: The project will generate and analyze genomic data necessary to estimate genetic diversity indicators, as required under the 2022 Kunming-Montreal Global Biodiversity Framework.\nTemporal Insights via Museum Samples: A key goal will be to assess changes in genetic diversity over time driven by anthropogenic activities using historical specimens archived at museum collections.\nCapacity Building: A training school focused on analyzing WGS data and targeting early career researchers will be organized in 2026, offering hands-on practice to analyze WGS data for comparative population genomics.\nSecuring Support: The consortium will actively seek funding to support the continued sampling, sequencing, and analysis efforts across Europe.\n\nDr Patrícia Beldade summarized the collective sentiment: \n\n\n“This meeting has strengthened our scientific vision and built the foundations for a lasting collaborative effort. By combining resources, expertise and data, we are paving the way for an unprecedented understanding of butterfly population genomics in Europe.”"
-  },
-  {
-    "objectID": "specialProjects/2025-06-10-MP-meetingreport/index.html#footnotes",
-    "href": "specialProjects/2025-06-10-MP-meetingreport/index.html#footnotes",
-    "title": "LepEU Pop Gen Workshop (12-16 May 2025, Montpellier, France)",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThe LepEU Consortium (https://lepeu.github.io/) involves 42 researchers working in 13 countries across Europe. LepEU works closely with Project Psyche (https://www.projectpsyche.org/), which generates chromosome-level genomes of all butterflies and moths in Europe. As such, LepEU complement these efforts with population genomics insights of selected species across Europe.↩︎\nParticipants included researchers working in 10 different countries (Czechia, Finland, France, Germany, Portugal, Spain, Sweden, Switzerland, Turkey, and the United Kingdom), at different career stages, and brought together an equal gender balance (10 women and 11 men), reflecting the collaborative and inclusive spirit of the network.↩︎"
-  },
-  {
-    "objectID": "specialProjects/2024-09-17-cost_action_signup/index.html",
-    "href": "specialProjects/2024-09-17-cost_action_signup/index.html",
-    "title": "Signup details for COST Action Network funding",
-    "section": "",
-    "text": "LepEU is part of the recently funded 10kLepGenomes COST Action Network. This network has 5 working groups (1.Societal needs; 2.Speciment collection for genomic work; 3.Reference genome assembly and comparative genomic analyses; 4.Population genomic analyses; 5.Applied uses of results). LepEU interests primarily fall within WG2 and WG4, while Psyche interests fall with WG2 and WG4. But, we all likely have some interest in more working groups.\nThe COST action means that we have funding for our community to attend in person meetings, organize student placements and run training events. These interactions will also allow us to transport samples, coordinate DNA extractions, and develop our community in connection with Psyche and others. In the immediate future, we are looking forward to planning an in-person meeting to discuss regional sampling, DNA extractions, methods and analyses.\nTo benefit from this funding and attend meetings and workshops organized by this action, you need to be registered to the COST action. You can sign up to 1-3 working groups depending on your interests. You can read more about the action and sign up here: https://www.cost.eu/actions/CA23122/\nWhen applying to join, you will be asked to provide a brief summary of your motivation and how you would contribute to the working group. This does not need to be in depth but including details of what interests you, and what you would like to see planned, will be extremely useful in shaping what we will achieve during the action.\nEarly-career researchers, including students, are particularly encouraged to join as the action will provide exciting opportunities for training, engaging in exchanges and attending meetings. Please feel free to share the invite with your lab members and others that you think would be interested in joining.\nSo, please go and sign-up ASAP (before October 1)."
-  },
-  {
-    "objectID": "specialProjects/2024-09-17-cost_action_signup/index.html#signup-details-for-cost-action-network-funding",
-    "href": "specialProjects/2024-09-17-cost_action_signup/index.html#signup-details-for-cost-action-network-funding",
-    "title": "Signup details for COST Action Network funding",
-    "section": "",
-    "text": "LepEU is part of the recently funded 10kLepGenomes COST Action Network. This network has 5 working groups (1.Societal needs; 2.Speciment collection for genomic work; 3.Reference genome assembly and comparative genomic analyses; 4.Population genomic analyses; 5.Applied uses of results). LepEU interests primarily fall within WG2 and WG4, while Psyche interests fall with WG2 and WG4. But, we all likely have some interest in more working groups.\nThe COST action means that we have funding for our community to attend in person meetings, organize student placements and run training events. These interactions will also allow us to transport samples, coordinate DNA extractions, and develop our community in connection with Psyche and others. In the immediate future, we are looking forward to planning an in-person meeting to discuss regional sampling, DNA extractions, methods and analyses.\nTo benefit from this funding and attend meetings and workshops organized by this action, you need to be registered to the COST action. You can sign up to 1-3 working groups depending on your interests. You can read more about the action and sign up here: https://www.cost.eu/actions/CA23122/\nWhen applying to join, you will be asked to provide a brief summary of your motivation and how you would contribute to the working group. This does not need to be in depth but including details of what interests you, and what you would like to see planned, will be extremely useful in shaping what we will achieve during the action.\nEarly-career researchers, including students, are particularly encouraged to join as the action will provide exciting opportunities for training, engaging in exchanges and attending meetings. Please feel free to share the invite with your lab members and others that you think would be interested in joining.\nSo, please go and sign-up ASAP (before October 1)."
-  },
-  {
-    "objectID": "specialProjects/winterMoths_NatalievanDis/index.html",
-    "href": "specialProjects/winterMoths_NatalievanDis/index.html",
-    "title": "Sample winter moths (Operophtera brumata) for space-for-time project",
-    "section": "",
-    "text": "I am Natalie van Dis, a junior group leader at the Netherlands Institute of Ecology (NIOO-KNAW), working on drivers and constraints of rapid adaptation to climate change. I am emailing you because I am looking for collaborators to help me sample winter moth (Operophtera brumata) populations across Europe for a new project about space-for-time substitutions.\nI recently pitched this project at the LepEU May 2026 meeting to invite the network to contribute samples. With this email, I would look to formally invite you to join the project."
-  },
-  {
-    "objectID": "specialProjects/winterMoths_NatalievanDis/index.html#the-project-in-short",
-    "href": "specialProjects/winterMoths_NatalievanDis/index.html#the-project-in-short",
-    "title": "Sample winter moths (Operophtera brumata) for space-for-time project",
-    "section": "The project in short",
-    "text": "The project in short\nI have obtained funding to study space-for-time substitutions for the next four years, asking whether populations can adapt to climate change by becoming genetically similar to more southern populations, using the winter moth as my model species. I already have a unique temporal dataset (both phenotypic and genomics) that I have previously collected for four Dutch winter moth populations, capturing their genetic adaptation to climate change. The newly obtained funding covers the additional sequencing of 378 individuals from 18 different populations across Europe, to obtain the spatial data to test whether genetic variation that varies across spatial climate gradients is the same variation that has changed over time in response to climate change."
-  },
-  {
-    "objectID": "specialProjects/winterMoths_NatalievanDis/index.html#what-you-could-help-me-with",
-    "href": "specialProjects/winterMoths_NatalievanDis/index.html#what-you-could-help-me-with",
-    "title": "Sample winter moths (Operophtera brumata) for space-for-time project",
-    "section": "What you could help me with",
-    "text": "What you could help me with\n\nWhat: Sampling of 20-30 females per year of the winter moth, Operophtera brumata (minimum 20 females per year) for phenotyping and genotyping\nWhere: on deciduous oak trees (Quercus spp.) near you\nWhen: late autumn or early winter in 2026 / 2027 / 2028 / 2029 (minimally in one year, but preferably in multiple years)\nHow: with funnel traps (provided by me) or by visiting oak trees after dusk"
-  },
-  {
-    "objectID": "specialProjects/winterMoths_NatalievanDis/index.html#what-i-can-offer-in-return",
-    "href": "specialProjects/winterMoths_NatalievanDis/index.html#what-i-can-offer-in-return",
-    "title": "Sample winter moths (Operophtera brumata) for space-for-time project",
-    "section": "What I can offer in return",
-    "text": "What I can offer in return\n\nCatching materials (traps, tubes, substrate for egg laying) and shipping of samples will be provided and paid for by me\nI will keep you up-to-date about the project, via email and by providing updates at the monthly LepEU online meetings\nI expect to publish at least three manuscripts on this project and offer co-authorship on all papers that use samples that you collected"
-  },
-  {
-    "objectID": "specialProjects/winterMoths_NatalievanDis/index.html#how-to-join",
-    "href": "specialProjects/winterMoths_NatalievanDis/index.html#how-to-join",
-    "title": "Sample winter moths (Operophtera brumata) for space-for-time project",
-    "section": "How to join",
-    "text": "How to join\nI very much hope you are willing to contribute samples to this project! If yes, please fill in this Google form as an expression of interest and I will be in touch to arrange the sampling with you."
-  },
-  {
-    "objectID": "specialProjects/microbiome_arneWeinhold/index.html",
-    "href": "specialProjects/microbiome_arneWeinhold/index.html",
-    "title": "LepEU Pop Gen Workshop (12-16 May 2025, Montpellier, France)",
-    "section": "",
-    "text": "Montpellier, France — LepEU1 (European Lepidopteran Population Genomics Consortium) studies diversity patterns and local adaptation of butterflies and moths over space and time through a comparative population genomics approach. From 12 to 16 May, 21 researchers from across Europe2 convened in Montpellier for the first LepEU Workshop, a meeting dedicated to coordinating collecting efforts and discussing the research goals and future applications in conservation and pest management. The event was supported by the European Cooperation in Science and Technology (COST) Action 10kLepGenomes.\nButterflies are a key study group to showcase the utility of genomic knowledge to understand and protect biodiversity. Butterfly ecology is well documented in research and museums, some species have great economic impact (pollinators and pests), or serve as key bioindicators for conservation. The size of their genomes allow efficient reference genome assembly and population genomics work. They are the target of active citizen science programmes and are powerful for outreach. LepEU aims at leveraging all the merits of butterflies to foster biodiversity research using population genomic approaches.\n\n\n1. Sampling Priorities: Participants agreed to prioritize the completion of sampling of populations across Europe and Whole Genome Sequencing (WGS) for 13 core butterfly species — with top priority on Pieris napi, Anthocharis cardamines, Pararge aegeria, and Maniola jurtina. Meanwhile, sampling of an additional 12 species, including grassland indicators and day-flying moths, will continue throughout the season .\n2. Standardized Protocols: The role of national coordinators was established for each participating country to facilitate specimens’ collection together with local researchers. Shared protocols for sampling, preparation and metadata archiving were adopted to improve standardization and interoperability of generated datasets with other major biodiversity initiatives, such as the Darwin Tree of Life Project (DTOL) and the European Reference Genome Atlas (ERGA).\n3. Hands-On Laboratory Work: During the meeting, and coordinated by Dr.Mathieu Joron (CNRS, France), workshop participants conducted approximately 500 DNA extractions in the Centre d’Ecologie Fonctionnelle et Evolutive laboratories. The samples corresponded to 21 species collected by 15 researchers in 34 localities across 7 European countries. The DNA extractions will be ready for WGS in the coming months, representing a milestone for LepEU.\n\n\n\nLooking to the future, the LepEU consortium outlined an ambitious roadmap:\n\nExpanding Species Coverage: The initiative will now extend to all 17 butterfly species used in the European Grassland Butterfly Indicator, as well as 10 widespread and easily identifiable moth species, thus contributing to the EU Pollinators Initiative.\nGenetic Diversity Monitoring: The project will generate and analyze genomic data necessary to estimate genetic diversity indicators, as required under the 2022 Kunming-Montreal Global Biodiversity Framework.\nTemporal Insights via Museum Samples: A key goal will be to assess changes in genetic diversity over time driven by anthropogenic activities using historical specimens archived at museum collections.\nCapacity Building: A training school focused on analyzing WGS data and targeting early career researchers will be organized in 2026, offering hands-on practice to analyze WGS data for comparative population genomics.\nSecuring Support: The consortium will actively seek funding to support the continued sampling, sequencing, and analysis efforts across Europe.\n\nDr Patrícia Beldade summarized the collective sentiment: \n\n\n“This meeting has strengthened our scientific vision and built the foundations for a lasting collaborative effort. By combining resources, expertise and data, we are paving the way for an unprecedented understanding of butterfly population genomics in Europe.”"
-  },
-  {
-    "objectID": "specialProjects/microbiome_arneWeinhold/index.html#european-scientists-unite-to-advance-butterfly-genomics-for-understanding-and-preserving-biodiversity",
-    "href": "specialProjects/microbiome_arneWeinhold/index.html#european-scientists-unite-to-advance-butterfly-genomics-for-understanding-and-preserving-biodiversity",
-    "title": "LepEU Pop Gen Workshop (12-16 May 2025, Montpellier, France)",
-    "section": "",
-    "text": "Montpellier, France — LepEU1 (European Lepidopteran Population Genomics Consortium) studies diversity patterns and local adaptation of butterflies and moths over space and time through a comparative population genomics approach. From 12 to 16 May, 21 researchers from across Europe2 convened in Montpellier for the first LepEU Workshop, a meeting dedicated to coordinating collecting efforts and discussing the research goals and future applications in conservation and pest management. The event was supported by the European Cooperation in Science and Technology (COST) Action 10kLepGenomes.\nButterflies are a key study group to showcase the utility of genomic knowledge to understand and protect biodiversity. Butterfly ecology is well documented in research and museums, some species have great economic impact (pollinators and pests), or serve as key bioindicators for conservation. The size of their genomes allow efficient reference genome assembly and population genomics work. They are the target of active citizen science programmes and are powerful for outreach. LepEU aims at leveraging all the merits of butterflies to foster biodiversity research using population genomic approaches.\n\n\n1. Sampling Priorities: Participants agreed to prioritize the completion of sampling of populations across Europe and Whole Genome Sequencing (WGS) for 13 core butterfly species — with top priority on Pieris napi, Anthocharis cardamines, Pararge aegeria, and Maniola jurtina. Meanwhile, sampling of an additional 12 species, including grassland indicators and day-flying moths, will continue throughout the season .\n2. Standardized Protocols: The role of national coordinators was established for each participating country to facilitate specimens’ collection together with local researchers. Shared protocols for sampling, preparation and metadata archiving were adopted to improve standardization and interoperability of generated datasets with other major biodiversity initiatives, such as the Darwin Tree of Life Project (DTOL) and the European Reference Genome Atlas (ERGA).\n3. Hands-On Laboratory Work: During the meeting, and coordinated by Dr.Mathieu Joron (CNRS, France), workshop participants conducted approximately 500 DNA extractions in the Centre d’Ecologie Fonctionnelle et Evolutive laboratories. The samples corresponded to 21 species collected by 15 researchers in 34 localities across 7 European countries. The DNA extractions will be ready for WGS in the coming months, representing a milestone for LepEU.\n\n\n\nLooking to the future, the LepEU consortium outlined an ambitious roadmap:\n\nExpanding Species Coverage: The initiative will now extend to all 17 butterfly species used in the European Grassland Butterfly Indicator, as well as 10 widespread and easily identifiable moth species, thus contributing to the EU Pollinators Initiative.\nGenetic Diversity Monitoring: The project will generate and analyze genomic data necessary to estimate genetic diversity indicators, as required under the 2022 Kunming-Montreal Global Biodiversity Framework.\nTemporal Insights via Museum Samples: A key goal will be to assess changes in genetic diversity over time driven by anthropogenic activities using historical specimens archived at museum collections.\nCapacity Building: A training school focused on analyzing WGS data and targeting early career researchers will be organized in 2026, offering hands-on practice to analyze WGS data for comparative population genomics.\nSecuring Support: The consortium will actively seek funding to support the continued sampling, sequencing, and analysis efforts across Europe.\n\nDr Patrícia Beldade summarized the collective sentiment: \n\n\n“This meeting has strengthened our scientific vision and built the foundations for a lasting collaborative effort. By combining resources, expertise and data, we are paving the way for an unprecedented understanding of butterfly population genomics in Europe.”"
-  },
-  {
-    "objectID": "specialProjects/microbiome_arneWeinhold/index.html#footnotes",
-    "href": "specialProjects/microbiome_arneWeinhold/index.html#footnotes",
-    "title": "LepEU Pop Gen Workshop (12-16 May 2025, Montpellier, France)",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThe LepEU Consortium (https://lepeu.github.io/) involves 42 researchers working in 13 countries across Europe. LepEU works closely with Project Psyche (https://www.projectpsyche.org/), which generates chromosome-level genomes of all butterflies and moths in Europe. As such, LepEU complement these efforts with population genomics insights of selected species across Europe.↩︎\nParticipants included researchers working in 10 different countries (Czechia, Finland, France, Germany, Portugal, Spain, Sweden, Switzerland, Turkey, and the United Kingdom), at different career stages, and brought together an equal gender balance (10 women and 11 men), reflecting the collaborative and inclusive spirit of the network.↩︎"
-  },
-  {
-    "objectID": "specialProjects/winterMoths_NatalievanDis/index.html#more-information",
-    "href": "specialProjects/winterMoths_NatalievanDis/index.html#more-information",
-    "title": "Sample winter moths (Operophtera brumata) for space-for-time project",
-    "section": "More information",
-    "text": "More information\nYou can find more information about the project and the sampling procedure in this Google Drive folder. Note that winter moth (O. brumata) samples that meet the sampling requirements are likely to get whole genome sequenced. The obtained sequencing data will be contributed to the LepEU Consortium."
-  },
-  {
-    "objectID": "associatedProjects.html",
-    "href": "associatedProjects.html",
-    "title": "LepEU: European Lepidopteran Population Genomics Consortium",
-    "section": "",
-    "text": "Home\n    Associated Projects\n  \n\nThis page documents projects that are being conducted or led by LepEU members, independently of the main consortium activities, while leveraging the reach of the LepEU network and community.\nYou can read about the projects that are currently being conducted by LepEU members, and find out how to get involved in them!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSample winter moths (Operophtera brumata) for space-for-time project\n\n\nSampling help needed\n\n\n\nNatalie van Dis\n\n\nJun 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nLepEU Pop Gen Workshop (12-16 May 2025, Montpellier, France)\n\n\nPost-Meeting Statement\n\n\n\nPavel Fortunato Matos Maravi, Marta Vila\n\n\nJun 10, 2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "associatedProjects/winterMoths_NatalievanDis/index.html",
-    "href": "associatedProjects/winterMoths_NatalievanDis/index.html",
-    "title": "Sample winter moths (Operophtera brumata) for space-for-time project",
-    "section": "",
-    "text": "I am Natalie van Dis, a junior group leader at the Netherlands Institute of Ecology (NIOO-KNAW), working on drivers and constraints of rapid adaptation to climate change. I am emailing you because I am looking for collaborators to help me sample winter moth (Operophtera brumata) populations across Europe for a new project about space-for-time substitutions.\nI recently pitched this project at the LepEU May 2026 meeting to invite the network to contribute samples. With this email, I would look to formally invite you to join the project."
-  },
-  {
-    "objectID": "associatedProjects/winterMoths_NatalievanDis/index.html#the-project-in-short",
-    "href": "associatedProjects/winterMoths_NatalievanDis/index.html#the-project-in-short",
-    "title": "Sample winter moths (Operophtera brumata) for space-for-time project",
-    "section": "The project in short",
-    "text": "The project in short\nI have obtained funding to study space-for-time substitutions for the next four years, asking whether populations can adapt to climate change by becoming genetically similar to more southern populations, using the winter moth as my model species. I already have a unique temporal dataset (both phenotypic and genomics) that I have previously collected for four Dutch winter moth populations, capturing their genetic adaptation to climate change. The newly obtained funding covers the additional sequencing of 378 individuals from 18 different populations across Europe, to obtain the spatial data to test whether genetic variation that varies across spatial climate gradients is the same variation that has changed over time in response to climate change."
-  },
-  {
-    "objectID": "associatedProjects/winterMoths_NatalievanDis/index.html#what-you-could-help-me-with",
-    "href": "associatedProjects/winterMoths_NatalievanDis/index.html#what-you-could-help-me-with",
-    "title": "Sample winter moths (Operophtera brumata) for space-for-time project",
-    "section": "What you could help me with",
-    "text": "What you could help me with\n\nWhat: Sampling of 20-30 females per year of the winter moth, Operophtera brumata (minimum 20 females per year) for phenotyping and genotyping\nWhere: on deciduous oak trees (Quercus spp.) near you\nWhen: late autumn or early winter in 2026 / 2027 / 2028 / 2029 (minimally in one year, but preferably in multiple years)\nHow: with funnel traps (provided by me) or by visiting oak trees after dusk"
-  },
-  {
-    "objectID": "associatedProjects/winterMoths_NatalievanDis/index.html#what-i-can-offer-in-return",
-    "href": "associatedProjects/winterMoths_NatalievanDis/index.html#what-i-can-offer-in-return",
-    "title": "Sample winter moths (Operophtera brumata) for space-for-time project",
-    "section": "What I can offer in return",
-    "text": "What I can offer in return\n\nCatching materials (traps, tubes, substrate for egg laying) and shipping of samples will be provided and paid for by me\nI will keep you up-to-date about the project, via email and by providing updates at the monthly LepEU online meetings\nI expect to publish at least three manuscripts on this project and offer co-authorship on all papers that use samples that you collected"
-  },
-  {
-    "objectID": "associatedProjects/winterMoths_NatalievanDis/index.html#more-information",
-    "href": "associatedProjects/winterMoths_NatalievanDis/index.html#more-information",
-    "title": "Sample winter moths (Operophtera brumata) for space-for-time project",
-    "section": "More information",
-    "text": "More information\nYou can find more information about the project and the sampling procedure in this Google Drive folder. Note that winter moth (O. brumata) samples that meet the sampling requirements are likely to get whole genome sequenced. The obtained sequencing data will be contributed to the LepEU Consortium."
-  },
-  {
-    "objectID": "associatedProjects/winterMoths_NatalievanDis/index.html#how-to-join",
-    "href": "associatedProjects/winterMoths_NatalievanDis/index.html#how-to-join",
-    "title": "Sample winter moths (Operophtera brumata) for space-for-time project",
-    "section": "How to join",
-    "text": "How to join\nI very much hope you are willing to contribute samples to this project! If yes, please fill in this Google form as an expression of interest and I will be in touch to arrange the sampling with you."
-  },
-  {
-    "objectID": "associatedProjects/microbiome_arneWeinhold/index.html",
-    "href": "associatedProjects/microbiome_arneWeinhold/index.html",
-    "title": "LepEU Pop Gen Workshop (12-16 May 2025, Montpellier, France)",
-    "section": "",
-    "text": "Montpellier, France — LepEU1 (European Lepidopteran Population Genomics Consortium) studies diversity patterns and local adaptation of butterflies and moths over space and time through a comparative population genomics approach. From 12 to 16 May, 21 researchers from across Europe2 convened in Montpellier for the first LepEU Workshop, a meeting dedicated to coordinating collecting efforts and discussing the research goals and future applications in conservation and pest management. The event was supported by the European Cooperation in Science and Technology (COST) Action 10kLepGenomes.\nButterflies are a key study group to showcase the utility of genomic knowledge to understand and protect biodiversity. Butterfly ecology is well documented in research and museums, some species have great economic impact (pollinators and pests), or serve as key bioindicators for conservation. The size of their genomes allow efficient reference genome assembly and population genomics work. They are the target of active citizen science programmes and are powerful for outreach. LepEU aims at leveraging all the merits of butterflies to foster biodiversity research using population genomic approaches.\n\n\n1. Sampling Priorities: Participants agreed to prioritize the completion of sampling of populations across Europe and Whole Genome Sequencing (WGS) for 13 core butterfly species — with top priority on Pieris napi, Anthocharis cardamines, Pararge aegeria, and Maniola jurtina. Meanwhile, sampling of an additional 12 species, including grassland indicators and day-flying moths, will continue throughout the season .\n2. Standardized Protocols: The role of national coordinators was established for each participating country to facilitate specimens’ collection together with local researchers. Shared protocols for sampling, preparation and metadata archiving were adopted to improve standardization and interoperability of generated datasets with other major biodiversity initiatives, such as the Darwin Tree of Life Project (DTOL) and the European Reference Genome Atlas (ERGA).\n3. Hands-On Laboratory Work: During the meeting, and coordinated by Dr.Mathieu Joron (CNRS, France), workshop participants conducted approximately 500 DNA extractions in the Centre d’Ecologie Fonctionnelle et Evolutive laboratories. The samples corresponded to 21 species collected by 15 researchers in 34 localities across 7 European countries. The DNA extractions will be ready for WGS in the coming months, representing a milestone for LepEU.\n\n\n\nLooking to the future, the LepEU consortium outlined an ambitious roadmap:\n\nExpanding Species Coverage: The initiative will now extend to all 17 butterfly species used in the European Grassland Butterfly Indicator, as well as 10 widespread and easily identifiable moth species, thus contributing to the EU Pollinators Initiative.\nGenetic Diversity Monitoring: The project will generate and analyze genomic data necessary to estimate genetic diversity indicators, as required under the 2022 Kunming-Montreal Global Biodiversity Framework.\nTemporal Insights via Museum Samples: A key goal will be to assess changes in genetic diversity over time driven by anthropogenic activities using historical specimens archived at museum collections.\nCapacity Building: A training school focused on analyzing WGS data and targeting early career researchers will be organized in 2026, offering hands-on practice to analyze WGS data for comparative population genomics.\nSecuring Support: The consortium will actively seek funding to support the continued sampling, sequencing, and analysis efforts across Europe.\n\nDr Patrícia Beldade summarized the collective sentiment: \n\n\n“This meeting has strengthened our scientific vision and built the foundations for a lasting collaborative effort. By combining resources, expertise and data, we are paving the way for an unprecedented understanding of butterfly population genomics in Europe.”"
-  },
-  {
-    "objectID": "associatedProjects/microbiome_arneWeinhold/index.html#european-scientists-unite-to-advance-butterfly-genomics-for-understanding-and-preserving-biodiversity",
-    "href": "associatedProjects/microbiome_arneWeinhold/index.html#european-scientists-unite-to-advance-butterfly-genomics-for-understanding-and-preserving-biodiversity",
-    "title": "LepEU Pop Gen Workshop (12-16 May 2025, Montpellier, France)",
-    "section": "",
-    "text": "Montpellier, France — LepEU1 (European Lepidopteran Population Genomics Consortium) studies diversity patterns and local adaptation of butterflies and moths over space and time through a comparative population genomics approach. From 12 to 16 May, 21 researchers from across Europe2 convened in Montpellier for the first LepEU Workshop, a meeting dedicated to coordinating collecting efforts and discussing the research goals and future applications in conservation and pest management. The event was supported by the European Cooperation in Science and Technology (COST) Action 10kLepGenomes.\nButterflies are a key study group to showcase the utility of genomic knowledge to understand and protect biodiversity. Butterfly ecology is well documented in research and museums, some species have great economic impact (pollinators and pests), or serve as key bioindicators for conservation. The size of their genomes allow efficient reference genome assembly and population genomics work. They are the target of active citizen science programmes and are powerful for outreach. LepEU aims at leveraging all the merits of butterflies to foster biodiversity research using population genomic approaches.\n\n\n1. Sampling Priorities: Participants agreed to prioritize the completion of sampling of populations across Europe and Whole Genome Sequencing (WGS) for 13 core butterfly species — with top priority on Pieris napi, Anthocharis cardamines, Pararge aegeria, and Maniola jurtina. Meanwhile, sampling of an additional 12 species, including grassland indicators and day-flying moths, will continue throughout the season .\n2. Standardized Protocols: The role of national coordinators was established for each participating country to facilitate specimens’ collection together with local researchers. Shared protocols for sampling, preparation and metadata archiving were adopted to improve standardization and interoperability of generated datasets with other major biodiversity initiatives, such as the Darwin Tree of Life Project (DTOL) and the European Reference Genome Atlas (ERGA).\n3. Hands-On Laboratory Work: During the meeting, and coordinated by Dr.Mathieu Joron (CNRS, France), workshop participants conducted approximately 500 DNA extractions in the Centre d’Ecologie Fonctionnelle et Evolutive laboratories. The samples corresponded to 21 species collected by 15 researchers in 34 localities across 7 European countries. The DNA extractions will be ready for WGS in the coming months, representing a milestone for LepEU.\n\n\n\nLooking to the future, the LepEU consortium outlined an ambitious roadmap:\n\nExpanding Species Coverage: The initiative will now extend to all 17 butterfly species used in the European Grassland Butterfly Indicator, as well as 10 widespread and easily identifiable moth species, thus contributing to the EU Pollinators Initiative.\nGenetic Diversity Monitoring: The project will generate and analyze genomic data necessary to estimate genetic diversity indicators, as required under the 2022 Kunming-Montreal Global Biodiversity Framework.\nTemporal Insights via Museum Samples: A key goal will be to assess changes in genetic diversity over time driven by anthropogenic activities using historical specimens archived at museum collections.\nCapacity Building: A training school focused on analyzing WGS data and targeting early career researchers will be organized in 2026, offering hands-on practice to analyze WGS data for comparative population genomics.\nSecuring Support: The consortium will actively seek funding to support the continued sampling, sequencing, and analysis efforts across Europe.\n\nDr Patrícia Beldade summarized the collective sentiment: \n\n\n“This meeting has strengthened our scientific vision and built the foundations for a lasting collaborative effort. By combining resources, expertise and data, we are paving the way for an unprecedented understanding of butterfly population genomics in Europe.”"
-  },
-  {
-    "objectID": "associatedProjects/microbiome_arneWeinhold/index.html#footnotes",
-    "href": "associatedProjects/microbiome_arneWeinhold/index.html#footnotes",
-    "title": "LepEU Pop Gen Workshop (12-16 May 2025, Montpellier, France)",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThe LepEU Consortium (https://lepeu.github.io/) involves 42 researchers working in 13 countries across Europe. LepEU works closely with Project Psyche (https://www.projectpsyche.org/), which generates chromosome-level genomes of all butterflies and moths in Europe. As such, LepEU complement these efforts with population genomics insights of selected species across Europe.↩︎\nParticipants included researchers working in 10 different countries (Czechia, Finland, France, Germany, Portugal, Spain, Sweden, Switzerland, Turkey, and the United Kingdom), at different career stages, and brought together an equal gender balance (10 women and 11 men), reflecting the collaborative and inclusive spirit of the network.↩︎"
-  },
-  {
-    "objectID": "publications/articles/beldadeetal2026.html",
-    "href": "publications/articles/beldadeetal2026.html",
-    "title": "LepEU: A Consortium to Study the Population Genomics of Butterflies and Moths Across Europe",
-    "section": "",
-    "text": "Beldade, P., M. Vila, S. Arif, et al. 2026. “LepEU: A Consortium to Study the Population Genomics of Butterflies and Moths Across Europe.” Evolutionary Applications 19, no. 5: e70246. https://doi.org/10.1111/eva.70246."
-  },
-  {
-    "objectID": "publications/articles/beldadeetal2026.html#citation",
-    "href": "publications/articles/beldadeetal2026.html#citation",
-    "title": "LepEU: A Consortium to Study the Population Genomics of Butterflies and Moths Across Europe",
-    "section": "",
-    "text": "Beldade, P., M. Vila, S. Arif, et al. 2026. “LepEU: A Consortium to Study the Population Genomics of Butterflies and Moths Across Europe.” Evolutionary Applications 19, no. 5: e70246. https://doi.org/10.1111/eva.70246."
-  },
-  {
-    "objectID": "publications/articles/beldadeetal2026.html#abstract",
-    "href": "publications/articles/beldadeetal2026.html#abstract",
-    "title": "LepEU: A Consortium to Study the Population Genomics of Butterflies and Moths Across Europe",
-    "section": "Abstract",
-    "text": "Abstract\nLepEU, the European Lepidopteran Population Genomics Consortium, was launched in 2023 to coordinate continental-scale collections and generate population-level genomic data for butterflies and moths across Europe. Its whole-genome resequencing strategy takes advantage of the growing availability of reference genomes for Lepidoptera. LepEU supports scalable, standardized sampling and sequencing to quantify genetic diversity and population resilience. These data will allow addressing long-standing questions about geographic patterns of biodiversity in this iconic clade for evolutionary ecology, while also filling critical gaps in biodiversity monitoring and conservation. The consortium’s first in-person workshop was held in Montpellier (France) in 2025 and was supported by the COST Action 10kLepGenomes. It gathered 23 researchers from 10 countries, including experts in Lepidoptera ecology, evolution, and population genomics. Building on 2 years of video conferencing, the workshop enabled participants to draw a roadmap for trans-continental standardized sampling, isolate DNA of specimens collected during 2024, outline key research questions for LepEU, and discuss an outreach strategy to engage additional stakeholders. LepEU is coordinating with other international networks and consortia to develop a collaborative platform for tracking European lepidopteran biodiversity and evolution. Looking ahead, LepEU is focused on training and mentoring the next generation of scientists, empowering them to integrate genomic analyses with phenotypic and ecological data to address ecological, evolutionary, and conservation questions."
+    "objectID": "associatedProjects/microbiome_arneWeinhold/index.html#how-can-you-help",
+    "href": "associatedProjects/microbiome_arneWeinhold/index.html#how-can-you-help",
+    "title": "Dynamics of microbial enrichment in adult butterflies",
+    "section": "How can you help?",
+    "text": "How can you help?\nI am still looking for Pieris brassicae, ideally repeated sampling across all three generations.\nTarget tissue: Abdomen in 100% EtOH.\nWhat this projects provides for LepEU: Leftover thorax tissues of Pieris rapae and P. napi populations from a temporal gradient with a near weekly resolution."
   }
 ]

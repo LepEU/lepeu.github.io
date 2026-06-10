@@ -4,11 +4,13 @@ description: "Sampling help needed"
 author:
   - name: Natalie van Dis
     affiliation: Netherlands Institute of Ecology (NIOO-KNAW)
+affiliation: Netherlands Institute of Ecology (NIOO-KNAW)
 date: 06-09-2026
+status: active
 #categories: [workshop, training, networking] # self-defined categorie
 #citation: 
 #  url: https://lepeu.github.io/news/2024-09-17-cost_action_signup/ 
-image: liboa.webp
+image: WM_caption.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 

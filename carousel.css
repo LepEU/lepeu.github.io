@@ -14,7 +14,7 @@
   /* margin: 0 auto;            Centers the entire container on the webpage */ 
 
   /* FIXED WINDOW DIMENSIONS */
-  width: 180px;             /* Enforces a strict, unyielding window width */
+  width: 280px;             /* Enforces a strict, unyielding window width */
   height: 100px;            /* Enforces a strict, unyielding window height */
   margin: 0 auto;           /* Centers the fixed box horizontally on your page */
   box-sizing: border-box;
