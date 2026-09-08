@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/pubs.html",
+    "items": [
+      "/publications/articles/beldadeetal2026.html"
+    ]
+  },
+  {
     "listing": "/news.html",
     "items": [
       "/news/2026-03-10-cost-action-signup/index.html",
@@ -12,6 +18,13 @@
     "listing": "/members.html",
     "items": [
       "/members/north/saadarif.html"
+    ]
+  },
+  {
+    "listing": "/associatedProjects.html",
+    "items": [
+      "/associatedProjects/microbiome_arneWeinhold/index.html",
+      "/associatedProjects/winterMoths_NatalievanDis/index.html"
     ]
   }
 ]

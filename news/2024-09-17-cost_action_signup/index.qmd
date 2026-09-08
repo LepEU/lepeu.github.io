@@ -11,6 +11,7 @@ categories: [funding, training, networking] # self-defined categorie
 #citation: 
 #  url: https://lepeu.github.io/news/2024-09-17-cost_action_signup/ 
 image: undraw_connected_world_wuay.png 
+image-alt: "An illustration of a connected world, with people and data points connected across the globe"
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 

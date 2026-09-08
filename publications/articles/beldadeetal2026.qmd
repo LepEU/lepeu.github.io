@@ -1,0 +1,21 @@
+---
+title: "LepEU: A Consortium to Study the Population Genomics of Butterflies and Moths Across Europe"
+type: "article"
+author: "Beldade et al."
+description: "Meeting report of the first in-person workshop of the LepEU consortium, held in Montpellier (France) in 2025."
+year: "2026"
+publication: "Evolutionary Applications"
+doi: "https://doi.org/10.1111/eva.70246"
+github: ""
+toc: false
+#categories:
+---
+
+## Citation
+
+Beldade, P., M. Vila, S. Arif, et al. 2026. “LepEU: A Consortium to Study the Population Genomics of Butterflies and Moths Across Europe.” *Evolutionary Applications* **19**, no. 5: e70246. https://doi.org/10.1111/eva.70246.
+
+
+## Abstract
+
+LepEU, the European Lepidopteran Population Genomics Consortium, was launched in 2023 to coordinate continental-scale collections and generate population-level genomic data for butterflies and moths across Europe. Its whole-genome resequencing strategy takes advantage of the growing availability of reference genomes for Lepidoptera. LepEU supports scalable, standardized sampling and sequencing to quantify genetic diversity and population resilience. These data will allow addressing long-standing questions about geographic patterns of biodiversity in this iconic clade for evolutionary ecology, while also filling critical gaps in biodiversity monitoring and conservation. The consortium's first in-person workshop was held in Montpellier (France) in 2025 and was supported by the COST Action 10kLepGenomes. It gathered 23 researchers from 10 countries, including experts in Lepidoptera ecology, evolution, and population genomics. Building on 2 years of video conferencing, the workshop enabled participants to draw a roadmap for trans-continental standardized sampling, isolate DNA of specimens collected during 2024, outline key research questions for LepEU, and discuss an outreach strategy to engage additional stakeholders. LepEU is coordinating with other international networks and consortia to develop a collaborative platform for tracking European lepidopteran biodiversity and evolution. Looking ahead, LepEU is focused on training and mentoring the next generation of scientists, empowering them to integrate genomic analyses with phenotypic and ecological data to address ecological, evolutionary, and conservation questions.

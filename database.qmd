@@ -25,15 +25,31 @@ include-in-header:
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+    <li class="breadcrumb-item">Resources</li>
     <li class="breadcrumb-item active" aria-current="page">Database Entry</li>
   </ol>
 </nav>
 ```
+## Database Entry Instructions
 
 ::: {.callout-tip}
 ## Can't see the document below?
-If the PDF isn't loading, you can [Download the PDF here](files/how_to_fill_database.pdf){.btn .btn-outline-primary .btn-sm role="button"}
+If the PDF isn't loading, you can [Download the PDF here](files/how_to_fill_database.pdf){.btn .btn-outline-primary .btn-sm role="button" aria-label="Download Database entry instructions PDF"}
 :::
 
-{{< pdf files/how_to_fill_database.pdf width=100% height=600 >}}
+<div style="position: relative; width: 100%; padding-bottom: 75%; 
+            height: 0; overflow: hidden; min-height: 400px;">
+  <iframe 
+    src="files/how_to_fill_database.pdf" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    title="Database entry instructions (PDF)"
+    aria-label="Database entry instructions">
+    <p>Your browser does not support embedded PDFs. 
+       <a href="files/how_to_fill_database.pdf">Download the PDF here</a>.
+    </p>
+  </iframe>
+</div>
+
+
+<!-- {{< pdf files/how_to_fill_database.pdf width=100% height=600 >}} -->
 

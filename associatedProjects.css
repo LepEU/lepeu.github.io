@@ -1,0 +1,19 @@
+.card-other-values {
+  width: fit-content;
+  margin-top: 0.3rem;
+}
+
+/* Hide the Status label */
+.card-other-values td:first-child {
+  display: none;
+}
+
+.card-other-values td.status {
+  padding: 0.15rem 0.6rem;
+  border-radius: 999px;    /* rounded pill shape */
+  font-weight: 600;
+  font-size: 0.75rem;
+  white-space: nowrap;
+  display: inline-block;   /* shrinks to text width */
+  width: auto;
+}

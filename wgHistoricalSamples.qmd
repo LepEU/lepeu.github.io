@@ -26,16 +26,14 @@ include-in-header:
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-    <li class="breadcrumb-item">About</li>
-    <li class="breadcrumb-item active" aria-current="page">Join Us!</li>
+    <li class="breadcrumb-item">Working Groups</li>
+    <li class="breadcrumb-item active" aria-current="page">Historical Samples</li>
   </ol>
 </nav>
 ```
 
 
-## Join Us
+## Historical Samples
 
-If you are interested in butterfly and moth evolutionary dynamics in Europe or elsewhere, you are welcome to join us.
 
-Please email the co-coordinators of LepEU.
 

@@ -11,6 +11,7 @@ categories: [meeting, training, networking] # self-defined categories
 #citation: 
 #  url: https://lepeu.github.io/news/2024-09-17-cost_action_signup/ 
 image: meeting.png 
+image-alt: "A group of people sitting around a table in a meeting room, with laptops and papers in front of them"
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 

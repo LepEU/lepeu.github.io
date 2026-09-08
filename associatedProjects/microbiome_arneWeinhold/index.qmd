@@ -1,0 +1,26 @@
+---
+title: "Dynamics of microbial enrichment in adult butterflies"
+author:
+  - name:  Arne Weinhold
+    affiliation: LMU Munich, Germany
+affiliation: LMU Munich, Germany
+description: " "
+date: 06-10-2026
+#categories: [meeting, training, networking] # self-defined categories
+status: active
+#citation: 
+#  url: https://lepeu.github.io/news/2024-09-17-cost_action_signup/ 
+image: Pbrass_AW.webp
+image-alt:  "A cabbage white butterfly (Pieris brassicae) resting on a leaf"
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+I use cabbage white butterflies (*Pieris* spp.) as a model to investigate how the timing of microbial acquisition shapes microbial community assembly dynamics over time. The goal is to understand microbial enrichment within natural habitats across three adult butterfly generations. The combination of 16S Metabarcoding and ecological modelling will allow to test hypotheses about host-filtering and neutral community assembly on a temporal gradient.
+
+## How can you help? 
+
+I am still looking for Pieris brassicae, ideally repeated sampling across all three generations. 
+
+**Target tissue**: Abdomen in 100% EtOH.
+
+**What this projects provides for LepEU**: Leftover thorax tissues of *Pieris rapae* and *P. napi* populations from a temporal gradient with a near weekly resolution.
