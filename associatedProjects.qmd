@@ -42,7 +42,7 @@ listing:
 
 This page documents projects that are being conducted or led by LepEU members, independently of the [main consortium activities](./index.qmd), while still leveraging the LepEU network and community for help with sampling, funding acquisition and other aspects. These projects may be in various stages of development, and may or may not be directly related to the main goals of LepEU. They are listed here to facilitate collaboration and communication among LepEU members, and to provide a platform for sharing resources and expertise. 
 
-You can read about the projects below, and find out how to get involved in them! If you have a project that you could benefit from the LepEU network, please feel free to contact any of the [LepEU admin](./organisation.qmd).
+You can read about the projects below, and find out how to get involved in them! If you have a project that could benefit from the LepEU network, please feel free to contact any of the [LepEU admin](./organisation.qmd).
 
 ---
 
