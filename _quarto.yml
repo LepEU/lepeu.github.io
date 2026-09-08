@@ -17,18 +17,31 @@ website:
   navbar:
     title: false
     logo: "./images/LepEU transparent.png"
+    logo-href: index.qmd
     left:
-      - href: index.qmd
-        text: Home
-#      - href: members.qmd
-#        text: Members
-      - href: organisation.qmd
-        text: Organisation
-      - href: species.qmd
-        text: Species
+     # - href: index.qmd
+     #   text: Home
+      - text: "About"
+        menu:
+        - href: organisation.qmd
+          text: Organisation
+        - href: species.qmd
+          text: Species  
+        - href: funding.qmd
+          text: Funding
+        - href: contact.qmd
+          text: Join Us!
+      - text: "Working Groups"
+        menu:
+          - href: wgPopulationGenomics.qmd
+            text: Population Genomics
+          - href: wgHistoricalSamples.qmd
+            text: Historical Samples
+          - href: associatedProjects.qmd
+            text: Associated Projects
       - text: Resources
         menu:
-          - text: Data Sharing
+          - text: Data Sharing Policy
             href: datapolicy.qmd 
           - text: Database Entry
             href: database.qmd
@@ -36,14 +49,13 @@ website:
             href: sampling.qmd
           - text: Using Epicollect for Metadata Collection
             href: epicollect.qmd
-      - href: funding.qmd
-        text: Funding
-      - href: pubs.qmd #TODO: make blog post like!
+          - text: Lepidoptera Species Identification
+            href: guides.qmd
+      - href: pubs.qmd 
         text: Publications
       - href: news.qmd
         text: News
-      - href: contact.qmd
-        text: Join Us!
+    
   page-footer:  
     center:
       - text: "Copyright 2026 &copy; LepEU Consortium"
@@ -60,7 +72,10 @@ format:
   html:
     theme: 
       light: cosmo
-    css: styles.css
+    css: 
+      - styles.css
+      - associatedProjects.css
+      - carousel.css
     toc: false
     bootstrap-icons: true
     page-layout: full

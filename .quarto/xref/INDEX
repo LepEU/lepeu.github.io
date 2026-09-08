@@ -76,5 +76,47 @@
   },
   "epicollect.qmd": {
     "epicollect.html": "4c595a67"
+  },
+  "specialProjects/2026-03-10-cost-action-signup/index.qmd": {
+    "index.html": "f5504731"
+  },
+  "specialProjects/2025-06-10-MP-meetingreport/index.qmd": {
+    "index.html": "5968fff0"
+  },
+  "specialProjects/2025-03-14-pop-gen-workshop/index.qmd": {
+    "index.html": "37973d1d"
+  },
+  "specialProjects/2024-09-17-cost_action_signup/index.qmd": {
+    "index.html": "966fc492"
+  },
+  "specialProjects.qmd": {
+    "specialProjects.html": "b4d6e51f"
+  },
+  "specialProjects/winterMoths_NatalievanDis/index.qmd": {
+    "index.html": "62e9f717"
+  },
+  "specialProjects/microbiome_arneWeinhold/index.qmd": {
+    "index.html": "1ab163f5"
+  },
+  "associatedProjects.qmd": {
+    "associatedProjects.html": "f0fb3761"
+  },
+  "associatedProjects/winterMoths_NatalievanDis/index.qmd": {
+    "index.html": "ad47c8b2"
+  },
+  "associatedProjects/microbiome_arneWeinhold/index.qmd": {
+    "index.html": "6487aeb9"
+  },
+  "publications/articles/beldadeetal2026.qmd": {
+    "beldadeetal2026.html": "cf6dc8b1"
+  },
+  "workinggroups.qmd": {
+    "workinggroups.html": "caa21660"
+  },
+  "wgHistoricalSamples.qmd": {
+    "wgHistoricalSamples.html": "b4343d04"
+  },
+  "wgPopulationGenomics.qmd": {
+    "wgPopulationGenomics.html": "34f6cef6"
   }
 }

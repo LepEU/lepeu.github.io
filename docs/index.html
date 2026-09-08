@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.24">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -38,10 +38,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-c0862f0e9908220366ec6b748b8aad15.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-5b4ad623e5705c0698d39aec6f10cf02.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -115,11 +115,21 @@ title-block-header.quarto-title-block.default .quarto-title-meta {
 
 
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="associatedProjects.css">
+<link rel="stylesheet" href="carousel.css">
 <meta property="og:title" content="LepEU: European Lepidopteran Population Genomics Consortium">
 <meta property="og:description" content="">
+<meta property="og:image" content="https://lepeu.github.io/images/psyche_logo.png">
+<meta property="og:image:alt" content="logo for project psyche">
+<meta property="og:image:height" content="814">
+<meta property="og:image:width" content="813">
 <meta name="twitter:title" content="LepEU: European Lepidopteran Population Genomics Consortium">
 <meta name="twitter:description" content="">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://lepeu.github.io/images/psyche_logo.png">
+<meta name="twitter:image:alt" content="logo for project psyche">
+<meta name="twitter:image-height" content="814">
+<meta name="twitter:image-width" content="813">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -140,18 +150,48 @@ title-block-header.quarto-title-block.default .quarto-title-meta {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
-<span class="menu-text">Home</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">About</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="./organisation.html">
+ <span class="dropdown-text">Organisation</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./organisation.html"> 
-<span class="menu-text">Organisation</span></a>
+        <li>
+    <a class="dropdown-item" href="./species.html">
+ <span class="dropdown-text">Species</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./species.html"> 
-<span class="menu-text">Species</span></a>
+        <li>
+    <a class="dropdown-item" href="./funding.html">
+ <span class="dropdown-text">Funding</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./contact.html">
+ <span class="dropdown-text">Join Us!</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-working-groups" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Working Groups</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-working-groups">    
+        <li>
+    <a class="dropdown-item" href="./wgPopulationGenomics.html">
+ <span class="dropdown-text">Population Genomics</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./wgHistoricalSamples.html">
+ <span class="dropdown-text">Historical Samples</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./associatedProjects.html">
+ <span class="dropdown-text">Associated Projects</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Resources</span>
@@ -159,7 +199,7 @@ title-block-header.quarto-title-block.default .quarto-title-meta {
     <ul class="dropdown-menu" aria-labelledby="nav-menu-resources">    
         <li>
     <a class="dropdown-item" href="./datapolicy.html">
- <span class="dropdown-text">Data Sharing</span></a>
+ <span class="dropdown-text">Data Sharing Policy</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./database.html">
@@ -173,12 +213,12 @@ title-block-header.quarto-title-block.default .quarto-title-meta {
     <a class="dropdown-item" href="./epicollect.html">
  <span class="dropdown-text">Using Epicollect for Metadata Collection</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./guides.html">
+ <span class="dropdown-text">Lepidoptera Species Identification</span></a>
+  </li>  
     </ul>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="./funding.html"> 
-<span class="menu-text">Funding</span></a>
-  </li>  
   <li class="nav-item">
     <a class="nav-link" href="./pubs.html"> 
 <span class="menu-text">Publications</span></a>
@@ -186,10 +226,6 @@ title-block-header.quarto-title-block.default .quarto-title-meta {
   <li class="nav-item">
     <a class="nav-link" href="./news.html"> 
 <span class="menu-text">News</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./contact.html"> 
-<span class="menu-text">Join Us!</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -232,6 +268,17 @@ title-block-header.quarto-title-block.default .quarto-title-meta {
 <p>We coordinate the sampling of wild populations of Lepidoptera across Europe. We take the DNA from these individuals to generate whole genome sequencing data of regional populaion samples for each species. Our goal is to conduct continental scale, comparative population genomic analyses of local adaptation, over space and time.</p>
 <p>Insect declines, especially among diverse Lepidoptera, are now well documented. By learning the landscape of evolutionary dynamics for diverse Lepidoptera, LepEU seeks to inform biodiversity management at both the regional and EU level.</p>
 <p>LepEU relies upon the 1000’s of reference genomes that are being generated by <a href="https://www.projectpsyche.org/">Project Psyche</a> and the <a href="https://10klepgenomes.eu/">10kLepGenomes COST Action</a>. We seek to complement these efforts with population genomic insights.</p>
+<div class="logo-slider">
+  <div class="logo-track">
+    <img src="./images/psyche_logo.png" alt="logo for project psyche">
+    <img src="./images/LepEU transparent.png" alt="logo for LepEU">
+    <img src="./images/logo-c.svg" alt="logo for 10Klep">
+    
+    <img src="./images/psyche_logo.png" alt="logo for project psyche">
+    <img src="./images/LepEU transparent.png" alt="logo for LepEU">
+    <img src="./images/logo-c.svg" alt="logo for 10Klep">
+  </div>
+</div>
 
 
 </section>

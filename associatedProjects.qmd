@@ -1,0 +1,62 @@
+---
+title: "LepEU: European Lepidopteran Population Genomics Consortium"
+title-block-banner: "#00000000"
+title-block-banner-color: "#000"
+include-in-header:
+  - text: |
+      <style>
+      title-block-header.quarto-title-block.default .quarto-title-meta {
+        color: #fff;
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 10;
+        opacity: 0;
+      }
+      #title-block-header {
+        background-image: url(./images/imagine1withText.png);
+        background-size: cover;
+        background-position-y: center;
+        height: 250px;
+      }
+      </style>
+listing: 
+  contents: associatedProjects # this name must match the name of the folder you created in step #1; here, all Quarto docs in the `posts` directory will be included on your listing page
+  type: grid # or `default` or `table`; each type has its own set of yaml options to include
+  fields: [image, title, author, affiliation, status]  # add status here
+  field-display-names:
+    status: ""       # controls the label shown on the card
+  sort: "date desc" # can also sort on more than one field
+  categories: false # allows you to sort posts by assigned categories 
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+    <li class="breadcrumb-item">Working Groups</li>
+    <li class="breadcrumb-item active" aria-current="page">Associated Projects</li>
+  </ol>
+</nav>
+```
+## Associated Projects
+
+This page documents projects that are being conducted or led by LepEU members, independently of the [main consortium activities](./index.qmd), while still leveraging the LepEU network and community for help with sampling, funding acquisition and other aspects. These projects may be in various stages of development, and may or may not be directly related to the main goals of LepEU. They are listed here to facilitate collaboration and communication among LepEU members, and to provide a platform for sharing resources and expertise. 
+
+You can read about the projects below, and find out how to get involved in them! If you have a project that you could benefit from the LepEU network, please feel free to contact any of the [LepEU admin](./organisation.qmd).
+
+---
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".card-other-values td.status").forEach(function (td) {
+    const value = td.textContent.trim().toLowerCase();
+    if (value === "active") {
+      td.style.backgroundColor = "#22c55e";
+      td.style.color = "white";
+    } else if (value === "inactive") {
+      td.style.backgroundColor = "#d1d5db";
+      td.style.color = "#374151";
+    }
+  });
+});
+</script>
