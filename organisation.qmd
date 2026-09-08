@@ -85,8 +85,9 @@ LepEU is a network spanning 14 countries and 42 members (which expands to > 100 
 
 ## Infrastructure and data management
 
-- **Web Administrator**: Saad Arif, Oxford Brookes, University, GB.
+- **Web Administrator**: Saad Arif, Oxford Brookes University, GB.
 - **Database Administrator**: Riccardo Poloni,  Université PSL, CNRS, INSERM & MNHN-CNRS-EPHA-SU-UA, FR
+- **Collections Coordinator**: Natalie van Dis, Dept. of Animal Ecology, Netherlands Institute of Ecology (NIOO-KNAW), NL.
 
 ## Lep10K WG4 Members
 
